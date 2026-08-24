@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tintenfunken – Karten-Mockup</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #14101E;
+      color: #DDD8CC;
+      font-family: 'Inter', system-ui, sans-serif;
+      min-height: 100vh;
+      padding: 60px 32px 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 56px;
+    }
+
+    /* ─── Page Header ─────────────────────────────────── */
+    .page-header { text-align: center; }
+
+    .page-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.6rem;
+      font-style: italic;
+      letter-spacing: 0.22em;
+      color: #EDE4D8;
+    }
+
+    .page-sub {
+      margin-top: 8px;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: #555;
+    }
+
+    /* ─── Cards Row ───────────────────────────────────── */
+    .cards-row {
+      display: flex;
+      gap: 72px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .card-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .side-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.22em;
+      color: #555;
+    }
+
+    /* ─── Card Shell ──────────────────────────────────── */
+    /* Physical size: 89 × 140 mm */
+    .card {
+      width: 89mm;
+      height: 140mm;
+      border-radius: 3mm;
+      overflow: hidden;
+      background: #FAF7F2;
+      display: flex;
+      flex-direction: column;
+      box-shadow:
+        0 2px 4px rgba(0,0,0,.35),
+        0 8px 28px rgba(0,0,0,.45),
+        0 28px 64px rgba(0,0,0,.35);
+    }
+
+    /* ─── FRONT ───────────────────────────────────────── */
+    .card-front .top-band {
+      background: var(--accent);
+      padding: 5mm;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-shrink: 0;
+    }
+    .card-front .cat-text {
+      font-size: 0.57rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: rgba(255,255,255,.9);
+    }
+    .card-front .card-id {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 0.58rem;
+      color: rgba(255,255,255,.45);
+    }
+
+    .card-front .title-area {
+      padding: 5mm 5mm 0;
+      flex-shrink: 0;
+    }
+    .card-front .card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #1a1212;
+      line-height: 1;
+    }
+    .card-front .title-rule {
+      margin-top: 9px;
+      height: 2px;
+      width: 30px;
+      background: var(--accent);
+      border-radius: 1px;
+      opacity: .7;
+    }
+
+    .card-front .illustration {
+      flex: 1;
+      overflow: hidden;
+      position: relative;
+    }
+    .card-front .illustration svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .card-front .essence-area {
+      background: var(--accent);
+      padding: 5mm;
+      flex-shrink: 0;
+    }
+    .card-front .essence-text {
+      font-size: 0.69rem;
+      line-height: 1.55;
+      color: rgba(255,255,255,.92);
+      font-style: italic;
+    }
+
+    /* ─── BACK ────────────────────────────────────────── */
+    .card-back .back-header {
+      background: var(--accent);
+      padding: 5mm;
+      flex-shrink: 0;
+    }
+    .card-back .back-cat {
+      font-size: 0.53rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: rgba(255,255,255,.65);
+    }
+    .card-back .back-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: white;
+      margin-top: 1px;
+      line-height: 1.1;
+    }
+
+    .back-body {
+      flex: 1;
+      padding: 5mm;
+      display: flex;
+      flex-direction: column;
+      gap: 3.5mm;
+      overflow: hidden;
+    }
+
+    .field { display: flex; flex-direction: column; gap: 2px; }
+
+    .field-label {
+      font-size: 0.55rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--accent);
+    }
+
+    .field-text {
+      font-size: 0.72rem;
+      line-height: 1.52;
+      color: #2a2420;
+    }
+    .field-text.examples {
+      font-style: italic;
+      color: #5a4e48;
+    }
+
+    .rule {
+      height: 1px;
+      background: #e8e0d4;
+    }
+
+    .pitfall-block {
+      background: #fdf3e2;
+      border-left: 2.5px solid #C07A10;
+      padding: 6px 9px 6px;
+      border-radius: 0 3px 3px 0;
+    }
+    .pitfall-label {
+      font-size: 0.51rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: #9A5A08;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .pitfall-label::before { content: '⚠'; font-size: 0.68rem; }
+    .pitfall-text {
+      font-size: 0.65rem;
+      line-height: 1.46;
+      color: #6a4010;
+      margin-top: 3px;
+    }
+
+    .back-footer {
+      background: #EEE6DA;
+      padding: 5mm;
+      flex-shrink: 0;
+      border-top: 1px solid #DDD4C4;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .pairs-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 7px;
+    }
+    .pairs-lbl {
+      font-size: 0.51rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.13em;
+      color: #999;
+      white-space: nowrap;
+      padding-top: 2px;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 3px;
+    }
+    .tag {
+      background: var(--accent);
+      color: white;
+      font-size: 0.48rem;
+      font-weight: 500;
+      padding: 2px 6px;
+      border-radius: 2px;
+      opacity: .8;
+    }
+
+    .source-text {
+      font-size: 0.49rem;
+      color: #AAA;
+      font-style: italic;
+    }
+
+    /* ─── Category Legend ─────────────────────────────── */
+    .legend { width: 100%; max-width: 780px; }
+
+    .legend-title {
+      font-size: 0.62rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: #444;
+      margin-bottom: 16px;
+      text-align: center;
+    }
+
+    .legend-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 9px 16px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+    }
+
+    .swatch {
+      width: 11px;
+      height: 11px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+
+    .legend-item span {
+      font-size: 0.6rem;
+      color: #AAA;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="page-header">
+    <h1 class="page-title">Tintenfunken</h1>
+    <p class="page-sub">Karten-Mockup · 89 × 140 mm · Beispielkarte: Der Held</p>
+  </header>
+
+  <div class="cards-row">
+
+    <!-- ══════════════════════════════════════
+         VORDERSEITE
+         ══════════════════════════════════════ -->
+    <div class="card-container">
+      <span class="side-label">Vorderseite</span>
+
+      <div class="card card-front" style="--accent: #8C1A6A">
+
+        <div class="top-band">
+          <span class="cat-text">Charakter-Archetyp</span>
+          <span class="card-id">01</span>
+        </div>
+
+        <div class="title-area">
+          <h2 class="card-title">Der Held</h2>
+          <div class="title-rule"></div>
+        </div>
+
+        <!-- SVG illustration for "Der Held" -->
+        <div class="illustration">
+          <svg viewBox="0 0 336 270" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+            <defs>
+              <radialGradient id="skyGlow" cx="50%" cy="30%" r="65%">
+                <stop offset="0%"   stop-color="#b8709a"/>
+                <stop offset="60%"  stop-color="#4a1a40"/>
+                <stop offset="100%" stop-color="#120818"/>
+              </radialGradient>
+              <radialGradient id="starHalo" cx="50%" cy="50%" r="50%">
+                <stop offset="0%"   stop-color="white" stop-opacity=".95"/>
+                <stop offset="50%"  stop-color="white" stop-opacity=".15"/>
+                <stop offset="100%" stop-color="white" stop-opacity="0"/>
+              </radialGradient>
+              <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="b"/>
+                <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+              </filter>
+            </defs>
+
+            <!-- Sky -->
+            <rect width="336" height="270" fill="#120818"/>
+            <ellipse cx="168" cy="78" rx="190" ry="140" fill="url(#skyGlow)" opacity=".65"/>
+
+            <!-- Distant mountain ridge -->
+            <polygon points="0,200 48,158 95,172 138,144 178,160 220,138 260,152 300,140 336,148 336,270 0,270"
+                     fill="#2a1035" opacity=".95"/>
+
+            <!-- Closer foreground hills -->
+            <polygon points="0,235 80,208 155,222 240,202 336,218 336,270 0,270"
+                     fill="#180920"/>
+
+            <!-- Stars (scattered, hand-placed feel) -->
+            <circle cx="18"  cy="22"  r="1.1" fill="white" opacity=".75"/>
+            <circle cx="58"  cy="14"  r=".8"  fill="white" opacity=".6"/>
+            <circle cx="100" cy="36"  r="1.3" fill="white" opacity=".85"/>
+            <circle cx="152" cy="18"  r=".7"  fill="white" opacity=".55"/>
+            <circle cx="205" cy="10"  r="1.0" fill="white" opacity=".7"/>
+            <circle cx="248" cy="30"  r="1.2" fill="white" opacity=".8"/>
+            <circle cx="298" cy="16"  r=".9"  fill="white" opacity=".65"/>
+            <circle cx="318" cy="55"  r=".7"  fill="white" opacity=".45"/>
+            <circle cx="40"  cy="60"  r=".8"  fill="white" opacity=".5"/>
+            <circle cx="282" cy="68"  r=".6"  fill="white" opacity=".4"/>
+
+            <!-- Guiding star / destination glow -->
+            <circle cx="168" cy="62" r="30" fill="white" opacity=".04" filter="url(#glow)"/>
+            <circle cx="168" cy="62" r="18" fill="white" opacity=".07"/>
+            <circle cx="168" cy="62" r="9"  fill="#f4d0e8" opacity=".35"/>
+            <circle cx="168" cy="62" r="4"  fill="white"   opacity=".92"/>
+            <!-- Light rays -->
+            <g stroke="white" stroke-linecap="round" opacity=".3">
+              <line x1="168" y1="42" x2="168" y2="34" stroke-width=".9"/>
+              <line x1="168" y1="82" x2="168" y2="90" stroke-width=".9"/>
+              <line x1="148" y1="62" x2="140" y2="62" stroke-width=".9"/>
+              <line x1="188" y1="62" x2="196" y2="62" stroke-width=".9"/>
+              <line x1="154" y1="48" x2="148" y2="42" stroke-width=".7"/>
+              <line x1="182" y1="48" x2="188" y2="42" stroke-width=".7"/>
+              <line x1="154" y1="76" x2="148" y2="82" stroke-width=".7"/>
+              <line x1="182" y1="76" x2="188" y2="82" stroke-width=".7"/>
+            </g>
+
+            <!-- Road / path of light converging at the star -->
+            <path d="M118,270 Q137,220 150,180 Q160,152 165,110 Q167,85 168,76"
+                  stroke="#c080a8" stroke-width="1.4" fill="none" opacity=".3" stroke-dasharray="4,5"/>
+            <path d="M218,270 Q199,220 186,180 Q176,152 171,110 Q169,85 168,76"
+                  stroke="#c080a8" stroke-width="1.4" fill="none" opacity=".3" stroke-dasharray="4,5"/>
+
+            <!-- Hero silhouette (centered on path, lower third) -->
+            <g transform="translate(150,208)">
+              <!-- Billowing cloak -->
+              <path d="M9,18 L-6,56 Q5,61 18,56 L25,18" fill="#3d1f58"/>
+              <!-- Legs -->
+              <rect x="6"  y="46" width="5" height="13" rx="1" fill="#3d1f58"/>
+              <rect x="13" y="48" width="5" height="11" rx="1" fill="#3d1f58"/>
+              <!-- Body -->
+              <rect x="5" y="20" width="15" height="26" rx="3" fill="#4a2868"/>
+              <!-- Head -->
+              <ellipse cx="13" cy="13" rx="8" ry="9" fill="#3d1f58"/>
+              <!-- Left arm -->
+              <line x1="5"  y1="24" x2="-3" y2="36" stroke="#3d1f58" stroke-width="5" stroke-linecap="round"/>
+              <!-- Sword (raised toward the star) -->
+              <line x1="-3" y1="36" x2="-13" y2="8"  stroke="#d0b0c8" stroke-width="1.7" stroke-linecap="round"/>
+              <line x1="-13" y1="8" x2="-13" y2="1"  stroke="white"   stroke-width="1.1" opacity=".85"/>
+              <!-- Cross-guard -->
+              <line x1="-17" y1="10" x2="-9" y2="10" stroke="#d0b0c8" stroke-width="1.5"/>
+              <!-- Right arm -->
+              <line x1="20" y1="24" x2="28" y2="34"  stroke="#3d1f58" stroke-width="5" stroke-linecap="round"/>
+            </g>
+          </svg>
+        </div>
+
+        <div class="essence-area">
+          <p class="essence-text">Die Figur im Zentrum der Geschichte, die durch die Handlung eine innere Wandlung durchläuft. Er verkörpert das Streben des Lesers nach Bedeutung und Selbstüberwindung.</p>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════
+         RÜCKSEITE
+         ══════════════════════════════════════ -->
+    <div class="card-container">
+      <span class="side-label">Rückseite</span>
+
+      <div class="card card-back" style="--accent: #8C1A6A">
+
+        <div class="back-header">
+          <div class="back-cat">Charakter-Archetyp</div>
+          <div class="back-title">Der Held</div>
+        </div>
+
+        <div class="back-body">
+
+          <div class="field">
+            <div class="field-label">Funktion</div>
+            <p class="field-text">Gibt dem Leser einen emotionalen Ankerpunkt und treibt die Handlung durch aktive Entscheidungen voran. Seine Schwächen erzeugen Konflikt, seine Entwicklung die Befriedigung.</p>
+          </div>
+
+          <div class="rule"></div>
+
+          <div class="field">
+            <div class="field-label">Anwendung</div>
+            <p class="field-text">Was will meine Figur bewusst – und was braucht sie wirklich? Wo weichen diese beiden Dinge voneinander ab?</p>
+          </div>
+
+          <div class="rule"></div>
+
+          <div class="field">
+            <div class="field-label">Beispiele</div>
+            <p class="field-text examples">Frodo Beutlin (Der Herr der Ringe), Luke Skywalker (Star Wars), Katniss Everdeen (Die Tribute von Panem)</p>
+          </div>
+
+          <div class="rule"></div>
+
+          <div class="pitfall-block">
+            <div class="pitfall-label">Fallstrick</div>
+            <p class="pitfall-text">Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar und erzeugt keine emotionale Investition.</p>
+          </div>
+
+        </div>
+
+        <div class="back-footer">
+          <div class="pairs-row">
+            <span class="pairs-lbl">Passt&nbsp;zu</span>
+            <div class="tags">
+              <span class="tag">Die Wunde</span>
+              <span class="tag">Wunsch vs. Bedürfnis</span>
+            </div>
+          </div>
+          <p class="source-text">Quelle: Der Heros in tausend Gestalten, Joseph Campbell</p>
+        </div>
+
+      </div>
+    </div>
+
+  </div><!-- /cards-row -->
+
+  <!-- ─── Category Legend ────────────────────────────── -->
+  <section class="legend">
+    <p class="legend-title">Kategorien &amp; Farbgebung</p>
+    <div class="legend-grid">
+      <div class="legend-item"><div class="swatch" style="background:#8C1A6A"></div><span>Charakter-Archetyp</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#1A3498"></div><span>Plot-Struktur</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#A06800"></div><span>Story-Trope</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#C01818"></div><span>Konfliktart</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#187840"></div><span>Worldbuilding</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#CC5000"></div><span>Pacing &amp; Dynamik</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#0878A0"></div><span>Perspektive</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#4A1890"></div><span>Thema &amp; Motiv</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#704A10"></div><span>Szenen-Handwerk</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#0A9090"></div><span>Dialog</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#509000"></div><span>Charakter-Entwicklung</span></div>
+      <div class="legend-item"><div class="swatch" style="background:#6878B0"></div><span>Setting &amp; Atmosphäre</span></div>
+    </div>
+  </section>
+
+</body>
+</html>
