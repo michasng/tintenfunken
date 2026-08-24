@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Der Held",
+    "prompt": "a lone cloaked figure standing on a hilltop at night, a single bright star on the horizon ahead, winding path of light leading toward it, sweeping dramatic landscape"
+  },
+  {
+    "title": "Der Mentor",
+    "prompt": "an aged hand passing a lit oil lantern to a younger outstretched hand in darkness, warm golden glow illuminating both hands, deep shadows surrounding them"
+  },
+  {
+    "title": "Der Schatten",
+    "prompt": "two identical figures facing each other, one bathed in pale light, the other a dark distorted mirror image, jagged shadows between them"
+  },
+  {
+    "title": "Der Gestaltwandler",
+    "prompt": "a theatrical mask held at arm's length, the face behind it completely different from the mask, both faces partially visible at once"
+  },
+  {
+    "title": "Der Trickster",
+    "prompt": "a jester's cap and bells lying on a chessboard where all the pieces are toppled and scattered, one king still standing upright in chaos"
+  },
+  {
+    "title": "Der Schwellenhüter",
+    "prompt": "an enormous stone archway in darkness, a solitary armored figure standing beneath it with a lowered spear, blinding light visible through the gate"
+  },
+  {
+    "title": "Der Herold",
+    "prompt": "a black raven mid-flight against a stormy sky, a sealed scroll clutched in its talons, lightning illuminating dark clouds behind it"
+  },
+  {
+    "title": "Der Verbündete",
+    "prompt": "two distinct silhouettes walking side by side on a narrow mountain ridge, different heights and shapes, casting parallel shadows"
+  },
+  {
+    "title": "Der Rebell",
+    "prompt": "a single fist bursting through a wall of identical grey bricks, cracks radiating outward, dust and debris suspended in the air"
+  },
+  {
+    "title": "Die Unschuldige",
+    "prompt": "a child's open palm holding a small glowing firefly, soft warm light reflected on delicate fingers, surrounding darkness gentle rather than threatening"
+  },
+  {
+    "title": "Der Herrscher",
+    "prompt": "an ornate throne seen from below at a steep angle, an imposing crown resting on it, long dramatic shadow stretching across a stone floor toward the viewer"
+  },
+  {
+    "title": "Der Weise",
+    "prompt": "an ancient figure seated cross-legged on a mountaintop, stars forming a dense canopy overhead, open book on their lap emitting soft silver light"
+  },
+  {
+    "title": "Der Liebende",
+    "prompt": "two sets of fingertips almost but not quite touching, a glowing thread of light strung between them across dark empty space"
+  },
+  {
+    "title": "Der Schöpfer",
+    "prompt": "a pair of hands pulling a glowing form from swirling darkness, sparks and embers rising, the shape caught between nothing and existence"
+  },
+  {
+    "title": "Der Entdecker",
+    "prompt": "an antique compass resting on an unmapped coastline, uncharted land stretching to a misty horizon, the needle pointing into the unknown"
+  },
+  {
+    "title": "Die Fürsorgerin",
+    "prompt": "a pair of arms curved in a sheltering arc around a small flickering candle flame in a storm, wind bending everything else but the flame protected"
+  },
+  {
+    "title": "Die Heldenreise",
+    "prompt": "a circular path through twelve distinct landscapes—forest, desert, cave, mountain peak, abyss, each stage visible as segments of a glowing ring"
+  },
+  {
+    "title": "3-Akt-Struktur",
+    "prompt": "three stone archways in a row, the first showing dawn light, the second a storm, the third a sunset, seen through a single corridor"
+  },
+  {
+    "title": "Freytags Pyramide",
+    "prompt": "a mountain with a winding path ascending one steep face and descending the other, a single figure at the very peak in silhouette"
+  },
+  {
+    "title": "Save the Cat! Beat Sheet",
+    "prompt": "a black cat perched on a high rooftop ledge in a rainstorm, city lights far below, lightning illuminating clouds above, moment of precarious balance"
+  },
+  {
+    "title": "Sieben-Punkte-Struktur",
+    "prompt": "seven stars connected by lines of light forming a constellation map, some stars brighter than others, drawn on dark parchment"
+  },
+  {
+    "title": "Kishōtenketsu",
+    "prompt": "a teacup and a crescent moon, seemingly unrelated, connected by a single bridge of mist that makes their relationship suddenly inevitable"
+  },
+  {
+    "title": "Story Circle",
+    "prompt": "a serpent forming a perfect circle, biting its own tail, glowing from within, seen from above like a map of a journey"
+  },
+  {
+    "title": "Reise der Heldin",
+    "prompt": "a woman submerged to her waist in dark water, arms raised above the surface reaching upward, light breaking through the water below her"
+  },
+  {
+    "title": "MacGuffin",
+    "prompt": "an ornate locked box with golden light leaking intensely from the keyhole and every seam, three pairs of hands reaching toward it from different directions"
+  },
+  {
+    "title": "Tschechows Gewehr",
+    "prompt": "an old rifle mounted prominently above a fireplace mantel, dramatically lit, surrounded by mundane objects that fade into shadow"
+  },
+  {
+    "title": "Der Auserwählte",
+    "prompt": "a single figure standing in a dark crowd, a narrow column of divine light falling only on them from an unseen source above"
+  },
+  {
+    "title": "Falsche Fährte",
+    "prompt": "muddy footprints leading confidently in one direction across a floor, a second set of barely visible footprints leading the other way almost unnoticed"
+  },
+  {
+    "title": "Der Twist",
+    "prompt": "a mirror reflecting a scene that is completely different from the room in front of it, both images equally sharp and real"
+  },
+  {
+    "title": "Fish out of Water",
+    "prompt": "a fish inside a glass water bubble hovering above a busy cobblestone street, looking down at pedestrians with wide eyes"
+  },
+  {
+    "title": "Enemies to Lovers",
+    "prompt": "two crossed swords whose blades have transformed into intertwining rose stems at their tips, thorns still visible near the hilts"
+  },
+  {
+    "title": "Dreiecksbeziehung",
+    "prompt": "three candle flames arranged in a triangle, the two outer flames leaning toward the central one, wax trails showing their pull"
+  },
+  {
+    "title": "Der Mentorentod",
+    "prompt": "an old carved walking staff leaning against an empty wooden chair by a dying fire, a worn cloak draped over the armrest"
+  },
+  {
+    "title": "Der Verrat",
+    "prompt": "two figures shaking hands in the foreground, one of them concealing a knife behind their back, dramatic side lighting revealing the hidden blade"
+  },
+  {
+    "title": "Coming of Age",
+    "prompt": "a small child's shoe placed beside a worn adult boot in a doorway, threshold between indoor softness and outdoor hardness visible"
+  },
+  {
+    "title": "Der Underdog",
+    "prompt": "a very small figure casting an enormous, heroic shadow on a wall, the shadow vastly larger and more powerful than its source"
+  },
+  {
+    "title": "Die Prophezeiung",
+    "prompt": "an ancient stone tablet partially buried, a single glowing symbol carved into it pulsing with light, surrounding ruins in darkness"
+  },
+  {
+    "title": "Poetische Gerechtigkeit",
+    "prompt": "a perfectly balanced scale in the center of a dark space, one pan holding a glowing golden weight, the other an equal darkness"
+  },
+  {
+    "title": "Der widerwillige Held",
+    "prompt": "a figure standing at a half-open door, one hand on the frame, bright adventure visible beyond, the safe familiar room behind them"
+  },
+  {
+    "title": "Geheime Identität",
+    "prompt": "a half-removed masquerade mask, one eye hidden behind it, one eye fully revealed, identity split perfectly down the center of the face"
+  },
+  {
+    "title": "Figur vs. sich selbst",
+    "prompt": "a figure standing before a cracked mirror that shows five different versions of themselves in the fragments, each fragment a different expression"
+  },
+  {
+    "title": "Figur vs. Figur",
+    "prompt": "two chess kings facing each other across an empty board, all other pieces swept to the floor, the final confrontation"
+  },
+  {
+    "title": "Figur vs. Gesellschaft",
+    "prompt": "a single figure facing a towering wall made entirely of identical grey faces, the figure's back to the viewer, dwarfed but standing firm"
+  },
+  {
+    "title": "Figur vs. Natur",
+    "prompt": "a tiny wooden ship seen from above, completely surrounded by an enormous spiraling storm wave about to close over it"
+  },
+  {
+    "title": "Figur vs. Technologie",
+    "prompt": "an organic human hand and a mechanical metallic hand reaching toward each other across a void, fingertips nearly touching"
+  },
+  {
+    "title": "Figur vs. Übernatürliches",
+    "prompt": "a lone figure facing a swirling vortex of impossible geometry and cold light, their feet planted, hair whipping in the unnatural wind"
+  },
+  {
+    "title": "Figur vs. Schicksal",
+    "prompt": "a figure tangled in glowing silver threads that stretch to an unseen horizon, pulling in every direction, some threads already cut"
+  },
+  {
+    "title": "Hard Magic System",
+    "prompt": "a precise geometric diagram etched in glowing lines on dark stone, every intersection marked with a rune, the whole system mathematically exact"
+  },
+  {
+    "title": "Soft Magic System",
+    "prompt": "swirling luminous mist forming vague, shifting shapes that almost resolve into recognizable forms before dissolving again"
+  },
+  {
+    "title": "Sandersons Erstes Gesetz",
+    "prompt": "an ornate key fitting perfectly into a complex lock, tumblers visibly aligning inside, the mechanism about to turn"
+  },
+  {
+    "title": "Sandersons Zweites Gesetz",
+    "prompt": "a cracked magical artifact, a large shard missing, still faintly glowing—the damage making it clearly more interesting than if it were whole"
+  },
+  {
+    "title": "Sandersons Drittes Gesetz",
+    "prompt": "a massive ancient tree with deep, visible roots, a single small new branch growing from the existing trunk rather than an entirely new tree"
+  },
+  {
+    "title": "Das Eisberg-Prinzip",
+    "prompt": "an iceberg seen in cross-section, the small visible tip above glittering water, the vast submerged body detailed and enormous below"
+  },
+  {
+    "title": "Kultur & Gesellschaft",
+    "prompt": "a densely layered cityscape where different architectural styles stack on top of each other, each layer a different era and class of inhabitants"
+  },
+  {
+    "title": "Ökonomie & Macht",
+    "prompt": "a large scale with a pile of gold coins on one side and a crowd of tiny human figures on the other, perfectly balanced"
+  },
+  {
+    "title": "Technologische Paradigmen",
+    "prompt": "a massive clockwork gear mechanism with green organic vines and roots slowly growing through and around the cogs"
+  },
+  {
+    "title": "In Medias Res",
+    "prompt": "a figure frozen mid-leap between two rooftops, suspended above a dark city, the story clearly already deep in motion"
+  },
+  {
+    "title": "Zeitdruck",
+    "prompt": "an hourglass with only a few grains of sand remaining at the top, the last grains captured mid-fall, extreme close-up"
+  },
+  {
+    "title": "Vorausdeutung",
+    "prompt": "a shadow cast on a wall by an object not yet visible in the scene, the shadow's shape unmistakably significant and ominous"
+  },
+  {
+    "title": "Cliffhanger",
+    "prompt": "a hand gripping the edge of a cliff, knuckles white, the rest of the figure hidden below the frame, rescue or fall both possible"
+  },
+  {
+    "title": "Midpoint-Reversal",
+    "prompt": "a road that forks sharply in the middle, the triumphant direction transforming into a descent, the map rewriting itself"
+  },
+  {
+    "title": "Rückblende",
+    "prompt": "a sepia-toned memory scene contained within a glowing oval bubble, floating inside a darker present-day setting"
+  },
+  {
+    "title": "Slow Burn",
+    "prompt": "a single candle burned down to a short stub, a mountain of solidified wax surrounding it, still burning with a patient steady flame"
+  },
+  {
+    "title": "Ruhepause",
+    "prompt": "a small campfire in deep darkness, a circle of warm amber light containing two figures sitting peacefully, everything beyond the firelight invisible"
+  },
+  {
+    "title": "Unzuverlässiger Erzähler",
+    "prompt": "a cracked mirror showing a version of the room that contradicts several visible details in the actual room, both images equally confident"
+  },
+  {
+    "title": "Tiefer personaler Erzähler",
+    "prompt": "an extreme close-up of a single open eye, inside the iris a complete miniature world rendered in vivid detail"
+  },
+  {
+    "title": "Ich-Erzähler",
+    "prompt": "a view through a keyhole, everything beyond framed and limited by the oval opening, the scene beyond sharp but the peripheral world cut away"
+  },
+  {
+    "title": "Auktorialer Erzähler",
+    "prompt": "a view from directly above, looking down on a miniature city with many tiny figures, a single vast unseen presence implied by the vantage point"
+  },
+  {
+    "title": "Neutraler Erzähler",
+    "prompt": "a rain-streaked window, figures visible inside through the glass, their expressions unreadable from the outside, pure external observation"
+  },
+  {
+    "title": "Multi-POV",
+    "prompt": "a building facade at night with six lit windows, each window showing a completely different scene and perspective on the same street below"
+  },
+  {
+    "title": "Rahmenerzählung",
+    "prompt": "a painting within a painting within a painting, each frame slightly different in style, the innermost scene the most vivid"
+  },
+  {
+    "title": "Bewusstseinsstrom",
+    "prompt": "a river of flowing water that contains words, faces, memories, and objects all dissolving into each other, a continuous turbulent stream"
+  },
+  {
+    "title": "Erzähldistanz",
+    "prompt": "a telescope pointed at a scene, with the same scene visible both through the lens in sharp intimate detail and in wide view around it"
+  },
+  {
+    "title": "Thematische Frage",
+    "prompt": "a large question mark formed from dense smoke or slowly rising embers, glowing at its core, hovering in a dark and open space"
+  },
+  {
+    "title": "Moralische Prämisse",
+    "prompt": "a balance scale in perfect equilibrium, one pan holding a bright sun, the other a crescent moon, both equally weighted"
+  },
+  {
+    "title": "Leitmotiv",
+    "prompt": "the same small red flower appearing four times in a scene—on a windowsill, in a lapel, crushed on the ground, and blooming again in a crack"
+  },
+  {
+    "title": "Symbol",
+    "prompt": "an ordinary wooden chair casting a shadow shaped unmistakably like a throne, the mundane object transformed by its shadow alone"
+  },
+  {
+    "title": "Allegorie",
+    "prompt": "a flock of sheep arranged in the precise formation of a political assembly, debating in a formal chamber designed for humans"
+  },
+  {
+    "title": "Gegen-Thema",
+    "prompt": "two portrait paintings hung side by side on a wall, mirror-image compositions but opposing colors and expressions, each equally compelling"
+  },
+  {
+    "title": "Scene & Sequel",
+    "prompt": "a split image: the left half shows a dramatic action moment with motion blur, the right half shows a still reflective pool of water, mirror-calm"
+  },
+  {
+    "title": "Szenenziel & Hindernisse",
+    "prompt": "a figure and a closed iron door, a narrow beam of light visible beneath it, the figure's hand outstretched toward the handle not yet reached"
+  },
+  {
+    "title": "Wendepunkt der Szene",
+    "prompt": "a coin captured perfectly mid-flip, spinning in the air, both heads and tails simultaneously visible, outcome undetermined"
+  },
+  {
+    "title": "Enthüllung",
+    "prompt": "a heavy velvet curtain being pulled aside by an unseen hand, brilliant light pouring through the widening gap"
+  },
+  {
+    "title": "Spät rein / früh raus",
+    "prompt": "stage lights coming up on a scene already in full motion, the edges of the stage in darkness, the action already at its peak"
+  },
+  {
+    "title": "Doppelfunktion der Szene",
+    "prompt": "a double-exposure photograph layering two distinct scenes perfectly, each image visible through the other, neither diminished"
+  },
+  {
+    "title": "Der Beat",
+    "prompt": "a metronome at the exact moment its arm swings to center, motion lines on either side, the precise beat frozen"
+  },
+  {
+    "title": "Prosa-Rhythmus",
+    "prompt": "a sheet of music with dramatically varying note patterns—dense rapid clusters giving way to sparse long single notes, the rhythm visible as shape"
+  },
+  {
+    "title": "Subtext",
+    "prompt": "two figures in conversation, speech bubbles above them containing polite words, thought bubbles showing something entirely different"
+  },
+  {
+    "title": "Unterschwelliger Konflikt",
+    "prompt": "two people sharing tea at a table, postures rigid and polite, but storm clouds visibly forming in the air directly between them"
+  },
+  {
+    "title": "Figurenstimme",
+    "prompt": "five speech bubbles of completely different shapes, sizes, and textures floating in space, each one unmistakably belonging to a different personality"
+  },
+  {
+    "title": "Das Ungesagte",
+    "prompt": "a figure with an open mouth, a speech bubble present but entirely empty, the most important thing hanging unspoken in the silence"
+  },
+  {
+    "title": "Exposition im Dialog",
+    "prompt": "a figure speaking, a large encyclopedia volume floating open beside them, both the book and the speech saying exactly the same obvious thing"
+  },
+  {
+    "title": "Verbaler Schlagabtausch",
+    "prompt": "two elegant fencing foils clashing in mid-air, sparks flying at the point of contact, the blades bent in perfect opposing arcs"
+  },
+  {
+    "title": "Action Beat",
+    "prompt": "a coffee cup being set down deliberately on a table, mid-motion, a hand releasing it—the gesture weighted with unspoken meaning"
+  },
+  {
+    "title": "Positiver Wandlungsbogen",
+    "prompt": "a chrysalis cracked open, the emerging wing spreading in iridescent detail, the empty husk behind it, transformation mid-completion"
+  },
+  {
+    "title": "Negativer Bogen",
+    "prompt": "a figure walking forward, their shadow progressively darkening and distorting behind them with each implied step, the shadow now monstrous"
+  },
+  {
+    "title": "Flacher Bogen",
+    "prompt": "a solid weathered boulder in the center of a rushing river, water parting and flowing around it, the stone unmoved and unchanged"
+  },
+  {
+    "title": "Wunsch vs. Bedürfnis",
+    "prompt": "a fork in a path at night, one branch glittering and golden and inviting, the other dark and difficult but leading toward a dawn horizon"
+  },
+  {
+    "title": "Einsätze",
+    "prompt": "a tall precarious stack of poker chips on a table edge, one chip already beginning to topple, everything balanced on a single moment"
+  },
+  {
+    "title": "Tragischer Fehler",
+    "prompt": "a magnificent marble column with a single hairline crack running its entire height, lit to make the crack dramatically visible"
+  },
+  {
+    "title": "Die Wunde",
+    "prompt": "a healed scar on skin, visible but old, a single thorn still barely embedded at one end—the past not entirely gone"
+  },
+  {
+    "title": "Die Lüge der Figur",
+    "prompt": "a figure looking into a mirror, their reflection showing them as something fundamentally different—smaller, larger, or otherwise distorted"
+  },
+  {
+    "title": "Kontrastfigur",
+    "prompt": "two silhouettes in identical poses facing opposite directions, one white on black, one black on white, defined entirely by contrast"
+  },
+  {
+    "title": "Innere vs. äußere Reise",
+    "prompt": "a figure walking a physical road, but within their body's outline a second miniature landscape unfolds—a completely different inner journey"
+  },
+  {
+    "title": "Charakterisierung direkt vs. indirekt",
+    "prompt": "an iceberg, the tip labeled with a simple word, the vast submerged mass suggesting everything the word alone could never convey"
+  },
+  {
+    "title": "Setting als Charakter",
+    "prompt": "an ancient manor house at dusk, its two upper windows lit like watchful eyes, the facade unmistakably expressing a personality of its own"
+  },
+  {
+    "title": "Stimmung",
+    "prompt": "a dense autumn fog rolling through bare trees, a single amber streetlamp diffusing its light into the mist, melancholy and beautiful"
+  },
+  {
+    "title": "Ton",
+    "prompt": "a conductor's raised baton at the exact moment before the downbeat, the entire orchestra poised, the tone of everything about to be set"
+  },
+  {
+    "title": "Sinneseindrücke",
+    "prompt": "five objects arranged on a dark surface: a candle, a velvet cloth, a cut lemon, a small bell, a sprig of pine—one for each sense"
+  },
+  {
+    "title": "Naturspiegelung",
+    "prompt": "a turbulent storm sky reflected in a perfectly still lake below, the turmoil above mirrored in the calm surface, both equally real"
+  },
+  {
+    "title": "Sprechendes Detail",
+    "prompt": "a single perfectly lit object in absolute darkness—a worn key, a crumpled letter, or a broken watch—everything else invisible"
+  },
+  {
+    "title": "Genre-Konventionen",
+    "prompt": "a row of books on a shelf, each spine's color and texture immediately signaling its genre, a reader's hand hovering over them deciding"
+  }
+]
