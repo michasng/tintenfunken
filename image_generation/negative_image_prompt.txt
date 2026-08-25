@@ -1,1 +1,0 @@
-border, frame, paper edge, margin, white background, background paper, physical print

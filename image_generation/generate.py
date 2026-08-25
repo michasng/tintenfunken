@@ -19,11 +19,6 @@ def slug(title: str) -> str:
     return s.strip("-")
 
 
-def build_prompt(wrapper: str, individual: str) -> str:
-    collapsed = " ".join(wrapper.split())
-    return collapsed.replace("[individual prompt]", individual)
-
-
 def txt2img(url: str, payload: dict[str, Any]) -> tuple[str, int]:
     data = json.dumps(payload).encode()
     req = request.Request(
@@ -47,6 +42,22 @@ def txt2img(url: str, payload: dict[str, Any]) -> tuple[str, int]:
     return image_b64, actual_seed
 
 
+_THIS_DIR = Path(__file__).parent
+
+URL = "http://127.0.0.1:7860"
+CSV_PATH = _THIS_DIR.parent / "cards.csv"
+OUT_DIR = _THIS_DIR / "images"
+
+WRAPPER_PROMPT = (
+    "dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,\n"
+    "ink wash and etching style, muted palette of deep purples and warm ambers,\n"
+    "no text, no letters, no words, no typography,\n"
+    "continuous composition seamless to the edge"
+)
+
+NEGATIVE_PROMPT = "border, frame, paper edge, margin, white background, background paper, physical print"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Generate card images from cards.csv via the Forge / A1111 txt2img API."
@@ -58,56 +69,15 @@ def main() -> None:
         metavar="ROW",
         help="1-based CSV row numbers to generate (omit to generate all)",
     )
-    parser.add_argument("--url", default="http://127.0.0.1:7860", metavar="URL")
-    parser.add_argument(
-        "--csv",
-        dest="csv_path",
-        default=str(Path(__file__).parent.parent / "cards.csv"),
-        metavar="PATH",
-    )
-    parser.add_argument(
-        "--wrapper",
-        default=str(Path(__file__).parent / "wrapper_image_prompt.txt"),
-        metavar="PATH",
-    )
-    parser.add_argument(
-        "--out",
-        default=str(Path(__file__).parent / "images"),
-        metavar="DIR",
-    )
-    # Optional generation parameters — only sent to the API when explicitly provided.
     parser.add_argument("--seed", type=int, metavar="N")
-    parser.add_argument("--steps", type=int, metavar="N")
-    parser.add_argument("--cfg-scale", type=float, dest="cfg_scale", metavar="F")
-    parser.add_argument("--sampler", metavar="NAME")
-    parser.add_argument("--width", type=int, metavar="PX")
-    parser.add_argument("--height", type=int, metavar="PX")
-    parser.add_argument(
-        "--negative",
-        default=str(Path(__file__).parent / "negative_image_prompt.txt"),
-        metavar="PATH",
-    )
     args = parser.parse_args()
 
-    url: str = args.url
-    csv_path: str = args.csv_path
-    wrapper_path: str = args.wrapper
-    out_dir_str: str = args.out
     row_filter: set[int] = set(args.rows) if args.rows else set()
     seed: int | None = args.seed
-    steps: int | None = args.steps
-    cfg_scale: float | None = args.cfg_scale
-    sampler: str | None = args.sampler
-    width: int | None = args.width
-    height: int | None = args.height
-    negative_path: str = args.negative
 
-    wrapper_text = Path(wrapper_path).read_text(encoding="utf-8")
-    negative_text = Path(negative_path).read_text(encoding="utf-8").strip()
-    out_dir = Path(out_dir_str)
-    out_dir.mkdir(parents=True, exist_ok=True)
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    with open(csv_path, encoding="utf-8", newline="") as f:
+    with open(CSV_PATH, encoding="utf-8", newline="") as f:
         cards: list[dict[str, str]] = list(csv.DictReader(f))
 
     total = len(cards)
@@ -120,32 +90,22 @@ def main() -> None:
 
         card = cards[row_num - 1]
         title: str = card["title"]
-        full_prompt = build_prompt(wrapper_text, card["image_prompt"])
+        full_prompt = ",\n".join([card["image_prompt"], WRAPPER_PROMPT])
 
         payload: dict[str, Any] = {"prompt": full_prompt}
         if seed is not None:
             payload["seed"] = seed
-        if steps is not None:
-            payload["steps"] = steps
-        if cfg_scale is not None:
-            payload["cfg_scale"] = cfg_scale
-        if sampler is not None:
-            payload["sampler_name"] = sampler
-        if width is not None:
-            payload["width"] = width
-        if height is not None:
-            payload["height"] = height
-        if negative_text:
-            payload["negative_prompt"] = negative_text
+        if NEGATIVE_PROMPT:
+            payload["negative_prompt"] = NEGATIVE_PROMPT
 
         label = f"[{row_num}/{total}] {title}"
         print(f"{label} ...", end=" ", flush=True)
 
-        image_b64, actual_seed = txt2img(url, payload)
+        image_b64, actual_seed = txt2img(URL, payload)
 
         name = slug(title)
-        (out_dir / f"{name}.png").write_bytes(base64.b64decode(image_b64))
-        (out_dir / f"{name}.txt").write_text(
+        (OUT_DIR / f"{name}.png").write_bytes(base64.b64decode(image_b64))
+        (OUT_DIR / f"{name}.txt").write_text(
             f"seed: {actual_seed}\nprompt: {full_prompt}\n", encoding="utf-8"
         )
         print(f"done (seed {actual_seed})")
