@@ -48,9 +48,26 @@ URL = "http://127.0.0.1:7860"
 CSV_PATH = _THIS_DIR.parent / "cards.csv"
 OUT_DIR = _THIS_DIR / "images"
 
-WRAPPER_PROMPT = (
+# Matches the category accent colours defined in the card legend (mockup.html)
+CATEGORY_PALETTE: dict[str, str] = {
+    "Archetyp":    "muted palette of deep purples and magentas",
+    "Wandlung":    "muted palette of deep violets and purples",
+    "Struktur":    "muted palette of deep navy blues",
+    "Trope":       "muted palette of rich cobalt blues",
+    "Konflikt":    "muted palette of steel blues and ceruleans",
+    "Tempo":       "muted palette of teals and dark cyans",
+    "Weltenbau":   "muted palette of deep forest greens",
+    "Atmosphäre":  "muted palette of emerald greens",
+    "Perspektive": "muted palette of warm ambers and oranges",
+    "Szene":       "muted palette of deep earthy browns and siennas",
+    "Dialog":      "muted palette of burnt sienna and deep oranges",
+    "Thema":       "muted palette of deep crimsons and dark reds",
+}
+DEFAULT_PALETTE = "muted palette of deep purples"
+
+WRAPPER_PROMPT_TEMPLATE = (
     "dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,\n"
-    "ink wash and etching style, muted palette of deep purples and warm ambers,\n"
+    "ink wash and etching style, {palette},\n"
     "no text, no letters, no words, no typography,\n"
     "continuous composition seamless to the edge"
 )
@@ -90,7 +107,9 @@ def main() -> None:
 
         card = cards[row_num - 1]
         title: str = card["title"]
-        full_prompt = ",\n".join([card["image_prompt"], WRAPPER_PROMPT])
+        palette = CATEGORY_PALETTE.get(card["category"], DEFAULT_PALETTE)
+        wrapper = WRAPPER_PROMPT_TEMPLATE.format(palette=palette)
+        full_prompt = ",\n".join([card["image_prompt"], wrapper])
 
         payload: dict[str, Any] = {"prompt": full_prompt}
         if seed is not None:
