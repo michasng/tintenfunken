@@ -22,117 +22,71 @@ function slug(title) {
     .replace(/^-|-$/g, '');
 }
 
-function el(tag, attrs, ...children) {
-  const node = document.createElement(tag);
-  if (attrs) {
-    for (const [k, v] of Object.entries(attrs)) {
-      if (k === 'class') node.className = v;
-      else node.setAttribute(k, v);
-    }
-  }
-  for (const child of children) {
-    if (child == null) continue;
-    node.append(typeof child === 'string' ? document.createTextNode(child) : child);
-  }
-  return node;
-}
-
 function buildFrontCard(card, index) {
-  const color = CATEGORY_COLORS[card.category] ?? '#555';
+  const template = document.getElementById('card-front-template').content.cloneNode(true);
+  const root = template.querySelector('.card-front');
 
-  const illustration = el('div', { class: 'illustration' });
-  const img = document.createElement('img');
-  img.alt = '';
-  img.addEventListener('error', () => illustration.classList.add('no-image'), { once: true });
+  root.style.setProperty('--accent', CATEGORY_COLORS[card.category] ?? '#555');
+  root.querySelector('[data-field="category"]').textContent = card.category;
+  root.querySelector('[data-field="id"]').textContent = String(index).padStart(2, '0');
+  root.querySelector('[data-field="title"]').textContent = card.title;
+  root.querySelector('[data-field="essence"]').textContent = card.essence;
+  const illustration = root.querySelector('.illustration');
+  const img = root.querySelector('[data-field="img"]');
   img.src = `images/${slug(card.title)}.png`;
-  illustration.append(img);
-
-  return el('div', { class: 'card card-front', style: `--accent:${color}` },
-    el('div', { class: 'top-band' },
-      el('span', { class: 'cat-text' }, card.category),
-      el('span', { class: 'card-id' }, String(index).padStart(2, '0'))
-    ),
-    el('div', { class: 'title-area' },
-      el('h2', { class: 'card-title' }, card.title),
-      el('div', { class: 'title-rule' })
-    ),
-    illustration,
-    el('div', { class: 'essence-area' },
-      el('p', { class: 'essence-text' }, card.essence)
-    )
-  );
+  img.addEventListener('error', () => illustration.classList.add('no-image'), { once: true });
+  return root;
 }
 
 function buildBackCard(card) {
-  const color = CATEGORY_COLORS[card.category] ?? '#555';
+  const template = document.getElementById('card-back-template').content.cloneNode(true);
+  const root = template.querySelector('.card-back');
 
-  const body = el('div', { class: 'back-body' },
-    el('div', { class: 'field' },
-      el('div', { class: 'field-label' }, 'Funktion'),
-      el('p', { class: 'field-text' }, card.function)
-    ),
-    el('div', { class: 'rule' }),
-    el('div', { class: 'field' },
-      el('div', { class: 'field-label' }, 'Anwendung'),
-      el('p', { class: 'field-text' }, card.application)
-    ),
-    el('div', { class: 'rule' }),
-    el('div', { class: 'field' },
-      el('div', { class: 'field-label' }, 'Beispiele'),
-      el('p', { class: 'field-text examples' }, card.example)
-    )
-  );
+  root.style.setProperty('--accent', CATEGORY_COLORS[card.category] ?? '#555');
+  root.querySelector('[data-field="category"]').textContent = card.category;
+  root.querySelector('[data-field="title"]').textContent = card.title;
+  root.querySelector('[data-field="function"]').textContent = card.function;
+  root.querySelector('[data-field="application"]').textContent = card.application;
+  root.querySelector('[data-field="example"]').textContent = card.example;
 
   if (card.pitfall?.trim()) {
-    body.append(
-      el('div', { class: 'rule' }),
-      el('div', { class: 'pitfall-block' },
-        el('div', { class: 'pitfall-label' }, 'Fallstrick'),
-        el('p', { class: 'pitfall-text' }, card.pitfall)
-      )
-    );
+    root.querySelector('[data-field="pitfall"]').textContent = card.pitfall;
+  } else {
+    root.querySelectorAll('[data-optional="pitfall"]').forEach(n => n.remove());
   }
 
-  const footer = el('div', { class: 'back-footer' });
-
   if (card.pairs_with?.trim()) {
-    const tagEls = card.pairs_with
-      .split(',')
-      .map(s => s.trim())
-      .filter(Boolean)
-      .map(t => el('span', { class: 'tag' }, t));
-    footer.append(
-      el('div', { class: 'pairs-row' },
-        el('span', { class: 'pairs-lbl' }, 'Passt\u00A0zu'),
-        el('div', { class: 'tags' }, ...tagEls)
-      )
-    );
+    const tags = root.querySelector('[data-field="tags"]');
+    card.pairs_with.split(',').map(s => s.trim()).filter(Boolean).forEach(t => {
+      const span = document.createElement('span');
+      span.className = 'tag';
+      span.textContent = t;
+      tags.append(span);
+    });
+  } else {
+    root.querySelector('[data-optional="pairs"]').remove();
   }
 
   if (card.source?.trim()) {
-    const parts = card.source.split(';').map(s => s.trim()).filter(Boolean);
-    const sourceEl = el('p', { class: 'source-text' });
-    parts.forEach((part, i) => {
+    const sourceEl = root.querySelector('[data-field="source"]');
+    card.source.split(';').map(s => s.trim()).filter(Boolean).forEach((part, i) => {
       if (i > 0) sourceEl.append(document.createElement('br'));
       sourceEl.append(part);
     });
-    footer.append(sourceEl);
+  } else {
+    root.querySelector('[data-optional="source"]').remove();
   }
 
-  return el('div', { class: 'card card-back', style: `--accent:${color}` },
-    el('div', { class: 'back-header' },
-      el('div', { class: 'back-cat' }, card.category),
-      el('div', { class: 'back-title' }, card.title)
-    ),
-    body,
-    footer
-  );
+  return root;
 }
 
 function buildSheet(slots, type, label) {
-  const sheet = el('div', { class: `sheet ${type}-sheet`, 'data-label': label });
+  const sheet = document.createElement('div');
+  sheet.className = `sheet ${type}-sheet`;
+  sheet.dataset.label = label;
   for (const slot of slots) {
-    const cell = el('div', { class: 'card-cell' });
+    const cell = document.createElement('div');
+    cell.className = 'card-cell';
     if (slot) {
       cell.append(
         type === 'front'
