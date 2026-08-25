@@ -50,29 +50,35 @@ OUT_DIR = _THIS_DIR / "images"
 
 # Matches the category accent colours defined in the card legend (mockup.html)
 CATEGORY_PALETTE: dict[str, str] = {
-    "Archetyp":    "muted palette of deep purples and magentas",
-    "Wandlung":    "muted palette of deep violets and purples",
-    "Struktur":    "muted palette of deep navy blues",
-    "Trope":       "muted palette of rich cobalt blues",
-    "Konflikt":    "muted palette of steel blues and ceruleans",
-    "Tempo":       "muted palette of teals and dark cyans",
-    "Weltenbau":   "muted palette of deep forest greens",
-    "Atmosphäre":  "muted palette of emerald greens",
+    "Archetyp": "muted palette of deep purples and magentas",
+    "Wandlung": "muted palette of deep violets and purples",
+    "Struktur": "muted palette of deep navy blues",
+    "Trope": "muted palette of rich cobalt blues",
+    "Konflikt": "muted palette of steel blues and ceruleans",
+    "Tempo": "muted palette of teals and dark cyans",
+    "Weltenbau": "muted palette of deep forest greens",
+    "Atmosphäre": "muted palette of emerald greens",
     "Perspektive": "muted palette of warm ambers and oranges",
-    "Szene":       "muted palette of deep earthy browns and siennas",
-    "Dialog":      "muted palette of burnt sienna and deep oranges",
-    "Thema":       "muted palette of deep crimsons and dark reds",
+    "Szene": "muted palette of deep earthy browns and siennas",
+    "Dialog": "muted palette of burnt sienna and deep oranges",
+    "Thema": "muted palette of deep crimsons and dark reds",
 }
 DEFAULT_PALETTE = "muted palette of deep purples"
 
-WRAPPER_PROMPT_TEMPLATE = (
-    "dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,\n"
-    "ink wash and etching style, {palette},\n"
-    "no text, no letters, no words, no typography,\n"
-    "continuous composition seamless to the edge"
+WRAPPER_PROMPT_TEMPLATE = ",\n".join(  # noqa: FLY002
+    [
+        "dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric",
+        "ink wash and etching style, {palette}",
+        "continuous composition seamless to the edge",
+    ]
 )
 
-NEGATIVE_PROMPT = "border, frame, paper edge, margin, white background, background paper, physical print"
+NEGATIVE_PROMPT = ",\n".join(  # noqa: FLY002
+    [
+        "text, letters, words, typography",
+        "border, frame, paper edge, margin, white background, background paper, physical print",
+    ]
+)
 
 
 def main() -> None:
