@@ -142,10 +142,6 @@ body {
   overflow: hidden;
 }
 
-.back-sheet .card-cell {
-  overflow: visible;
-  position: relative;
-}
 
 /* ── Card Shell ────────────────────────────────────────────── */
 
@@ -160,15 +156,6 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
 }
 
-/* Back cards bleed 1.5 mm beyond the cut line on every side */
-.back-sheet .card {
-  position: absolute;
-  top: -1.5mm;
-  left: -1.5mm;
-  width: 92mm;
-  height: 143mm;
-  border-radius: 0;
-}
 
 /* ── Front Card ────────────────────────────────────────────── */
 
