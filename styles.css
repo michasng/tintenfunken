@@ -184,6 +184,7 @@ body {
 }
 
 .card-front .title-area {
+  height: 17mm;
   padding: 5mm 5mm 0;
   flex-shrink: 0;
 }
@@ -194,6 +195,7 @@ body {
   font-weight: 700;
   color: #1a1212;
   line-height: 1.05;
+  white-space: nowrap;
 }
 
 .card-front .title-rule {
@@ -250,6 +252,7 @@ body.hide-images .card-front .illustration img {
 
 .card-back .back-header {
   background: var(--accent);
+  height: 19mm;
   padding: 5mm;
   flex-shrink: 0;
 }
@@ -269,6 +272,7 @@ body.hide-images .card-front .illustration img {
   color: white;
   margin-top: 1px;
   line-height: 1.1;
+  white-space: nowrap;
 }
 
 .back-body {

@@ -13,6 +13,13 @@ const CATEGORY_COLORS = {
   'Thema':       '#8f1111',
 };
 
+function fitText(element) {
+  element.style.fontSize = '';
+  while (element.scrollWidth > element.clientWidth && parseFloat(getComputedStyle(element).fontSize) > 8) {
+    element.style.fontSize = (parseFloat(getComputedStyle(element).fontSize) - 0.5) + 'px';
+  }
+}
+
 function slug(title) {
   return title
     .toLowerCase()
@@ -130,28 +137,31 @@ function render(cards, duplexMode, flipEdge) {
         buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`)
       );
     }
-    return;
+  } else {
+    for (let i = 0; i < n; i++) {
+      container.append(
+        buildSheet(padTo4(chunks[i]), 'front', `Vorderseite ${i + 1} / ${n}`)
+      );
+    }
+
+    const divider = document.createElement('div');
+    divider.className = 'divider';
+    divider.innerHTML = `
+      <strong>Rückseiten einlegen</strong>
+      <p>Den bedruckten Stapel (${n}&nbsp;Seite${n !== 1 ? 'n' : ''}) aus dem Ausgabefach nehmen und in den Einzug legen.</p>
+      <p>Lange Kante: Stapel links–rechts wenden &nbsp;·&nbsp; Kurze Kante: Stapel oben–unten wenden</p>
+    `;
+    container.append(divider);
+
+    for (let i = n - 1; i >= 0; i--) {
+      container.append(
+        buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`)
+      );
+    }
   }
 
-  for (let i = 0; i < n; i++) {
-    container.append(
-      buildSheet(padTo4(chunks[i]), 'front', `Vorderseite ${i + 1} / ${n}`)
-    );
-  }
-
-  const divider = document.createElement('div');
-  divider.className = 'divider';
-  divider.innerHTML = `
-    <strong>Rückseiten einlegen</strong>
-    <p>Den bedruckten Stapel (${n}&nbsp;Seite${n !== 1 ? 'n' : ''}) aus dem Ausgabefach nehmen und in den Einzug legen.</p>
-    <p>Lange Kante: Stapel links–rechts wenden &nbsp;·&nbsp; Kurze Kante: Stapel oben–unten wenden</p>
-  `;
-  container.append(divider);
-
-  for (let i = n - 1; i >= 0; i--) {
-    container.append(
-      buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`)
-    );
+  for (const element of container.querySelectorAll('.card-title, .back-title')) {
+    fitText(element);
   }
 }
 
@@ -160,7 +170,7 @@ async function init() {
   const text = await response.text();
   const { data } = Papa.parse(text, { header: true, skipEmptyLines: true });
 
-  function update() {
+  async function update() {
     render(
       data,
       document.getElementById('duplexMode').value,
@@ -176,6 +186,11 @@ async function init() {
   document.getElementById('printButton').addEventListener('click', () => window.print());
 
   update();
+  // re-run after webfonts load; initial pass uses fallback font metrics
+  await document.fonts.ready;
+  for (const element of document.querySelectorAll('.card-title, .back-title')) {
+    fitText(element);
+  }
 }
 
 init();
