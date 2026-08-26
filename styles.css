@@ -235,7 +235,7 @@ body.hide-images .card-front .illustration img {
   background: var(--accent);
   padding: 5mm;
   flex-shrink: 0;
-height: 33mm;
+  height: 33mm;
   overflow: hidden;
 }
 
@@ -350,7 +350,10 @@ height: 33mm;
   border-top: 1px solid #DDD4C4;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   gap: 4px;
+  height: 19mm;
+  overflow: hidden;
 }
 
 .pairs-row {
