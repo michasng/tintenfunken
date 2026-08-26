@@ -52,27 +52,29 @@ function buildBackCard(card) {
   if (card.pitfall?.trim()) {
     root.querySelector('[data-field="pitfall"]').textContent = card.pitfall;
   } else {
-    root.querySelectorAll('[data-optional="pitfall"]').forEach(n => n.remove());
+    for (const n of root.querySelectorAll('[data-optional="pitfall"]')) n.remove();
   }
 
   if (card.pairs_with?.trim()) {
     const tags = root.querySelector('[data-field="tags"]');
-    card.pairs_with.split(',').map(s => s.trim()).filter(Boolean).forEach(t => {
+    for (const t of card.pairs_with.split(',').map(s => s.trim()).filter(Boolean)) {
       const span = document.createElement('span');
       span.className = 'tag';
       span.textContent = t;
       tags.append(span);
-    });
+    }
   } else {
     root.querySelector('[data-optional="pairs"]').remove();
   }
 
   if (card.source?.trim()) {
     const sourceEl = root.querySelector('[data-field="source"]');
-    card.source.split(';').map(s => s.trim()).filter(Boolean).forEach((part, i) => {
-      if (i > 0) sourceEl.append(document.createElement('br'));
+    let sourceIdx = 0;
+    for (const part of card.source.split(';').map(s => s.trim()).filter(Boolean)) {
+      if (sourceIdx > 0) sourceEl.append(document.createElement('br'));
       sourceEl.append(part);
-    });
+      sourceIdx++;
+    }
   } else {
     root.querySelector('[data-optional="source"]').remove();
   }
