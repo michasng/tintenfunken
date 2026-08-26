@@ -40,7 +40,7 @@ body {
   gap: 7px;
 }
 
-.ctrl-label {
+.control-label {
   font-size: 0.7rem;
   color: #777;
   white-space: nowrap;
@@ -71,7 +71,7 @@ body {
   color: #777;
 }
 
-#printBtn {
+#printButton {
   font-family: inherit;
   font-size: 0.7rem;
   font-weight: 600;
@@ -85,7 +85,7 @@ body {
   margin-left: auto;
 }
 
-#printBtn:hover {
+#printButton:hover {
   background: #a82080;
 }
 
@@ -168,7 +168,7 @@ body {
   flex-shrink: 0;
 }
 
-.card-front .cat-text {
+.card-front .category-text {
   font-size: 0.57rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -254,7 +254,7 @@ body.hide-images .card-front .illustration img {
   flex-shrink: 0;
 }
 
-.card-back .back-cat {
+.card-back .back-category {
   font-size: 0.53rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -362,7 +362,7 @@ body.hide-images .card-front .illustration img {
   gap: 6px;
 }
 
-.pairs-lbl {
+.pairs-label {
   font-size: 0.51rem;
   font-weight: 700;
   text-transform: uppercase;

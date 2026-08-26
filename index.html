@@ -13,14 +13,14 @@
   <nav class="controls">
     <span class="brand">Tintenfunken</span>
     <div class="control-group">
-      <span class="ctrl-label">Duplex</span>
+      <span class="control-label">Duplex</span>
       <select id="duplexMode">
         <option value="manual">Manuell</option>
         <option value="auto">Automatisch</option>
       </select>
     </div>
     <div class="control-group">
-      <span class="ctrl-label">Wendeseite</span>
+      <span class="control-label">Wendeseite</span>
       <select id="flipEdge">
         <option value="long">Lange Kante</option>
         <option value="short">Kurze Kante</option>
@@ -30,14 +30,14 @@
       <input type="checkbox" id="showImages" checked>
       <span>Bilder</span>
     </label>
-    <button id="printBtn">Drucken</button>
+    <button id="printButton">Drucken</button>
   </nav>
   <main id="sheets"></main>
 
   <template id="card-front-template">
     <div class="card card-front">
       <div class="top-band">
-        <span class="cat-text" data-field="category"></span>
+        <span class="category-text" data-field="category"></span>
         <span class="card-id" data-field="id"></span>
       </div>
       <div class="title-area">
@@ -56,7 +56,7 @@
   <template id="card-back-template">
     <div class="card card-back">
       <div class="back-header">
-        <div class="back-cat" data-field="category"></div>
+        <div class="back-category" data-field="category"></div>
         <div class="back-title" data-field="title"></div>
       </div>
       <div class="back-body">
@@ -83,7 +83,7 @@
       </div>
       <div class="back-footer">
         <div class="pairs-row" data-optional="pairs">
-          <span class="pairs-lbl">Passt&nbsp;zu</span>
+          <span class="pairs-label">Passt&nbsp;zu</span>
           <div class="tags" data-field="tags"></div>
         </div>
         <p class="source-text" data-optional="source" data-field="source"></p>

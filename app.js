@@ -68,12 +68,12 @@ function buildBackCard(card) {
   }
 
   if (card.source?.trim()) {
-    const sourceEl = root.querySelector('[data-field="source"]');
-    let sourceIdx = 0;
+    const sourceElement = root.querySelector('[data-field="source"]');
+    let sourceIndex = 0;
     for (const part of card.source.split(';').map(s => s.trim()).filter(Boolean)) {
-      if (sourceIdx > 0) sourceEl.append(document.createElement('br'));
-      sourceEl.append(part);
-      sourceIdx++;
+      if (sourceIndex > 0) sourceElement.append(document.createElement('br'));
+      sourceElement.append(part);
+      sourceIndex++;
     }
   } else {
     root.querySelector('[data-optional="source"]').remove();
@@ -173,7 +173,7 @@ async function init() {
   document.getElementById('showImages').addEventListener('change', e => {
     document.body.classList.toggle('hide-images', !e.target.checked);
   });
-  document.getElementById('printBtn').addEventListener('click', () => window.print());
+  document.getElementById('printButton').addEventListener('click', () => window.print());
 
   update();
 }
