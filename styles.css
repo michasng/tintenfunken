@@ -235,6 +235,8 @@ body.hide-images .card-front .illustration img {
   background: var(--accent);
   padding: 5mm;
   flex-shrink: 0;
+height: 33mm;
+  overflow: hidden;
 }
 
 .card-front .essence-text {
