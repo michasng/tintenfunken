@@ -324,27 +324,16 @@ body.hide-images .card-front .illustration img {
   flex-shrink: 0;
 }
 
-.pitfall-label {
-  font-size: 0.51rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: #9A5A08;
-  display: flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.pitfall-label::before {
-  content: '⚠';
-  font-size: 0.66rem;
-}
-
 .pitfall-text {
   font-size: 0.65rem;
   line-height: 1.46;
   color: #6a4010;
-  margin-top: 3px;
+}
+
+.pitfall-text::before {
+  content: '⚠ ';
+  font-size: 0.66rem;
+  color: #9A5A08;
 }
 
 .back-footer {
