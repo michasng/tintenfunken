@@ -48,6 +48,12 @@ URL = "http://127.0.0.1:7860"
 CSV_PATH = _THIS_DIR.parent / "cards.csv"
 OUT_DIR = _THIS_DIR / "images"
 
+# FLUX.1 [schnell] — CFG must be 1; higher values cause blurry output
+STEPS = 4
+CFG_SCALE = 1
+SAMPLER = "Euler"
+SCHEDULER = "Simple"
+
 # Matches the category accent colours defined in the card legend (mockup.html)
 CATEGORY_PALETTE: dict[str, str] = {
     "Archetyp": "muted palette of deep purples and magentas",
@@ -117,7 +123,13 @@ def main() -> None:
         wrapper = WRAPPER_PROMPT_TEMPLATE.format(palette=palette)
         full_prompt = ",\n".join([card["image_prompt"], wrapper])
 
-        payload: dict[str, Any] = {"prompt": full_prompt}
+        payload: dict[str, Any] = {
+            "prompt": full_prompt,
+            "steps": STEPS,
+            "cfg_scale": CFG_SCALE,
+            "sampler_name": SAMPLER,
+            "scheduler": SCHEDULER,
+        }
         if seed is not None:
             payload["seed"] = seed
         if NEGATIVE_PROMPT:
