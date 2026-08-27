@@ -426,6 +426,8 @@ body.hide-images .card-front .illustration img {
 @media print {
   body {
     background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
   .controls,
