@@ -13,13 +13,20 @@
   <nav class="controls">
     <span class="brand">Tintenfunken</span>
     <div class="control-group">
+      <span class="control-label">Ansicht</span>
+      <select id="viewMode">
+        <option value="preview">Vorschau</option>
+        <option value="print">Druck</option>
+      </select>
+    </div>
+    <div class="control-group print-only">
       <span class="control-label">Duplex</span>
       <select id="duplexMode">
         <option value="manual">Manuell</option>
         <option value="auto">Automatisch</option>
       </select>
     </div>
-    <div class="control-group">
+    <div class="control-group print-only">
       <span class="control-label">Wendeseite</span>
       <select id="flipEdge">
         <option value="long">Lange Kante</option>
@@ -30,9 +37,19 @@
       <input type="checkbox" id="showImages" checked>
       <span>Bilder</span>
     </label>
-    <button id="printButton">Drucken</button>
+    <button id="printButton" class="print-only">Drucken</button>
   </nav>
-  <main id="sheets"></main>
+  <main id="sheets" hidden></main>
+
+  <section id="preview" class="preview">
+    <div class="preview-stage"></div>
+    <div class="preview-nav">
+      <button type="button" class="preview-previous">Zurück</button>
+      <span class="preview-counter"></span>
+      <button type="button" class="preview-next">Weiter</button>
+    </div>
+    <p class="preview-hint">Karte anklicken zum Wenden</p>
+  </section>
 
   <template id="card-front-template">
     <div class="card card-front">

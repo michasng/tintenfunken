@@ -89,6 +89,58 @@ function buildBackCard(card) {
   return root;
 }
 
+function buildPreviewCard(card, index) {
+  const previewCard = document.createElement('div');
+  previewCard.className = 'preview-card';
+
+  const inner = document.createElement('div');
+  inner.className = 'preview-card-inner';
+
+  const front = document.createElement('div');
+  front.className = 'preview-face preview-face-front';
+  front.append(buildFrontCard(card, index));
+
+  const back = document.createElement('div');
+  back.className = 'preview-face preview-face-back';
+  back.append(buildBackCard(card));
+
+  inner.append(front, back);
+  previewCard.append(inner);
+  return previewCard;
+}
+
+function createPreview(cards) {
+  const stage = document.querySelector('.preview-stage');
+  const counter = document.querySelector('.preview-counter');
+  const previousButton = document.querySelector('.preview-previous');
+  const nextButton = document.querySelector('.preview-next');
+  let currentIndex = 0;
+
+  function showCurrentCard() {
+    stage.replaceChildren(buildPreviewCard(cards[currentIndex], currentIndex + 1));
+    counter.textContent = `${currentIndex + 1} / ${cards.length}`;
+    previousButton.disabled = currentIndex === 0;
+    nextButton.disabled = currentIndex === cards.length - 1;
+    for (const element of stage.querySelectorAll('.card-title, .back-title')) {
+      fitText(element);
+    }
+  }
+
+  function goToCard(nextIndex) {
+    if (nextIndex < 0 || nextIndex >= cards.length) return;
+    currentIndex = nextIndex;
+    showCurrentCard();
+  }
+
+  stage.addEventListener('click', () => {
+    stage.querySelector('.preview-card-inner')?.classList.toggle('flipped');
+  });
+  previousButton.addEventListener('click', () => goToCard(currentIndex - 1));
+  nextButton.addEventListener('click', () => goToCard(currentIndex + 1));
+
+  return { show: showCurrentCard };
+}
+
 function buildSheet(slots, type, label) {
   const sheet = document.createElement('div');
   sheet.className = `sheet ${type}-sheet`;
@@ -170,7 +222,12 @@ async function init() {
   const text = await response.text();
   const { data } = Papa.parse(text, { header: true, skipEmptyLines: true });
 
-  async function update() {
+  const sheets = document.getElementById('sheets');
+  const preview = document.getElementById('preview');
+  const viewMode = document.getElementById('viewMode');
+  const previewController = createPreview(data);
+
+  function renderPrint() {
     render(
       data,
       document.getElementById('duplexMode').value,
@@ -178,14 +235,27 @@ async function init() {
     );
   }
 
-  document.getElementById('duplexMode').addEventListener('change', update);
-  document.getElementById('flipEdge').addEventListener('change', update);
-  document.getElementById('showImages').addEventListener('change', e => {
-    document.body.classList.toggle('hide-images', !e.target.checked);
+  function applyViewMode() {
+    const isPreview = viewMode.value === 'preview';
+    document.body.classList.toggle('preview-active', isPreview);
+    preview.hidden = !isPreview;
+    sheets.hidden = isPreview;
+    if (isPreview) {
+      previewController.show();
+    } else {
+      renderPrint();
+    }
+  }
+
+  viewMode.addEventListener('change', applyViewMode);
+  document.getElementById('duplexMode').addEventListener('change', renderPrint);
+  document.getElementById('flipEdge').addEventListener('change', renderPrint);
+  document.getElementById('showImages').addEventListener('change', event => {
+    document.body.classList.toggle('hide-images', !event.target.checked);
   });
   document.getElementById('printButton').addEventListener('click', () => window.print());
 
-  update();
+  applyViewMode();
   // re-run after webfonts load; initial pass uses fallback font metrics
   await document.fonts.ready;
   for (const element of document.querySelectorAll('.card-title, .back-title')) {
