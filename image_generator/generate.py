@@ -73,7 +73,7 @@ DEFAULT_PALETTE = "muted palette of deep purples"
 
 WRAPPER_PROMPT_TEMPLATE = ",\n".join(  # noqa: FLY002
     [
-        "dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric",
+        "dark literary fantasy illustration, chiaroscuro lighting, atmospheric",
         "ink wash and etching style, {palette}",
         "continuous composition seamless to the edge",
     ]
