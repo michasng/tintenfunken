@@ -109,6 +109,7 @@ body {
   display: grid;
   grid-template-columns: 89mm 89mm;
   grid-template-rows: 140mm 140mm;
+  gap: 5mm;
   align-content: center;
   justify-content: center;
   break-after: page;
