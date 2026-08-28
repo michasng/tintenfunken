@@ -81,7 +81,7 @@ WRAPPER_PROMPT_TEMPLATE = ",\n".join(  # noqa: FLY002
 
 NEGATIVE_PROMPT = ",\n".join(  # noqa: FLY002
     [
-        "text, letters, words, typography",
+        "text, letters, words, typography, signature",
         "border, frame, paper edge, margin, white background, background paper, physical print",
     ]
 )
