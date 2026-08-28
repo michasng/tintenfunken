@@ -251,6 +251,19 @@ body.hide-images .card-front .illustration img {
 
 /* ── Back Card ─────────────────────────────────────────────── */
 
+/* bleed: background colors extend past the card edge */
+.back-sheet .card-cell {
+  position: relative;
+  overflow: visible;
+}
+
+.card-back {
+  position: absolute;
+  inset: -2.5mm;
+  width: auto;
+  height: auto;
+}
+
 .card-back .back-header {
   background: var(--accent);
   height: 19mm;
