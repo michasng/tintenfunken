@@ -1,0 +1,5 @@
+seed: 3207421201
+prompt: a small campfire glowing in deep darkness, two figures resting,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of teals and dark cyans,
+continuous composition seamless to the edge

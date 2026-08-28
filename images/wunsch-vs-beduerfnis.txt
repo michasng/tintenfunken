@@ -1,0 +1,5 @@
+seed: 977377368
+prompt: a night path forking—one branch bright and easy, one dark toward dawn,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep violets and purples,
+continuous composition seamless to the edge

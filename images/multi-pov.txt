@@ -1,0 +1,5 @@
+seed: 2386635443
+prompt: a building facade at night, each lit window showing a different scene,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of warm ambers and oranges,
+continuous composition seamless to the edge

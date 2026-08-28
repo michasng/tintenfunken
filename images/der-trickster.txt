@@ -1,0 +1,5 @@
+seed: 2262008440
+prompt: a jester's cap on a chessboard of toppled pieces, one king still standing,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

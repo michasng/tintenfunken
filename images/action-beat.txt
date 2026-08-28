@@ -1,0 +1,5 @@
+seed: 3817785990
+prompt: a coffee cup settling onto a table mid-motion, liquid rippling,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of burnt sienna and deep oranges,
+continuous composition seamless to the edge

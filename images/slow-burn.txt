@@ -1,0 +1,5 @@
+seed: 3875685459
+prompt: a candle burned to a stub amid a mountain of wax, still burning,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of teals and dark cyans,
+continuous composition seamless to the edge

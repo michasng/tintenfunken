@@ -1,0 +1,5 @@
+seed: 2563374550
+prompt: five speech bubbles of completely different shapes and textures,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of burnt sienna and deep oranges,
+continuous composition seamless to the edge

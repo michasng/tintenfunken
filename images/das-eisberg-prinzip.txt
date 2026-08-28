@@ -1,0 +1,5 @@
+seed: 2853344529
+prompt: an iceberg in cross-section, small tip above, vast body below,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep earthy browns and siennas,
+continuous composition seamless to the edge

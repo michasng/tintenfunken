@@ -1,0 +1,5 @@
+seed: 2779577199
+prompt: an antique compass on the edge of an unmapped coastline,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

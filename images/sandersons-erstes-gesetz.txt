@@ -1,0 +1,5 @@
+seed: 4043185736
+prompt: an ornate key sliding into a complex lock, tumblers aligning,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

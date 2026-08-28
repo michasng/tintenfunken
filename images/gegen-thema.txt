@@ -1,0 +1,5 @@
+seed: 2349124865
+prompt: two mirror-image portraits side by side in opposing colors,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep crimsons and dark reds,
+continuous composition seamless to the edge

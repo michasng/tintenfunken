@@ -1,0 +1,5 @@
+seed: 3671073246
+prompt: a figure hesitating at a half-open door, bright adventure beyond,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

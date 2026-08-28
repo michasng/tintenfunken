@@ -1,0 +1,5 @@
+seed: 1148786534
+prompt: a butterfly emerging from its cocoon,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep violets and purples,
+continuous composition seamless to the edge

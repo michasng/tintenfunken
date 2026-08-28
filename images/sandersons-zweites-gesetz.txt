@@ -1,0 +1,5 @@
+seed: 77505063
+prompt: a cracked glowing artifact with a shard missing,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

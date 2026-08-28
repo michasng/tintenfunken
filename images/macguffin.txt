@@ -1,0 +1,5 @@
+seed: 2397998119
+prompt: an ornate locked box with bright light leaking from its seams,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

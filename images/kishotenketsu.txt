@@ -1,0 +1,5 @@
+seed: 4192620400
+prompt: a teacup and a crescent moon linked by a bridge of mist,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep navy blues,
+continuous composition seamless to the edge

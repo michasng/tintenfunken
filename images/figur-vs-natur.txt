@@ -1,0 +1,5 @@
+seed: 2389849789
+prompt: a tiny ship beneath an enormous curling storm wave,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of steel blues and ceruleans,
+continuous composition seamless to the edge

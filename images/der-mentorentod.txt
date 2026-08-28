@@ -1,0 +1,5 @@
+seed: 556836577
+prompt: an old staff and worn cloak left on an empty chair by a dying fire,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 343964217
+prompt: a balanced scale, one pan glowing with light, the other in darkness,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

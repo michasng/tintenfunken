@@ -1,0 +1,5 @@
+seed: 776242816
+prompt: a single figure in a dark crowd lit by one column of light,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

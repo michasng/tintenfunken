@@ -1,0 +1,5 @@
+seed: 3762845083
+prompt: a child's small shoe beside a worn adult boot in a doorway,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

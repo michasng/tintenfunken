@@ -1,0 +1,5 @@
+seed: 1559634398
+prompt: a cat perched on a rooftop ledge in the rain, city lights below,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep navy blues,
+continuous composition seamless to the edge

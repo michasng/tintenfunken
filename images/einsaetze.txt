@@ -1,0 +1,5 @@
+seed: 741175218
+prompt: a tall stack of poker chips on a table edge, one starting to topple,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep violets and purples,
+continuous composition seamless to the edge

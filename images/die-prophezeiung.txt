@@ -1,0 +1,5 @@
+seed: 93953615
+prompt: an ancient stone tablet with a single glowing carved symbol,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 100294442
+prompt: a rain-streaked window, figures inside with unreadable faces,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of warm ambers and oranges,
+continuous composition seamless to the edge

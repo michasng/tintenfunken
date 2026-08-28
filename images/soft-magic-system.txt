@@ -1,0 +1,5 @@
+seed: 11197109
+prompt: swirling luminous mist forming shapes that never quite resolve,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

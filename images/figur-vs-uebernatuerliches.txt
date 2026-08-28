@@ -1,0 +1,5 @@
+seed: 876883915
+prompt: a lone figure standing firm before a swirling vortex of cold light,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of steel blues and ceruleans,
+continuous composition seamless to the edge

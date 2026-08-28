@@ -1,0 +1,5 @@
+seed: 4150226161
+prompt: five objects on a dark surface—candle, cloth, lemon, bell, pine,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of emerald greens,
+continuous composition seamless to the edge

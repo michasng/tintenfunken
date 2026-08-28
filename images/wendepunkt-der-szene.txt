@@ -1,0 +1,5 @@
+seed: 3204081594
+prompt: a coin frozen mid-flip, outcome undetermined,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep earthy browns and siennas,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 1643981875
+prompt: an ancient tree with deep roots and one small new branch,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

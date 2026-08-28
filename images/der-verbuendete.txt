@@ -1,0 +1,5 @@
+seed: 3974238205
+prompt: two silhouettes walking side by side along a mountain ridge,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

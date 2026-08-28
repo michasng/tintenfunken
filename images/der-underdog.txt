@@ -1,0 +1,5 @@
+seed: 2020220715
+prompt: a tiny figure casting an enormous heroic shadow on a wall,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

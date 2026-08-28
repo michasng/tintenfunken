@@ -1,0 +1,5 @@
+seed: 745077169
+prompt: stage lights rising on a scene already at its peak, edges in darkness,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep earthy browns and siennas,
+continuous composition seamless to the edge

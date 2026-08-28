@@ -1,0 +1,5 @@
+seed: 3235548290
+prompt: a lone figure hanging from a sheer cliff edge over a vast drop,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of teals and dark cyans,
+continuous composition seamless to the edge

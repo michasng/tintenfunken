@@ -1,0 +1,5 @@
+seed: 3480980696
+prompt: a flowing river made of words, faces and memories dissolving together,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of warm ambers and oranges,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 1802234957
+prompt: a telescope showing a scene both in close-up and in wide view,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of warm ambers and oranges,
+continuous composition seamless to the edge

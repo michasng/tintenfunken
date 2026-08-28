@@ -1,0 +1,5 @@
+seed: 3641219572
+prompt: a metronome,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep earthy browns and siennas,
+continuous composition seamless to the edge

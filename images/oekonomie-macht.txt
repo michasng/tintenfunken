@@ -1,0 +1,5 @@
+seed: 1726354089
+prompt: a scale balancing a pile of coins against a crowd of tiny figures,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

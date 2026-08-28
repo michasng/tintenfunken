@@ -1,0 +1,5 @@
+seed: 3042990457
+prompt: a single lit object in darkness—a worn key—everything else invisible,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of emerald greens,
+continuous composition seamless to the edge

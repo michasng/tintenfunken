@@ -1,0 +1,5 @@
+seed: 692477850
+prompt: a glowing lantern passed between two hands in darkness,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 2663733821
+prompt: a layered cityscape stacking different architectural eras,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep forest greens,
+continuous composition seamless to the edge

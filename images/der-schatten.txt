@@ -1,0 +1,5 @@
+seed: 3450261133
+prompt: a figure facing its own dark, distorted mirror reflection,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

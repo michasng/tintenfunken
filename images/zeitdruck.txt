@@ -1,0 +1,5 @@
+seed: 978001195
+prompt: an hourglass with only a few grains of sand left, mid-fall,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of teals and dark cyans,
+continuous composition seamless to the edge

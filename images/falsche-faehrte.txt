@@ -1,0 +1,5 @@
+seed: 814996653
+prompt: clear footprints leading one way, faint footprints leading the other,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

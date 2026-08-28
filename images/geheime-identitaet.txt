@@ -1,0 +1,5 @@
+seed: 1152588983
+prompt: a half-removed mask, one eye hidden, one eye revealed,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

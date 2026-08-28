@@ -1,0 +1,5 @@
+seed: 2647532529
+prompt: a figure before a closed iron door with light glowing beneath it,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep earthy browns and siennas,
+continuous composition seamless to the edge

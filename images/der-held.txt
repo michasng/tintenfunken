@@ -1,0 +1,5 @@
+seed: 2971703919
+prompt: a lone cloaked figure on a hilltop facing a single bright star, a path of light leading toward it,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

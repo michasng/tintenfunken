@@ -1,0 +1,5 @@
+seed: 852861952
+prompt: a view through a keyhole,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of warm ambers and oranges,
+continuous composition seamless to the edge

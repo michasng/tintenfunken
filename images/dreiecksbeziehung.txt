@@ -1,0 +1,5 @@
+seed: 2361838883
+prompt: three candle flames in a triangle, two leaning toward the center one,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

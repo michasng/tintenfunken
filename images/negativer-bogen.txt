@@ -1,0 +1,5 @@
+seed: 943855833
+prompt: a figure walking on as its shadow grows monstrous behind it,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep violets and purples,
+continuous composition seamless to the edge

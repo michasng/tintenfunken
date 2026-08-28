@@ -1,0 +1,5 @@
+seed: 813317735
+prompt: a marble column with a single hairline crack running its full height,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep violets and purples,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 1981285754
+prompt: a flock of sheep seated like a formal political assembly,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep crimsons and dark reds,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 452535529
+prompt: a single glowing streetlamp diffusing light through autumn fog,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of emerald greens,
+continuous composition seamless to the edge

@@ -1,0 +1,5 @@
+seed: 2105895026
+prompt: a conductor's raised baton poised before the downbeat,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of emerald greens,
+continuous composition seamless to the edge

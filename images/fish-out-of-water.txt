@@ -1,0 +1,5 @@
+seed: 1243440764
+prompt: a fish in a water bubble hovering above a busy street,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

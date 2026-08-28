@@ -1,0 +1,5 @@
+seed: 330036235
+prompt: a mirror reflecting a room completely different from the one before it,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of rich cobalt blues,
+continuous composition seamless to the edge

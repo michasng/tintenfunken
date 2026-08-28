@@ -1,0 +1,5 @@
+seed: 2130201708
+prompt: a snake going in a circle, biting its own tail,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep navy blues,
+continuous composition seamless to the edge

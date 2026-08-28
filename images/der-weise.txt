@@ -1,0 +1,5 @@
+seed: 3326437450
+prompt: an old figure seated on a mountaintop beneath a canopy of stars,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of deep purples and magentas,
+continuous composition seamless to the edge

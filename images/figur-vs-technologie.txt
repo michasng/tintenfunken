@@ -1,0 +1,5 @@
+seed: 631251016
+prompt: an organic vine and a mechanical arm reaching toward each other,
+dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+ink wash and etching style, muted palette of steel blues and ceruleans,
+continuous composition seamless to the edge
