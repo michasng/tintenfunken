@@ -114,7 +114,12 @@ function createPreview(cards, onCardChange) {
   const counter = document.querySelector('.preview-counter');
   const previousButton = document.querySelector('.preview-previous');
   const nextButton = document.querySelector('.preview-next');
+  const searchInput = document.querySelector('.preview-search-input');
+  const suggestionList = document.querySelector('.preview-suggestions');
+  const maximumSuggestions = 8;
   let currentCard = 1;
+  let matches = [];
+  let activeSuggestion = -1;
 
   function show(cardNumber) {
     currentCard = Math.min(Math.max(cardNumber, 1), cards.length);
@@ -127,11 +132,77 @@ function createPreview(cards, onCardChange) {
     }
   }
 
+  function closeSuggestions() {
+    suggestionList.replaceChildren();
+    suggestionList.hidden = true;
+    matches = [];
+    activeSuggestion = -1;
+  }
+
+  function selectSuggestion(cardNumber) {
+    searchInput.value = '';
+    closeSuggestions();
+    onCardChange(cardNumber);
+  }
+
+  function highlightSuggestion(index) {
+    activeSuggestion = index;
+    for (const [position, item] of [...suggestionList.children].entries()) {
+      item.classList.toggle('active', position === activeSuggestion);
+    }
+  }
+
+  function updateSuggestions() {
+    const term = searchInput.value.trim().toLowerCase();
+    matches = term
+      ? cards
+          .map((card, index) => ({ title: card.title, cardNumber: index + 1 }))
+          .filter(entry => entry.title.toLowerCase().includes(term))
+          .slice(0, maximumSuggestions)
+      : [];
+    activeSuggestion = -1;
+
+    if (matches.length === 0) {
+      closeSuggestions();
+      return;
+    }
+
+    suggestionList.replaceChildren(...matches.map(match => {
+      const item = document.createElement('li');
+      item.className = 'preview-suggestion';
+      item.textContent = match.title;
+      item.addEventListener('mousedown', event => {
+        event.preventDefault();
+        selectSuggestion(match.cardNumber);
+      });
+      return item;
+    }));
+    suggestionList.hidden = false;
+  }
+
   stage.addEventListener('click', () => {
     stage.querySelector('.preview-card-inner')?.classList.toggle('flipped');
   });
   previousButton.addEventListener('click', () => onCardChange(currentCard - 1));
   nextButton.addEventListener('click', () => onCardChange(currentCard + 1));
+
+  searchInput.addEventListener('input', updateSuggestions);
+  searchInput.addEventListener('blur', closeSuggestions);
+  searchInput.addEventListener('keydown', event => {
+    if (matches.length === 0) return;
+    if (event.key === 'ArrowDown') {
+      event.preventDefault();
+      highlightSuggestion((activeSuggestion + 1) % matches.length);
+    } else if (event.key === 'ArrowUp') {
+      event.preventDefault();
+      highlightSuggestion((activeSuggestion - 1 + matches.length) % matches.length);
+    } else if (event.key === 'Enter') {
+      event.preventDefault();
+      selectSuggestion((matches[activeSuggestion] ?? matches[0]).cardNumber);
+    } else if (event.key === 'Escape') {
+      closeSuggestions();
+    }
+  });
 
   return { show };
 }
