@@ -109,36 +109,31 @@ function buildPreviewCard(card, index) {
   return previewCard;
 }
 
-function createPreview(cards) {
+function createPreview(cards, onCardChange) {
   const stage = document.querySelector('.preview-stage');
   const counter = document.querySelector('.preview-counter');
   const previousButton = document.querySelector('.preview-previous');
   const nextButton = document.querySelector('.preview-next');
-  let currentIndex = 0;
+  let currentCard = 1;
 
-  function showCurrentCard() {
-    stage.replaceChildren(buildPreviewCard(cards[currentIndex], currentIndex + 1));
-    counter.textContent = `${currentIndex + 1} / ${cards.length}`;
-    previousButton.disabled = currentIndex === 0;
-    nextButton.disabled = currentIndex === cards.length - 1;
+  function show(cardNumber) {
+    currentCard = Math.min(Math.max(cardNumber, 1), cards.length);
+    stage.replaceChildren(buildPreviewCard(cards[currentCard - 1], currentCard));
+    counter.textContent = `${currentCard} / ${cards.length}`;
+    previousButton.disabled = currentCard === 1;
+    nextButton.disabled = currentCard === cards.length;
     for (const element of stage.querySelectorAll('.card-title, .back-title')) {
       fitText(element);
     }
   }
 
-  function goToCard(nextIndex) {
-    if (nextIndex < 0 || nextIndex >= cards.length) return;
-    currentIndex = nextIndex;
-    showCurrentCard();
-  }
-
   stage.addEventListener('click', () => {
     stage.querySelector('.preview-card-inner')?.classList.toggle('flipped');
   });
-  previousButton.addEventListener('click', () => goToCard(currentIndex - 1));
-  nextButton.addEventListener('click', () => goToCard(currentIndex + 1));
+  previousButton.addEventListener('click', () => onCardChange(currentCard - 1));
+  nextButton.addEventListener('click', () => onCardChange(currentCard + 1));
 
-  return { show: showCurrentCard };
+  return { show };
 }
 
 function buildSheet(slots, type, label) {
@@ -217,6 +212,27 @@ function render(cards, duplexMode, flipEdge) {
   }
 }
 
+const baseUrl = new URL('.', location.href);
+const printPath = new URL('print', baseUrl).pathname;
+
+function readRoute() {
+  const path = location.pathname.replace(/\/+$/, '');
+  const isPrint = path === printPath.replace(/\/+$/, '');
+  const card = Number(new URLSearchParams(location.search).get('card')) || 1;
+  return { mode: isPrint ? 'print' : 'preview', card: Math.max(card, 1) };
+}
+
+function routeToUrl({ mode, card }) {
+  if (mode === 'print') {
+    return printPath;
+  }
+  const url = new URL(baseUrl);
+  if (card > 1) {
+    url.searchParams.set('card', card);
+  }
+  return url.pathname + url.search;
+}
+
 async function init() {
   const response = await fetch('cards.csv');
   const text = await response.text();
@@ -225,7 +241,7 @@ async function init() {
   const sheets = document.getElementById('sheets');
   const preview = document.getElementById('preview');
   const viewMode = document.getElementById('viewMode');
-  const previewController = createPreview(data);
+  const previewController = createPreview(data, card => navigate({ mode: 'preview', card }));
 
   function renderPrint() {
     render(
@@ -235,27 +251,36 @@ async function init() {
     );
   }
 
-  function applyViewMode() {
-    const isPreview = viewMode.value === 'preview';
+  function applyRoute(route) {
+    const isPreview = route.mode === 'preview';
+    viewMode.value = route.mode;
     document.body.classList.toggle('preview-active', isPreview);
     preview.hidden = !isPreview;
     sheets.hidden = isPreview;
     if (isPreview) {
-      previewController.show();
+      previewController.show(route.card);
     } else {
       renderPrint();
     }
   }
 
-  viewMode.addEventListener('change', applyViewMode);
+  function navigate(route) {
+    history.pushState(route, '', routeToUrl(route));
+    applyRoute(route);
+  }
+
+  viewMode.addEventListener('change', () => {
+    navigate({ mode: viewMode.value, card: 1 });
+  });
   document.getElementById('duplexMode').addEventListener('change', renderPrint);
   document.getElementById('flipEdge').addEventListener('change', renderPrint);
   document.getElementById('showImages').addEventListener('change', event => {
     document.body.classList.toggle('hide-images', !event.target.checked);
   });
   document.getElementById('printButton').addEventListener('click', () => window.print());
+  window.addEventListener('popstate', () => applyRoute(readRoute()));
 
-  applyViewMode();
+  applyRoute(readRoute());
   // re-run after webfonts load; initial pass uses fallback font metrics
   await document.fonts.ready;
   for (const element of document.querySelectorAll('.card-title, .back-title')) {
