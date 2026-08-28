@@ -1,5 +1,5 @@
-seed: 1573759872
-prompt: a split image—a blurred action moment beside a still, calm pool,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+seed: 2486275466
+prompt: a runner pausing at a bench to catch their breath,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of deep earthy browns and siennas,
 continuous composition seamless to the edge

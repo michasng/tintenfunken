@@ -1,5 +1,5 @@
-seed: 2709168940
+seed: 1787341818
 prompt: a shadow on a wall cast by an object not yet visible,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of teals and dark cyans,
 continuous composition seamless to the edge

@@ -1,5 +1,5 @@
-seed: 2041387177
-prompt: two figures talking, polite words above, very different thoughts below,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+seed: 4195322130
+prompt: two coffee cups on a table, a folded note hidden beneath one,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of burnt sienna and deep oranges,
 continuous composition seamless to the edge

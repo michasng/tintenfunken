@@ -1,5 +1,5 @@
-seed: 977377368
-prompt: a night path forking—one branch bright and easy, one dark toward dawn,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+seed: 554889296
+prompt: a fork in the road, one path bright, the other path dark,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of deep violets and purples,
 continuous composition seamless to the edge

@@ -1,5 +1,5 @@
-seed: 4130900745
-prompt: a road forking sharply, one path turning into a descent,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+seed: 2964769612
+prompt: a road going up, then down again,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of teals and dark cyans,
 continuous composition seamless to the edge

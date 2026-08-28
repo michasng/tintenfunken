@@ -1,5 +1,5 @@
-seed: 2426097918
-prompt: seven bright stars connected into a constellation on dark parchment,
-dark literary fantasy illustration, high contrast chiaroscuro lighting, atmospheric,
+seed: 2225242977
+prompt: a constellation of 7 stars,
+dark literary fantasy illustration, chiaroscuro lighting, atmospheric,
 ink wash and etching style, muted palette of deep navy blues,
 continuous composition seamless to the edge
