@@ -550,6 +550,18 @@ body.hide-images .card-front .illustration img {
   opacity: .85;
 }
 
+button.tag {
+  border: none;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+button.tag:hover,
+button.tag:focus-visible {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 .source-text {
   font-size: 0.48rem;
   color: #AAA;
