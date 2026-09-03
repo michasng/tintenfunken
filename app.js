@@ -45,7 +45,7 @@ function buildFrontCard(card, index) {
   return root;
 }
 
-function buildBackCard(card) {
+function buildBackCard(card, titleToCardNumber, onLinkClick) {
   const template = document.getElementById('card-back-template').content.cloneNode(true);
   const root = template.querySelector('.card-back');
 
@@ -65,10 +65,18 @@ function buildBackCard(card) {
   if (card.pairs_with?.trim()) {
     const tags = root.querySelector('[data-field="tags"]');
     for (const t of card.pairs_with.split(',').map(s => s.trim()).filter(Boolean)) {
-      const span = document.createElement('span');
-      span.className = 'tag';
-      span.textContent = t;
-      tags.append(span);
+      const cardNumber = titleToCardNumber?.get(t);
+      const tag = document.createElement(cardNumber ? 'button' : 'span');
+      tag.className = 'tag';
+      tag.textContent = t;
+      if (cardNumber) {
+        tag.type = 'button';
+        tag.addEventListener('click', event => {
+          event.stopPropagation();
+          onLinkClick(cardNumber);
+        });
+      }
+      tags.append(tag);
     }
   } else {
     root.querySelector('[data-optional="pairs"]').remove();
@@ -89,7 +97,7 @@ function buildBackCard(card) {
   return root;
 }
 
-function buildPreviewCard(card, index) {
+function buildPreviewCard(card, index, titleToCardNumber, onLinkClick) {
   const previewCard = document.createElement('div');
   previewCard.className = 'preview-card';
 
@@ -102,7 +110,7 @@ function buildPreviewCard(card, index) {
 
   const back = document.createElement('div');
   back.className = 'preview-face preview-face-back';
-  back.append(buildBackCard(card));
+  back.append(buildBackCard(card, titleToCardNumber, onLinkClick));
 
   inner.append(front, back);
   previewCard.append(inner);
@@ -110,6 +118,7 @@ function buildPreviewCard(card, index) {
 }
 
 function createPreview(cards, onCardChange) {
+  const titleToCardNumber = new Map(cards.map((card, index) => [card.title, index + 1]));
   const stage = document.querySelector('.preview-stage');
   const counter = document.querySelector('.preview-counter');
   const previousButton = document.querySelector('.preview-previous');
@@ -123,7 +132,7 @@ function createPreview(cards, onCardChange) {
 
   function show(cardNumber) {
     currentCard = Math.min(Math.max(cardNumber, 1), cards.length);
-    stage.replaceChildren(buildPreviewCard(cards[currentCard - 1], currentCard));
+    stage.replaceChildren(buildPreviewCard(cards[currentCard - 1], currentCard, titleToCardNumber, onCardChange));
     counter.textContent = `${currentCard} / ${cards.length}`;
     previousButton.disabled = currentCard === 1;
     nextButton.disabled = currentCard === cards.length;
