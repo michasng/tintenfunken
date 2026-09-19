@@ -1,0 +1,23 @@
+{
+  "name": "Tintenfunken",
+  "short_name": "Tintenfunken",
+  "description": "Schreibhandwerk-Karten zum Durchblättern, Drucken und Offline-Nutzen.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14101E",
+  "theme_color": "#1C1628",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "images/der-held.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

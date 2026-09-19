@@ -13,6 +13,9 @@ const CATEGORY_COLORS = {
   'Thema':       '#8f1111',
 };
 
+const baseUrl = new URL('.', location.href);
+const printPath = new URL('print', baseUrl).pathname;
+
 function fitText(element) {
   element.style.fontSize = '';
   while (element.scrollWidth > element.clientWidth && parseFloat(getComputedStyle(element).fontSize) > 8) {
@@ -29,6 +32,63 @@ function slug(title) {
     .replace(/^-|-$/g, '');
 }
 
+function assetUrl(path) {
+  return new URL(path, baseUrl).toString();
+}
+
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let field = '';
+  let inQuotes = false;
+
+  for (let index = 0; index < text.length; index++) {
+    const character = text[index];
+
+    if (inQuotes) {
+      if (character === '"') {
+        if (text[index + 1] === '"') {
+          field += '"';
+          index++;
+        } else {
+          inQuotes = false;
+        }
+      } else {
+        field += character;
+      }
+      continue;
+    }
+
+    if (character === '"') {
+      inQuotes = true;
+    } else if (character === ',') {
+      row.push(field);
+      field = '';
+    } else if (character === '\n') {
+      row.push(field);
+      if (row.some(value => value !== '')) {
+        rows.push(row);
+      }
+      row = [];
+      field = '';
+    } else if (character !== '\r') {
+      field += character;
+    }
+  }
+
+  if (field !== '' || row.length > 0) {
+    row.push(field);
+    if (row.some(value => value !== '')) {
+      rows.push(row);
+    }
+  }
+
+  const [header = [], ...records] = rows;
+  return records.map(values => Object.fromEntries(
+    header.map((column, index) => [column, values[index] ?? ''])
+  ));
+}
+
 function buildFrontCard(card, index) {
   const template = document.getElementById('card-front-template').content.cloneNode(true);
   const root = template.querySelector('.card-front');
@@ -40,7 +100,7 @@ function buildFrontCard(card, index) {
   root.querySelector('[data-field="essence"]').textContent = card.essence;
   const illustration = root.querySelector('.illustration');
   const img = root.querySelector('[data-field="img"]');
-  img.src = `images/${slug(card.title)}.png`;
+  img.src = assetUrl(`images/${slug(card.title)}.png`);
   img.addEventListener('error', () => illustration.classList.add('no-image'), { once: true });
   return root;
 }
@@ -292,9 +352,6 @@ function render(cards, duplexMode, flipEdge) {
   }
 }
 
-const baseUrl = new URL('.', location.href);
-const printPath = new URL('print', baseUrl).pathname;
-
 function readRoute() {
   const path = location.pathname.replace(/\/+$/, '');
   const isPrint = path === printPath.replace(/\/+$/, '');
@@ -313,10 +370,22 @@ function routeToUrl({ mode, card }) {
   return url.pathname + url.search;
 }
 
+function registerServiceWorker() {
+  if (!('serviceWorker' in navigator) || !location.protocol.startsWith('http')) {
+    return;
+  }
+
+  navigator.serviceWorker.register(assetUrl('service-worker.js'), {
+    scope: baseUrl.pathname,
+  }).catch(error => {
+    console.warn('Service worker registration failed.', error);
+  });
+}
+
 async function init() {
-  const response = await fetch('cards.csv');
+  const response = await fetch(assetUrl('cards.csv'));
   const text = await response.text();
-  const { data } = Papa.parse(text, { header: true, skipEmptyLines: true });
+  const data = parseCsv(text);
 
   const sheets = document.getElementById('sheets');
   const preview = document.getElementById('preview');
@@ -368,4 +437,5 @@ async function init() {
   }
 }
 
+registerServiceWorker();
 init();
