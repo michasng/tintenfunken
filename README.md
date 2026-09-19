@@ -10,7 +10,14 @@ The app uses `fetch()`, so it must be served over HTTP — opening `index.html` 
 npx serve .
 ```
 
-Then open the printed URL (default: http://localhost:3000).
+Then open the printed URL (default: http://localhost:3000). Service workers only register on secure origins, so use `localhost` (or GitHub Pages) when testing the PWA/offline behaviour.
+
+## PWA / offline
+
+- The app ships with a web app manifest and service worker for GitHub Pages deployments, including project-path URLs such as `/tintenfunken/`.
+- `index.html`, `app.js`, `styles.css`, `cards.csv`, the manifest, and icon assets are precached as the offline shell.
+- Card images are cached on first view with a cache-first strategy, so text/data work offline immediately after the shell is cached and images remain available offline after you have opened them once online.
+- External Google Fonts are not required for offline use; the app falls back to local system fonts if they are unavailable.
 
 ## Add card images
 
