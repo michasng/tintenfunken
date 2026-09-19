@@ -49,19 +49,29 @@ async function staleWhileRevalidate(request) {
     })
     .catch(() => null);
 
-  return cached ?? networkPromise ?? Response.error();
-}
-
-async function cacheFirst(request) {
-  const cache = await caches.open(IMAGE_CACHE);
-  const cached = await cache.match(request);
   if (cached) {
     return cached;
   }
 
+  return (await networkPromise) ?? Response.error();
+}
+
+async function cacheFirst(request) {
+  const imageCache = await caches.open(IMAGE_CACHE);
+  const cached = await imageCache.match(request);
+  if (cached) {
+    return cached;
+  }
+
+  const staticCache = await caches.open(STATIC_CACHE);
+  const precached = await staticCache.match(request);
+  if (precached) {
+    return precached;
+  }
+
   const response = await fetch(request);
   if (response.ok) {
-    cache.put(request, response.clone());
+    await imageCache.put(request, response.clone());
   }
   return response;
 }
