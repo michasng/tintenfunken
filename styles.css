@@ -334,8 +334,9 @@ body.preview-active .print-only {
 .card-front .card-id {
   font-family: 'Playfair Display', serif;
   font-style: italic;
-  font-size: 0.58rem;
-  color: rgba(255,255,255,.45);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: rgba(255,255,255,.85);
 }
 
 .card-front .title-area {
@@ -513,7 +514,7 @@ body.hide-images .card-front .illustration img {
   flex-direction: column;
   justify-content: space-between;
   gap: 4px;
-  height: 19mm;
+  height: 20.5mm;
   overflow: hidden;
 }
 
@@ -563,10 +564,10 @@ button.tag:focus-visible {
 }
 
 .source-text {
-  font-size: 0.48rem;
-  color: #AAA;
+  font-size: 0.56rem;
+  color: #6E645A;
   font-style: italic;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 /* ── Manual Duplex Divider ─────────────────────────────────── */
