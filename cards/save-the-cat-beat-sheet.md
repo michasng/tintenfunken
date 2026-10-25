@@ -14,7 +14,7 @@ Habe ich einen »All is Lost«-Moment kurz vor dem Finale, also den tiefsten Pun
 
 - Toy Story
 - Bridesmaids
-- als Struktur-Analyse: Harry Potter
+- Harry Potter
 
 ### Vorsicht
 
