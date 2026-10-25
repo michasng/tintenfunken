@@ -4,7 +4,7 @@ Die bewusste Nutzung aller fünf Sinne, nicht nur des Sehens, zur Beschreibung v
 
 ### Funktion
 
-Verankert den Leser körperlich in der Szene und zieht ihn hinein, indem sie Sinnesgedächtnis und Assoziationen weckt.
+Sinneseindrücke verankern den Leser in der Szene und ziehen ihn hinein, indem sie Sinnesgedächtnis und Assoziationen wecken.
 
 ### Anwendung
 
