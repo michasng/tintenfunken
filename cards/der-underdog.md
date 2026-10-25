@@ -1,6 +1,6 @@
 ## Der Underdog
 
-Eine Figur oder Gruppe, die gegen übermächtige Gegner, Umstände oder Systeme kämpft und von niemandem erwartet wird zu gewinnen.
+Eine Figur oder Gruppe, die gegen übermächtige Gegner, Umstände oder Systeme kämpft und der niemand einen Sieg zutraut.
 
 ### Funktion
 
