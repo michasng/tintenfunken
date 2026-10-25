@@ -22,7 +22,7 @@ Zu offensichtliches Einführen wichtiger Elemente nimmt dem Twist seinen Effekt.
 
 ### Passt zu
 
-- [Vorausdeutung](vorausdeutung.md)
+- [Vorausdeutung (Foreshadowing)](vorausdeutung.md)
 - [Der Twist](der-twist.md)
 
 ### Quellen

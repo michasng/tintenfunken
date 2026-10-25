@@ -22,7 +22,7 @@ Ein Verbündeter ohne eigene Wünsche und Fehler ist nur ein Werkzeug, keine Fig
 
 ### Passt zu
 
-- [Kontrastfigur](kontrastfigur.md)
+- [Kontrastfigur (Foil)](kontrastfigur.md)
 - [Flacher Bogen](flacher-bogen.md)
 - [Die Fürsorgerin](die-fuersorgerin.md)
 

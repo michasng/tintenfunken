@@ -19,7 +19,7 @@ Was will meine Figur, und was braucht sie wirklich? Wann begreift sie den Unters
 
 - [Die Lüge der Figur](die-luege-der-figur.md)
 - [Positiver Wandlungsbogen](positiver-wandlungsbogen.md)
-- [Einsätze](einsaetze.md)
+- [Einsätze (Stakes)](einsaetze.md)
 
 ### Quellen
 

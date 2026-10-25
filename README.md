@@ -16,11 +16,12 @@ Then open the printed URL (default: http://localhost:3000).
 
 Place one PNG per card in the `images/` folder. File names are derived from the card title:
 
+- A trailing parenthetical is ignored (used for the English term, e.g. `Kontrastfigur (Foil)`)
 - German umlauts are expanded: `ä → ae`, `ö → oe`, `ü → ue`, `ß → ss`
 - Other diacritics are stripped
 - Non-alphanumeric characters become `-`
 
-Examples: `Der Held → der-held.png`, `Kishōtenketsu → kishotenketsu.png`, `3-Akt-Struktur → 3-akt-struktur.png`
+Examples: `Der Held → der-held.png`, `Kishōtenketsu → kishotenketsu.png`, `3-Akt-Struktur → 3-akt-struktur.png`, `Kontrastfigur (Foil) → kontrastfigur.png`
 
 Cards without a matching PNG show a dark gradient placeholder.  
 See `image_prompts.json` for per-card illustration prompts and `wrapper_image_prompt.txt` for the shared style suffix.

@@ -1,4 +1,4 @@
-## Zeitdruck
+## Zeitdruck (Ticking Clock)
 
 Eine klare Deadline oder ein ablaufendes Zeitfenster, das die Figuren unter Druck setzt und das Scheitern mit einer konkreten, schlimmen Konsequenz verbindet.
 

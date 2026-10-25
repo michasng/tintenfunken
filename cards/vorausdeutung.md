@@ -1,4 +1,4 @@
-## Vorausdeutung
+## Vorausdeutung (Foreshadowing)
 
 Subtile Hinweise, Symbole oder Szenen früh in der Geschichte, die spätere Ereignisse vorbereiten, ohne sie zu verraten.
 

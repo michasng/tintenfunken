@@ -1,4 +1,4 @@
-## Verbaler Schlagabtausch
+## Verbaler Schlagabtausch (Banter)
 
 Schneller, witziger, oft spielerischer Wortaustausch zwischen Figuren, der Beziehung und Chemie zeigt, ohne Plot zu bewegen.
 

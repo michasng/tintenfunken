@@ -1,4 +1,4 @@
-## Falsche Fährte
+## Falsche Fährte (Red Herring)
 
 Ein irreführendes Element, das den Leser und die Figuren absichtlich in eine falsche Richtung lenkt, um eine Enthüllung vorzubereiten.
 

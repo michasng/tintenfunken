@@ -22,7 +22,7 @@ Zu viele Gesinnungswechsel ohne innere Logik wirken beliebig statt spannend.
 
 ### Passt zu
 
-- [Falsche Fährte](falsche-faehrte.md)
+- [Falsche Fährte (Red Herring)](falsche-faehrte.md)
 - [Der Twist](der-twist.md)
 - [Geheime Identität](geheime-identitaet.md)
 

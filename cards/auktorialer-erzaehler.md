@@ -23,7 +23,7 @@ Auktorialer Kommentar kann die emotionale Immersion unterbrechen und sollte spar
 ### Passt zu
 
 - [Multi-POV](multi-pov.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Erzähldistanz](erzaehldistanz.md)
 
 ### Bild

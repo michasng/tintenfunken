@@ -22,7 +22,7 @@ Länger angehaltener Bewusstseinsstrom ist für viele Leser schwer zugänglich. 
 
 ### Passt zu
 
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Figur vs. sich selbst](figur-vs-sich-selbst.md)
 
 ### Bild

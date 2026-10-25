@@ -23,7 +23,7 @@ Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren. Er sollte
 ### Passt zu
 
 - [Subtext](subtext.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 
 ### Bild
 

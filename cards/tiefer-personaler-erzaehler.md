@@ -1,4 +1,4 @@
-## Tiefer personaler Erzähler
+## Tiefer personaler Erzähler (Deep POV)
 
 Die Erzählung taucht so tief in das Bewusstsein der Figur ein, dass jeder Satz in ihrer Sprache, Wahrnehmung und emotionalen Realität gefärbt ist. Auch bekannt als Dritte Person limitiert oder Personaler Erzähler. Zwischen Figur und Leser bleibt keine Distanz.
 

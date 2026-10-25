@@ -19,7 +19,7 @@ Was will meine POV-Figur in dieser Szene? Wer oder was verhindert es? Kann das E
 
 - [Scene & Sequel](scene-sequel.md)
 - [Wendepunkt der Szene](wendepunkt-der-szene.md)
-- [Einsätze](einsaetze.md)
+- [Einsätze (Stakes)](einsaetze.md)
 
 ### Bild
 

@@ -22,7 +22,7 @@ Ein Twist, der sich nicht aus dem vorherigen Material ableiten lässt, fühlt si
 
 ### Passt zu
 
-- [Falsche Fährte](falsche-faehrte.md)
+- [Falsche Fährte (Red Herring)](falsche-faehrte.md)
 - [Tschechows Gewehr](tschechows-gewehr.md)
 - [Enthüllung](enthuellung.md)
 

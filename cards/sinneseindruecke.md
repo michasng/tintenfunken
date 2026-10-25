@@ -22,7 +22,7 @@ Erzwungene Sinneseindrücke, die nicht zur Szene passen, wirken dekorativ statt 
 ### Passt zu
 
 - [Setting als Charakter](setting-als-charakter.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 
 ### Bild
 

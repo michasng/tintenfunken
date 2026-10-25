@@ -23,7 +23,7 @@ Der Ich-Erzähler kann keine Szenen glaubwürdig beschreiben, bei denen er nicht
 ### Passt zu
 
 - [Unzuverlässiger Erzähler](unzuverlaessiger-erzaehler.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 
 ### Bild
 

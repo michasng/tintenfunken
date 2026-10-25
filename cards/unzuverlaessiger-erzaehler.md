@@ -23,7 +23,7 @@ Der unzuverlässige Erzähler funktioniert nur, wenn die Unzuverlässigkeit rüc
 ### Passt zu
 
 - [Der Twist](der-twist.md)
-- [Falsche Fährte](falsche-faehrte.md)
+- [Falsche Fährte (Red Herring)](falsche-faehrte.md)
 
 ### Bild
 

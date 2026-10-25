@@ -19,7 +19,7 @@ Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Ro
 ### Passt zu
 
 - [Leitmotiv](leitmotiv.md)
-- [Vorausdeutung](vorausdeutung.md)
+- [Vorausdeutung (Foreshadowing)](vorausdeutung.md)
 
 ### Bild
 

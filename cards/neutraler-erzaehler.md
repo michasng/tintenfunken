@@ -23,7 +23,7 @@ Konsequenter Verzicht auf Innenperspektive kann emotionale Distanz erzeugen, die
 ### Passt zu
 
 - [Erzähldistanz](erzaehldistanz.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Subtext](subtext.md)
 
 ### Bild

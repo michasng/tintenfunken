@@ -21,7 +21,7 @@ Zu viele oder klischeehafte Action Beats nerven statt zu charakterisieren.
 
 ### Passt zu
 
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Figurenstimme](figurenstimme.md)
 - [Show, don't tell](show-don-t-tell.md)
 

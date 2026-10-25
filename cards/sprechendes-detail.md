@@ -23,7 +23,7 @@ Was als Detail gemeint ist, wird zur langen Beschreibung. Weniger ist mehr.
 ### Passt zu
 
 - [Das Eisberg-Prinzip](das-eisberg-prinzip.md)
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Show, don't tell](show-don-t-tell.md)
 
 ### Bild

@@ -23,7 +23,7 @@ Ein Verrat ohne erkennbare Motivation wirkt unglaubwürdig und ärgerlich.
 ### Passt zu
 
 - [Der Gestaltwandler](der-gestaltwandler.md)
-- [Falsche Fährte](falsche-faehrte.md)
+- [Falsche Fährte (Red Herring)](falsche-faehrte.md)
 
 ### Bild
 

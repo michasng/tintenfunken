@@ -21,7 +21,7 @@ Unkontrolliertes Wechseln der Distanz innerhalb einer Szene (»Head-Hopping«) v
 
 ### Passt zu
 
-- [Tiefer personaler Erzähler](tiefer-personaler-erzaehler.md)
+- [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 - [Auktorialer Erzähler](auktorialer-erzaehler.md)
 - [Neutraler Erzähler](neutraler-erzaehler.md)
 - [Multi-POV](multi-pov.md)

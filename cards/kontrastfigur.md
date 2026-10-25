@@ -1,4 +1,4 @@
-## Kontrastfigur
+## Kontrastfigur (Foil)
 
 Eine Figur, die durch Kontrast die Eigenschaften der Hauptfigur hervorhebt. Sie verkörpert den Weg, den der Protagonist nicht gewählt hat oder nicht gehen kann.
 

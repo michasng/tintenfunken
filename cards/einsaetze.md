@@ -1,4 +1,4 @@
-## Einsätze
+## Einsätze (Stakes)
 
 Was eine Figur verliert, wenn sie scheitert. Einsätze können materiell (Leben, Geld), emotional (Liebe, Würde) oder thematisch (moralische Integrität, Weltanschauung) sein.
 
@@ -23,7 +23,7 @@ Einsätze, die sich im Verlauf der Geschichte nicht steigern, verlieren ihre Wir
 ### Passt zu
 
 - [Szenenziel & Hindernisse](szenenziel-hindernisse.md)
-- [Zeitdruck](zeitdruck.md)
+- [Zeitdruck (Ticking Clock)](zeitdruck.md)
 - [Wunsch vs. Bedürfnis](wunsch-vs-beduerfnis.md)
 
 ### Bild

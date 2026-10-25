@@ -23,8 +23,10 @@ function fitText(element) {
   }
 }
 
+// A trailing parenthetical (e.g. the English term in "Kontrastfigur (Foil)") is not part of the slug.
 function slug(title) {
   return title
+    .replace(/\s*\([^()]*\)\s*$/, '')
     .toLowerCase()
     .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')

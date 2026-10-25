@@ -22,7 +22,7 @@ Zu viele Cliffhanger ohne Auflösung erzeugen Leser-Frustration statt Spannung.
 
 ### Passt zu
 
-- [Zeitdruck](zeitdruck.md)
+- [Zeitdruck (Ticking Clock)](zeitdruck.md)
 - [Wendepunkt der Szene](wendepunkt-der-szene.md)
 
 ### Bild
