@@ -1,0 +1,26 @@
+## Symbol
+
+Ein konkretes Objekt, eine Figur oder ein Ort, das eine abstrakte Idee oder ein Thema repräsentiert, das über seine wörtliche Bedeutung hinausgeht.
+
+### Funktion
+
+Verdichtet komplexe thematische Aussagen zu konkreten, emotional aufgeladenen Bildern. Eine über den ganzen Text ausgedehnte Metapher (Conceit) ist eine Form des systematisch entfalteten Symbols.
+
+### Anwendung
+
+Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Romans mehr bedeutet als am Anfang?
+
+### Beispiele
+
+- Der weiße Wal (Moby Dick)
+- die gläserne Menagerie (Tennessee Williams)
+- der scharlachrote Buchstabe (Hawthorne)
+
+### Passt zu
+
+- [Leitmotiv](leitmotiv.md)
+- [Vorausdeutung](vorausdeutung.md)
+
+### Bild
+
+![an ordinary chair casting a shadow shaped like a throne](../images/symbol.png)

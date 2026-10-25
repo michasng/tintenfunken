@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const STATIC_CACHE = `tintenfunken-static-${CACHE_VERSION}`;
 const IMAGE_CACHE = `tintenfunken-images-${CACHE_VERSION}`;
 const APP_SCOPE = self.registration.scope;
@@ -9,7 +9,7 @@ const PRECACHE_PATHS = [
   'index.html',
   'app.js',
   'styles.css',
-  'cards.csv',
+  'cards.md',
   'manifest.webmanifest',
   'icon.svg',
   'images/der-held.png',
@@ -111,7 +111,7 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  if (PRECACHE_URL_SET.has(url.toString())) {
+  if (PRECACHE_URL_SET.has(url.toString()) || (isAppRequest && url.pathname.startsWith(`${APP_PATH}cards/`))) {
     event.respondWith(staleWhileRevalidate(request));
   }
 });

@@ -1,6 +1,6 @@
 # image_generation
 
-Generates one PNG per card from `cards.csv` via the Forge / A1111 txt2img REST API.
+Generates one PNG per card from `cards.md` (and the card files it links to) via the Forge / A1111 txt2img REST API. The prompt is taken from each card's `### Bild` section.
 
 ## Prerequisites
 
@@ -76,8 +76,8 @@ From the `image_generation/` directory:
 # All cards
 python generate.py
 
-# Specific rows (1-based CSV row numbers)
-python generate.py 1 5 10
+# Specific cards (titles or slugs, case-insensitive)
+python generate.py "Der Held" der-mentor
 
 # Override resolution and seed
 python generate.py --width 1024 --height 1024 --seed 42
@@ -89,9 +89,8 @@ All generation parameters not passed explicitly are left to Forge's own defaults
 
 | Flag | Default | Description |
 |---|---|---|
-| `ROW …` | all | 1-based CSV row numbers to generate |
+| `TITLE …` | all | Card titles or slugs to generate |
 | `--url` | `http://127.0.0.1:7860` | Forge server URL |
-| `--csv` | `../cards.csv` | Path to the CSV file |
 | `--wrapper` | `../wrapper_image_prompt.txt` | Wrapper prompt file |
 | `--out` | `./images` | Output directory for PNGs |
 | `--seed N` | Forge default (random) | Fixed seed |

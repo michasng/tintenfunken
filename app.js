@@ -36,57 +36,76 @@ function assetUrl(path) {
   return new URL(path, baseUrl).toString();
 }
 
-function parseCsv(text) {
-  const rows = [];
-  let row = [];
-  let field = '';
-  let inQuotes = false;
+const SECTION_KEYS = {
+  'Funktion': 'function',
+  'Anwendung': 'application',
+  'Beispiele': 'example',
+  'Vorsicht': 'pitfall',
+  'Passt zu': 'pairs_with',
+  'Quellen': 'source',
+  'Bild': 'image_prompt',
+};
 
-  for (let index = 0; index < text.length; index++) {
-    const character = text[index];
-
-    if (inQuotes) {
-      if (character === '"') {
-        if (text[index + 1] === '"') {
-          field += '"';
-          index++;
-        } else {
-          inQuotes = false;
-        }
-      } else {
-        field += character;
-      }
-      continue;
-    }
-
-    if (character === '"') {
-      inQuotes = true;
-    } else if (character === ',') {
-      row.push(field);
-      field = '';
-    } else if (character === '\n') {
-      row.push(field);
-      if (row.some(value => value !== '')) {
-        rows.push(row);
-      }
-      row = [];
-      field = '';
-    } else if (character !== '\r') {
-      field += character;
+function parseCardIndex(text) {
+  const entries = [];
+  let category = '';
+  for (const line of text.split(/\r?\n/)) {
+    const categoryMatch = line.match(/^- (.+)$/);
+    const cardMatch = line.match(/^\s+- \[[^\]]*\]\(([^)]+)\)/);
+    if (categoryMatch) {
+      category = categoryMatch[1].trim();
+    } else if (cardMatch) {
+      entries.push({ category, path: cardMatch[1] });
     }
   }
+  return entries;
+}
 
-  if (field !== '' || row.length > 0) {
-    row.push(field);
-    if (row.some(value => value !== '')) {
-      rows.push(row);
+// Each non-empty line is one entry; list markers and link/image markup are stripped.
+function parseCard(text) {
+  const sections = {};
+  let key = null;
+  for (const rawLine of text.split(/\r?\n/)) {
+    const line = rawLine.trim();
+    if (!line) continue;
+    if (line.startsWith('### ')) {
+      key = SECTION_KEYS[line.slice(4).trim()] ?? null;
+      if (key) sections[key] = [];
+    } else if (line.startsWith('## ')) {
+      sections.title = [line.slice(3).trim()];
+      key = 'essence';
+      sections[key] = [];
+    } else if (key) {
+      sections[key].push(line.replace(/^- /, '').replace(/!?\[([^\]]*)\]\([^)]*\)/g, '$1'));
     }
   }
+  const joined = name => (sections[name] ?? []).join(' ');
+  return {
+    title: joined('title'),
+    essence: joined('essence'),
+    function: joined('function'),
+    application: joined('application'),
+    example: joinExamples(sections.example ?? []),
+    pitfall: joined('pitfall'),
+    pairs_with: sections.pairs_with ?? [],
+    source: sections.source ?? [],
+    image_prompt: joined('image_prompt'),
+  };
+}
 
-  const [header = [], ...records] = rows;
-  return records.map(values => Object.fromEntries(
-    header.map((column, index) => [column, values[index] ?? ''])
-  ));
+// Items that contain commas themselves (outside parentheses/quotes) are separated by semicolons.
+function joinExamples(items) {
+  const hasComma = items.some(item => item.replace(/\([^()]*\)|»[^«]*«/g, '').includes(','));
+  return items.join(hasComma ? '; ' : ', ');
+}
+
+async function loadCards() {
+  const indexUrl = assetUrl('cards.md');
+  const index = parseCardIndex(await (await fetch(indexUrl)).text());
+  return Promise.all(index.map(async ({ category, path }) => {
+    const response = await fetch(new URL(path, indexUrl));
+    return { ...parseCard(await response.text()), category };
+  }));
 }
 
 function buildFrontCard(card, index) {
@@ -122,9 +141,9 @@ function buildBackCard(card, titleToCardNumber, onLinkClick) {
     for (const n of root.querySelectorAll('[data-optional="pitfall"]')) n.remove();
   }
 
-  if (card.pairs_with?.trim()) {
+  if (card.pairs_with.length) {
     const tags = root.querySelector('[data-field="tags"]');
-    for (const t of card.pairs_with.split(',').map(s => s.trim()).filter(Boolean)) {
+    for (const t of card.pairs_with) {
       const cardNumber = titleToCardNumber?.get(t);
       const tag = document.createElement(cardNumber ? 'button' : 'span');
       tag.className = 'tag';
@@ -142,13 +161,11 @@ function buildBackCard(card, titleToCardNumber, onLinkClick) {
     root.querySelector('[data-optional="pairs"]').remove();
   }
 
-  if (card.source?.trim()) {
+  if (card.source.length) {
     const sourceElement = root.querySelector('[data-field="source"]');
-    let sourceIndex = 0;
-    for (const part of card.source.split(';').map(s => s.trim()).filter(Boolean)) {
+    for (const [sourceIndex, part] of card.source.entries()) {
       if (sourceIndex > 0) sourceElement.append(document.createElement('br'));
       sourceElement.append(part);
-      sourceIndex++;
     }
   } else {
     root.querySelector('[data-optional="source"]').remove();
@@ -383,9 +400,7 @@ function registerServiceWorker() {
 }
 
 async function init() {
-  const response = await fetch(assetUrl('cards.csv'));
-  const text = await response.text();
-  const data = parseCsv(text);
+  const data = await loadCards();
 
   const sheets = document.getElementById('sheets');
   const preview = document.getElementById('preview');

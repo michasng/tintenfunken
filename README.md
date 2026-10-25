@@ -54,6 +54,13 @@ The backs are printed with 1.5 mm bleed, so the cut will always land on solid co
 
 ## Data
 
-All card content lives in `cards.csv`. Columns: `title`, `category`, `essence`, `function`, `application`, `example`, `pitfall`, `pairs_with`, `source`.
+Each card lives in its own file in `cards/` (named after the card's slug, e.g. `cards/der-held.md`). `cards.md` is the index: it groups the cards by category and defines their order.
+
+```markdown
+- Archetyp
+  - [Der Held](cards/der-held.md)
+```
+
+A card file starts with the title as `## Title`, followed by the front text (essence) and the sections `### Funktion`, `### Anwendung`, `### Beispiele`, `### Vorsicht`, `### Passt zu`, `### Quellen` and `### Bild`. Empty sections can be omitted. Write each paragraph on a single line; list items (`- `) are used for examples, related cards and sources. `Passt zu` entries link to other card files; `Bild` holds the image prompt as alt text: `![prompt](../images/slug.png)`.
 
 Category colours are fixed in `app.js` (`CATEGORY_COLORS`). Adding a new category requires adding an entry there.

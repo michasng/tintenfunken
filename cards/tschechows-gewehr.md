@@ -1,0 +1,34 @@
+## Tschechows Gewehr
+
+Jedes bedeutsam eingeführte Element einer Geschichte muss irgendwann eine Rolle spielen – und was später eine Rolle spielt, muss zuvor eingeführt worden sein.
+
+### Funktion
+
+Erzeugt ein Gefühl von Dichte und Stimmigkeit: Der Leser spürt, dass die Geschichte durchdacht ist und sich alles zusammenfügt.
+
+### Anwendung
+
+Welche Details in meiner Eröffnungsszene kann ich so platzieren, dass sie im dritten Akt bedeutsam werden – ohne im ersten Moment zu auffällig zu sein?
+
+### Beispiele
+
+- Das Flugblatt zum Blitzeinschlag in den Uhrturm (Zurück in die Zukunft)
+- Hermines Zeitumkehrer (Harry Potter)
+- Das Lichtschwert von Lukes Vater (Star Wars)
+
+### Vorsicht
+
+Zu offensichtliches Einführen wichtiger Elemente nimmt dem Twist seinen Effekt.
+
+### Passt zu
+
+- [Vorausdeutung](vorausdeutung.md)
+- [Der Twist](der-twist.md)
+
+### Quellen
+
+- Anton Tschechow, Brief an Lazarev-Gruzinski (1889)
+
+### Bild
+
+![an old rifle mounted above a fireplace mantel, dramatically lit](../images/tschechows-gewehr.png)

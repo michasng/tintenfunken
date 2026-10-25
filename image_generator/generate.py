@@ -1,6 +1,5 @@
 import argparse
 import base64
-import csv
 import json
 import re
 import sys
@@ -42,10 +41,36 @@ def txt2img(url: str, payload: dict[str, Any]) -> tuple[str, int]:
     return image_b64, actual_seed
 
 
+def load_cards(index_path: Path) -> list[dict[str, str]]:
+    cards: list[dict[str, str]] = []
+    category = ""
+    for line in index_path.read_text(encoding="utf-8").splitlines():
+        if m := re.match(r"^- (.+)$", line):
+            category = m.group(1).strip()
+        elif m := re.match(r"^\s+- \[[^\]]*\]\(([^)]+)\)", line):
+            card_text = (index_path.parent / m.group(1)).read_text(encoding="utf-8")
+            cards.append({"category": category, **parse_card(card_text)})
+    return cards
+
+
+def parse_card(text: str) -> dict[str, str]:
+    card = {"title": "", "image_prompt": ""}
+    section = ""
+    for raw in text.splitlines():
+        line = raw.strip()
+        if line.startswith("## "):
+            card["title"] = line[3:].strip()
+        elif line.startswith("### "):
+            section = line[4:].strip()
+        elif section == "Bild" and (m := re.match(r"!\[([^\]]*)\]", line)):
+            card["image_prompt"] = m.group(1)
+    return card
+
+
 _THIS_DIR = Path(__file__).parent
 
 URL = "http://127.0.0.1:7860"
-CSV_PATH = _THIS_DIR.parent / "cards.csv"
+CARDS_INDEX = _THIS_DIR.parent / "cards.md"
 OUT_DIR = _THIS_DIR / "images"
 
 # FLUX.1 [schnell] — CFG must be 1; higher values cause blurry output
@@ -89,35 +114,37 @@ NEGATIVE_PROMPT = ",\n".join(  # noqa: FLY002
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Generate card images from cards.csv via the Forge / A1111 txt2img API."
+        description="Generate card images from cards.md via the Forge / A1111 txt2img API."
     )
     parser.add_argument(
-        "rows",
+        "titles",
         nargs="*",
-        type=int,
-        metavar="ROW",
-        help="1-based CSV row numbers to generate (omit to generate all)",
+        metavar="TITLE",
+        help="card titles or slugs to generate, case-insensitive (omit to generate all)",
     )
     parser.add_argument("--seed", type=int, metavar="N")
     args = parser.parse_args()
 
-    row_filter: set[int] = set(args.rows) if args.rows else set()
     seed: int | None = args.seed
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    with open(CSV_PATH, encoding="utf-8", newline="") as f:
-        cards: list[dict[str, str]] = list(csv.DictReader(f))
+    cards = load_cards(CARDS_INDEX)
 
-    total = len(cards)
-    targets = sorted(row_filter) if row_filter else list(range(1, total + 1))
+    if args.titles:
+        by_key = {key: card for card in cards for key in (card["title"].lower(), slug(card["title"]))}
+        targets = []
+        for wanted in args.titles:
+            card = by_key.get(wanted.lower())
+            if card is None:
+                print(f"Unknown card '{wanted}', skipping.", file=sys.stderr)
+            else:
+                targets.append(card)
+    else:
+        targets = cards
 
-    for row_num in targets:
-        if row_num < 1 or row_num > total:
-            print(f"Row {row_num} out of range (1–{total}), skipping.", file=sys.stderr)
-            continue
-
-        card = cards[row_num - 1]
+    total = len(targets)
+    for number, card in enumerate(targets, start=1):
         title: str = card["title"]
         palette = CATEGORY_PALETTE.get(card["category"], DEFAULT_PALETTE)
         wrapper = WRAPPER_PROMPT_TEMPLATE.format(palette=palette)
@@ -135,7 +162,7 @@ def main() -> None:
         if NEGATIVE_PROMPT:
             payload["negative_prompt"] = NEGATIVE_PROMPT
 
-        label = f"[{row_num}/{total}] {title}"
+        label = f"[{number}/{total}] {title}"
         print(f"{label} ...", end=" ", flush=True)
 
         image_b64, actual_seed = txt2img(URL, payload)

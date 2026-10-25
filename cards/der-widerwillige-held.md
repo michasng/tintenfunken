@@ -1,0 +1,30 @@
+## Der widerwillige Held
+
+Ein Protagonist, der seine Aufgabe zunächst ablehnt und erst durch äußere Umstände oder Verlust in die Handlung gezwungen wird.
+
+### Funktion
+
+Macht den Helden menschlicher und nachvollziehbarer; die Weigerung macht die spätere Entscheidung zur Handlung bedeutungsvoller.
+
+### Anwendung
+
+Was ist der genaue Moment und der präzise Grund, warum meine Figur nicht mehr nein sagen kann?
+
+### Beispiele
+
+- Bilbo Beutlin (Der Hobbit)
+- Neo (Matrix)
+- Rick Blaine (Casablanca)
+
+### Vorsicht
+
+Der Held darf die Weigerung nicht zu lange aufrechterhalten, sonst verliert er Sympathie.
+
+### Passt zu
+
+- [Die Heldenreise](die-heldenreise.md)
+- [Wunsch vs. Bedürfnis](wunsch-vs-beduerfnis.md)
+
+### Bild
+
+![a figure hesitating at a half-open door, bright adventure beyond](../images/der-widerwillige-held.png)
