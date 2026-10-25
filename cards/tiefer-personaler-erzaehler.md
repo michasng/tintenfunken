@@ -13,7 +13,7 @@ Erkenne ich in meinem Text noch Formulierungen, die der Autor statt die Figur sa
 ### Beispiele
 
 - Lyra Silvertongue in His Dark Materials (Pullman)
-- Katniss (Die Tribute von Panem)
+- Katniss (The Hunger Games)
 
 ### Vorsicht
 

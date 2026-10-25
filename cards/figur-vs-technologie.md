@@ -12,8 +12,8 @@ Ist die Technologie in meiner Geschichte ein Werkzeug, ein Gegner oder ein Spieg
 
 ### Beispiele
 
-- HAL 9000 (2001: Odyssee im Weltraum)
-- Skynet (Terminator)
+- HAL 9000 (2001: A Space Odyssey)
+- Skynet (The Terminator)
 - Blade Runner
 - Frankenstein (Shelley)
 

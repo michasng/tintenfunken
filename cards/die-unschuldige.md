@@ -12,10 +12,10 @@ Was bewahrt meine Figur davor, zynisch zu werden? Wann wird dieses Schutzschild 
 
 ### Beispiele
 
-- Dorothy (Der Zauberer von Oz)
+- Dorothy (The Wizard of Oz)
 - Cosette (Les Misérables)
 - Forrest Gump
-- Amélie (Die fabelhafte Welt der Amélie)
+- Amélie (Le Fabuleux Destin d'Amélie Poulain)
 
 ### Vorsicht
 

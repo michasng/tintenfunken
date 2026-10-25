@@ -12,7 +12,7 @@ Was ist der spannendste oder aufschlussreichste Moment, mit dem ich meine Geschi
 
 ### Beispiele
 
-- Die Odyssee (Odysseus bereits auf See)
+- The Odyssey (Odysseus bereits auf See)
 - Casino Royale
 - Fight Club (Erzähler bereits mit der Waffe am Kopf)
 

@@ -12,7 +12,7 @@ Wie löst die Auflösung des äußeren Konflikts gleichzeitig die innere Wandlun
 
 ### Beispiele
 
-- Frodo vernichtet den Ring (äußere Reise) und verliert seine Unschuld und Heimat für immer (innere Reise, Der Herr der Ringe)
+- Frodo vernichtet den Ring (äußere Reise) und verliert seine Unschuld und Heimat für immer (innere Reise, The Lord of the Rings)
 
 ### Passt zu
 

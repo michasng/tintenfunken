@@ -13,7 +13,7 @@ Wie spiegelt das natürliche Hindernis, gegen das meine Figur kämpft, ihren inn
 ### Beispiele
 
 - Moby Dick (Melville)
-- Der alte Mann und das Meer (Hemingway)
+- The Old Man and the Sea (Hemingway)
 - The Revenant
 - Life of Pi
 

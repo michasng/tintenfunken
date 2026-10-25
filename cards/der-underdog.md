@@ -14,7 +14,7 @@ Welche konkrete Fähigkeit oder Eigenschaft gibt meinem Underdog eine echte, wen
 
 - Rocky Balboa (Rocky)
 - Rudy Ruettiger (Rudy)
-- Katniss (Die Tribute von Panem)
+- Katniss (The Hunger Games)
 
 ### Vorsicht
 

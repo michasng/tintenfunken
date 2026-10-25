@@ -12,8 +12,8 @@ Welche spezifische Illusion oder welchen Schutz verliert meine Figur in dieser G
 
 ### Beispiele
 
-- Holden Caulfield (Der Fänger im Roggen)
-- Scout Finch (Wer die Nachtigall stört)
+- Holden Caulfield (The Catcher in the Rye)
+- Scout Finch (To Kill a Mockingbird)
 - Bastian (Die unendliche Geschichte)
 
 ### Vorsicht

@@ -14,7 +14,7 @@ Was ist in meiner Welt seltsam oder gefährlich, das einer Figur von außen erkl
 
 - Elf (Will Ferrell)
 - Thor (Marvel)
-- Der Teufel trägt Prada
+- The Devil Wears Prada
 
 ### Vorsicht
 

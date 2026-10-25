@@ -13,7 +13,7 @@ Welche Information über die Vergangenheit meiner Figur verändert die Bedeutung
 ### Beispiele
 
 - Citizen Kane (Struktur fast nur Rückblenden)
-- Abbitte (McEwan)
+- Atonement (McEwan)
 - Lost (TV-Serie)
 
 ### Vorsicht

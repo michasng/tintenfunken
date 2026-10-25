@@ -13,8 +13,8 @@ Was opfert meine fürsorgliche Figur? Ab welchem Punkt schadet ihre Fürsorge me
 ### Beispiele
 
 - Molly Weasley (Harry Potter)
-- Samwise Gamgee (Der Herr der Ringe)
-- Calpurnia (Wer die Nachtigall stört)
+- Samwise Gamgee (The Lord of the Rings)
+- Calpurnia (To Kill a Mockingbird)
 
 ### Vorsicht
 

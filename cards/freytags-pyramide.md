@@ -13,7 +13,7 @@ Welcher Moment ist der absolute Hochpunkt meiner Geschichte? Ist jede Szene davo
 ### Beispiele
 
 - Hamlet (Shakespeare)
-- Ödipus Rex (Sophokles)
+- Oedipus Rex (Sophocles)
 - Macbeth (Shakespeare)
 
 ### Passt zu

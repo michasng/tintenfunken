@@ -12,10 +12,10 @@ Welche entscheidende Lektion gibt mein Mentor dem Helden mit? Wann wird dieser s
 
 ### Beispiele
 
-- Gandalf (Der Herr der Ringe)
+- Gandalf (The Lord of the Rings)
 - Obi-Wan Kenobi (Star Wars)
 - Dumbledore (Harry Potter)
-- Haymitch (Die Tribute von Panem)
+- Haymitch (The Hunger Games)
 
 ### Vorsicht
 

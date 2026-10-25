@@ -12,7 +12,7 @@ Was ist die kleinste Eskalation, die ich pro Kapitel einbauen kann, damit mein S
 
 ### Beispiele
 
-- Elizabeth & Darcy (Stolz und Vorurteil)
+- Elizabeth & Darcy (Pride and Prejudice)
 - Better Call Saul (Transformation zu Saul)
 
 ### Vorsicht

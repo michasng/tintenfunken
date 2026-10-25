@@ -12,7 +12,7 @@ Was ist die unveränderliche Überzeugung meiner Figur? Welche Welt oder welche 
 
 ### Beispiele
 
-- Atticus Finch (Wer die Nachtigall stört)
+- Atticus Finch (To Kill a Mockingbird)
 - James Bond
 - Sherlock Holmes
 

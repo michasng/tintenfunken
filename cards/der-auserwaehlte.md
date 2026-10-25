@@ -13,7 +13,7 @@ Wie subvertiert meine Geschichte die Erwartung des Auserwählten, etwa durch Feh
 ### Beispiele
 
 - Harry Potter
-- Neo (Matrix)
+- Neo (The Matrix)
 - Anakin Skywalker (Star Wars)
 
 ### Vorsicht

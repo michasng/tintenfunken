@@ -14,7 +14,7 @@ Wie sprechen meine zwei engsten Verbündeten miteinander, wenn die Welt nicht un
 
 - Sherlock Holmes & Watson
 - Han Solo & Leia (Star Wars)
-- Benedikt & Beatrice (Viel Lärm um Nichts)
+- Benedick & Beatrice (Much Ado About Nothing)
 - Lorelai & Rory (Gilmore Girls)
 
 ### Vorsicht

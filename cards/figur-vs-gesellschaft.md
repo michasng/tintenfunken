@@ -13,8 +13,8 @@ Welche spezifische Regel oder Struktur der Gesellschaft meiner Geschichte macht 
 ### Beispiele
 
 - Winston Smith (1984)
-- Hester Prynne (Der scharlachrote Buchstabe)
-- Atticus Finch (Wer die Nachtigall stört)
+- Hester Prynne (The Scarlet Letter)
+- Atticus Finch (To Kill a Mockingbird)
 
 ### Passt zu
 

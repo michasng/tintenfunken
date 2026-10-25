@@ -12,8 +12,8 @@ Welches Bild, welcher Satz oder welches Objekt taucht an den wichtigsten emotion
 
 ### Beispiele
 
-- Der grüne Lichtpunkt (Der große Gatsby)
-- Schnee in Die Toten (James Joyce)
+- Der grüne Lichtpunkt (The Great Gatsby)
+- Schnee in The Dead (James Joyce)
 - die Uhr in vielen Thriller-Narrativen
 
 ### Passt zu

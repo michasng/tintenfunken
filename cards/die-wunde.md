@@ -12,7 +12,7 @@ Was ist das prägende negative Erlebnis in der Vergangenheit meiner Figur? Wie m
 
 ### Beispiele
 
-- Katniss' Verlust des Vaters (Die Tribute von Panem)
+- Katniss' Verlust des Vaters (The Hunger Games)
 - Batmans Elternmord
 - fast jeder traumatisierte Held im psychologischen Drama
 

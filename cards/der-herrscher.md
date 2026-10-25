@@ -13,9 +13,9 @@ Welche Ordnung verteidigt mein Herrscher? Welche Kosten zahlen jene, die unter i
 ### Beispiele
 
 - Tywin Lannister (Game of Thrones)
-- Don Corleone (Der Pate)
-- König Mufasa (Der König der Löwen)
-- Miranda Priestly (Der Teufel trägt Prada)
+- Don Corleone (The Godfather)
+- König Mufasa (The Lion King)
+- Miranda Priestly (The Devil Wears Prada)
 
 ### Vorsicht
 

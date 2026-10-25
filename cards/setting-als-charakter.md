@@ -14,7 +14,7 @@ Welche drei konsistenten Eigenschaften hat mein Schauplatz? Wie verändert er si
 
 - Manderley in Rebecca (Du Maurier)
 - Hogwarts (Harry Potter)
-- Spuk in Hill House (Shirley Jackson)
+- The Haunting of Hill House (Shirley Jackson)
 - Gotham City
 
 ### Passt zu

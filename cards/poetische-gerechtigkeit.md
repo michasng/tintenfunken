@@ -12,7 +12,7 @@ Ergibt sich die Schlusssituation meiner Figuren organisch aus ihren früheren En
 
 ### Beispiele
 
-- Gatsby (Der große Gatsby)
+- Gatsby (The Great Gatsby)
 - Walter White (Breaking Bad)
 - Schurken in Märchen
 

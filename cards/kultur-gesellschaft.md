@@ -12,8 +12,8 @@ Was ist in der Gesellschaft meiner Geschichte normal, was tabuisiert? Welche Fig
 
 ### Beispiele
 
-- Das Kastensystem in Schöne neue Welt (Huxley)
-- Gilead in Der Report der Magd (Atwood)
+- Das Kastensystem in Brave New World (Huxley)
+- Gilead in The Handmaid's Tale (Atwood)
 
 ### Passt zu
 

@@ -12,8 +12,8 @@ Welches Hindernis steht am Eingang des nächsten Kapitels meiner Hauptfigur? Ist
 
 ### Beispiele
 
-- Die Wächter in Matrix
-- Zerberus (Griechische Mythologie)
+- Die Agents in The Matrix
+- Cerberus (Griechische Mythologie)
 - Gollum am Eingang zu Mordor
 
 ### Passt zu

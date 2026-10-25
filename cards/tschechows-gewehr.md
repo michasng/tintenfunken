@@ -12,8 +12,8 @@ Welche Details in meiner Eröffnungsszene kann ich so platzieren, dass sie im dr
 
 ### Beispiele
 
-- Das Flugblatt zum Blitzeinschlag in den Uhrturm (Zurück in die Zukunft)
-- Hermines Zeitumkehrer (Harry Potter)
+- Das Flugblatt zum Blitzeinschlag in den Uhrturm (Back to the Future)
+- Hermiones Time-Turner (Harry Potter)
 - Das Lichtschwert von Lukes Vater (Star Wars)
 
 ### Vorsicht

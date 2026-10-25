@@ -13,7 +13,8 @@ Was ist der erste Wendepunkt, ab dem meine Figur die alte Welt nicht mehr zurüc
 ### Beispiele
 
 - Fast jeder Hollywoodfilm
-- Die Verwandlung (Kafka), Stolz und Vorurteil (Austen)
+- Die Verwandlung (Kafka)
+- Pride and Prejudice (Austen)
 
 ### Vorsicht
 

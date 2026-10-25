@@ -14,7 +14,7 @@ Was sieht jede meiner POV-Figuren an einer Schlüsselszene anders? Wie veränder
 
 - A Song of Ice and Fire (Martin)
 - Gone Girl (Flynn – Nick und Amy)
-- Der Herr der Ringe
+- The Lord of the Rings
 
 ### Vorsicht
 

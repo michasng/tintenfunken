@@ -13,7 +13,7 @@ Welche Eigenschaft des Antagonisten könnte auch in meinem Helden stecken? Unter
 ### Beispiele
 
 - Voldemort (Harry Potter)
-- Hannibal Lecter (Das Schweigen der Lämmer)
+- Hannibal Lecter (The Silence of the Lambs)
 - Thanos (Avengers: Infinity War)
 
 ### Vorsicht

@@ -12,7 +12,7 @@ Welcher Moment nach einer Klimax-Szene ermöglicht es meinen Figuren und dem Les
 
 ### Beispiele
 
-- Sam & Frodos Gespräch über Geschichten (Der Herr der Ringe)
+- Sam & Frodos Gespräch über Geschichten (The Lord of the Rings)
 - Lagerfeuernächte in Abenteuerromanen
 
 ### Vorsicht

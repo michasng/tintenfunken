@@ -13,9 +13,9 @@ Was glaubt meine Figur zu Beginn fälschlicherweise über sich, andere oder die 
 ### Beispiele
 
 - Ebenezer Scrooge (A Christmas Carol)
-- Elizabeth Bennet (Stolz und Vorurteil)
+- Elizabeth Bennet (Pride and Prejudice)
 - Tony Stark (Iron Man)
-- Simba (Der König der Löwen)
+- Simba (The Lion King)
 
 ### Passt zu
 

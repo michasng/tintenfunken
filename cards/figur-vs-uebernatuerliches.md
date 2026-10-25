@@ -13,8 +13,8 @@ Was symbolisiert das übernatürliche Element meiner Geschichte? Welche menschli
 ### Beispiele
 
 - Dracula (Stoker)
-- Der Exorzist
-- Spuk in Hill House (Shirley Jackson)
+- The Exorcist
+- The Haunting of Hill House (Shirley Jackson)
 
 ### Passt zu
 

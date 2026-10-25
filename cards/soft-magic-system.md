@@ -12,7 +12,7 @@ Welches Geheimnis behält das übernatürliche Element meiner Welt? Was verlöre
 
 ### Beispiele
 
-- Gandalf (Der Herr der Ringe)
+- Gandalf (The Lord of the Rings)
 - Magie in A Song of Ice and Fire (Martin)
 - Jonathan Strange & Mr Norrell (Clarke)
 

@@ -12,7 +12,7 @@ Habe ich ausreichend Hinweise eingebaut, damit sich mein Twist im Rückblick unv
 
 ### Beispiele
 
-- »Ich bin dein Vater« (Star Wars)
+- »No, I am your father« (Star Wars)
 - Tyler Durden (Fight Club)
 - The Sixth Sense
 

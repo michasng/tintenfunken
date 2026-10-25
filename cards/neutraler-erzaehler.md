@@ -14,7 +14,7 @@ Was müssen meine Figuren tun und sagen, damit ihr innerer Zustand ohne jede Inn
 
 - Hills Like White Elephants (Hemingway – kein einziger innerer Gedanke)
 - Dashiell Hammetts Detektivprosa
-- Der Fremde (Camus – überwiegend)
+- L'Étranger (Camus – überwiegend)
 
 ### Vorsicht
 

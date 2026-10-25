@@ -15,7 +15,7 @@ Was würde meine Figur verlieren, wenn die geheime Identität aufgedeckt würde?
 - Batman / Bruce Wayne
 - Superman / Clark Kent
 - Zorro
-- Der Scharlachrote Pimpernel
+- The Scarlet Pimpernel
 
 ### Vorsicht
 

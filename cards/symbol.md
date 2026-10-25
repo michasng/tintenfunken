@@ -13,8 +13,8 @@ Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Ro
 ### Beispiele
 
 - Der weiße Wal (Moby Dick)
-- die gläserne Menagerie (Tennessee Williams)
-- der scharlachrote Buchstabe (Hawthorne)
+- die Glasfiguren in The Glass Menagerie (Tennessee Williams)
+- der scharlachrote Buchstabe in The Scarlet Letter (Hawthorne)
 
 ### Passt zu
 

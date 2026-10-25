@@ -13,8 +13,8 @@ Was macht jede der beiden konkurrierenden Figuren einzigartig attraktiv? Was mac
 ### Beispiele
 
 - Bella – Edward – Jacob (Twilight)
-- Katniss – Peeta – Gale (Die Tribute von Panem)
-- Aragorn – Arwen – Éowyn (Der Herr der Ringe)
+- Katniss – Peeta – Gale (The Hunger Games)
+- Aragorn – Arwen – Éowyn (The Lord of the Rings)
 
 ### Vorsicht
 

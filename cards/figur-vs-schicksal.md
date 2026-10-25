@@ -12,7 +12,7 @@ Weiß meine Figur von ihrem Schicksal? Wie verändert dieses Wissen ihr Handeln,
 
 ### Beispiele
 
-- Ödipus Rex (Sophokles)
+- Oedipus Rex (Sophocles)
 - Macbeth (Shakespeare)
 - Arrival (Denis Villeneuve)
 

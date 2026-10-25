@@ -14,7 +14,7 @@ Was kämpft in meiner Figur gegeneinander? Welche Entscheidung erzwingt die Gesc
 
 - Hamlet (Shakespeare)
 - Walter White (Breaking Bad)
-- Gollum (Der Herr der Ringe)
+- Gollum (The Lord of the Rings)
 - Nina (Black Swan)
 
 ### Passt zu

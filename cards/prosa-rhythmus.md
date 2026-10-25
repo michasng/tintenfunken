@@ -13,7 +13,7 @@ Lies diesen Absatz laut vor. Entsprechen Klang und Tempo dem emotionalen Inhalt 
 ### Beispiele
 
 - Cormac McCarthys Kurzsätze in No Country for Old Men
-- Prousts Endlossätze in Auf der Suche nach der verlorenen Zeit
+- Prousts Endlossätze in À la recherche du temps perdu
 - Hemingways parataktische Einfachheit
 
 ### Vorsicht

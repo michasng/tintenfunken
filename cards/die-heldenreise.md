@@ -12,10 +12,10 @@ Wo steht meine Figur auf der Heldenreise? Welchen Schritt verweigert sie gerade 
 
 ### Beispiele
 
-- Frodo (Der Herr der Ringe)
+- Frodo (The Lord of the Rings)
 - Luke Skywalker (Star Wars)
-- Simba (Der König der Löwen)
-- Odysseus (Die Odyssee)
+- Simba (The Lion King)
+- Odysseus (The Odyssey)
 
 ### Vorsicht
 

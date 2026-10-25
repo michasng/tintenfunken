@@ -13,7 +13,7 @@ Könntest du den Figurennamen entfernen und den Dialog nur anhand des Sprachstil
 ### Beispiele
 
 - Hagrid vs. Dumbledore vs. Voldemort (Harry Potter)
-- Gollum (Der Herr der Ringe)
+- Gollum (The Lord of the Rings)
 - Yoda (Star Wars)
 
 ### Vorsicht

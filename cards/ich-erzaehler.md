@@ -12,8 +12,8 @@ Was weiß mein Ich-Erzähler nicht? Wie nutze ich diese Lücke für Spannung ode
 
 ### Beispiele
 
-- Holden Caulfield (Der Fänger im Roggen)
-- Scout Finch (Wer die Nachtigall stört)
+- Holden Caulfield (The Catcher in the Rye)
+- Scout Finch (To Kill a Mockingbird)
 - Ishmael (Moby Dick)
 
 ### Vorsicht

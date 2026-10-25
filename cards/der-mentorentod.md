@@ -14,7 +14,7 @@ Welchen Tod oder Abgang muss mein Held verkraften, bevor er die letzte Prüfung 
 
 - Obi-Wan Kenobi (Star Wars)
 - Gandalf an der Brücke von Khazad-dûm
-- Mufasa (Der König der Löwen)
+- Mufasa (The Lion King)
 - Dumbledore (Harry Potter)
 
 ### Vorsicht

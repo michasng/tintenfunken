@@ -12,9 +12,9 @@ Was steht für meine Figur auf dem Spiel? Hat der Leser verstanden, warum genau 
 
 ### Beispiele
 
-- Frodos Seele vs. der Ring (Der Herr der Ringe)
+- Frodos Seele vs. der Ring (The Lord of the Rings)
 - Rockys Würde vs. der Kampf (Rocky)
-- Atticus' Integrität vs. die Gemeinschaft (Wer die Nachtigall stört)
+- Atticus' Integrität vs. die Gemeinschaft (To Kill a Mockingbird)
 
 ### Vorsicht
 

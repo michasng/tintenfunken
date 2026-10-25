@@ -14,7 +14,7 @@ Was erschafft meine Figur? Welche unbeabsichtigten Konsequenzen bringt das Gesch
 
 - Victor Frankenstein (Shelley)
 - Tony Stark als Erfinder (Iron Man)
-- Willy Wonka (Charlie und die Schokoladenfabrik)
+- Willy Wonka (Charlie and the Chocolate Factory)
 - Dr. Hammond (Jurassic Park)
 
 ### Vorsicht

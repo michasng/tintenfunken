@@ -12,9 +12,9 @@ Gegen welches konkrete System oder welche Norm rebelliert meine Figur? Was koste
 
 ### Beispiele
 
-- Katniss Everdeen (Die Tribute von Panem)
-- McMurphy (Einer flog über das Kuckucksnest)
-- V (V wie Vendetta)
+- Katniss Everdeen (The Hunger Games)
+- McMurphy (One Flew Over the Cuckoo's Nest)
+- V (V for Vendetta)
 
 ### Vorsicht
 

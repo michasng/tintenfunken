@@ -13,7 +13,7 @@ Erfüllt sich meine Prophezeiung auf überraschende, aber im Nachhinein unvermei
 ### Beispiele
 
 - Macbeth (Shakespeare)
-- Ödipus Rex (Sophokles)
+- Oedipus Rex (Sophocles)
 - Anakin Skywalker als »der Auserwählte« (Star Wars)
 
 ### Vorsicht

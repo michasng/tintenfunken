@@ -12,9 +12,9 @@ Wo nutzt mein Erzähler die Distanz zum Kommentieren? Wo sollte er eintauchen, u
 
 ### Beispiele
 
-- Leo Tolstoi (Krieg und Frieden)
-- Jane Austen (Stolz und Vorurteil)
-- Terry Pratchett (Scheibenwelt)
+- Leo Tolstoy (War and Peace)
+- Jane Austen (Pride and Prejudice)
+- Terry Pratchett (Discworld)
 
 ### Vorsicht
 

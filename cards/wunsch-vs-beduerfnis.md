@@ -12,7 +12,7 @@ Was will meine Figur, und was braucht sie wirklich? Wann begreift sie den Unters
 
 ### Beispiele
 
-- Simba will vergessen, braucht aber Verantwortung (Der König der Löwen)
+- Simba will vergessen, braucht aber Verantwortung (The Lion King)
 - Tony Stark will Kontrolle, braucht Vertrauen (Iron Man)
 
 ### Passt zu

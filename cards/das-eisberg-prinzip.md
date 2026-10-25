@@ -12,7 +12,7 @@ Welche drei Aspekte meiner Welt kenne ich detailliert, ohne sie je explizit zu e
 
 ### Beispiele
 
-- Tolkiens Mittelerde (unzählige unveröffentlichte Hintergrundtexte)
+- Tolkiens Middle-earth (unzählige unveröffentlichte Hintergrundtexte)
 - Dune (Herbert)
 - Hemingways Prosa
 

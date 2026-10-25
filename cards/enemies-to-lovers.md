@@ -12,9 +12,9 @@ Was ist der spezifische Interessenkonflikt, der meine Figuren trennt? Was zwingt
 
 ### Beispiele
 
-- Darcy & Elizabeth (Stolz und Vorurteil)
+- Darcy & Elizabeth (Pride and Prejudice)
 - Han Solo & Leia (Star Wars)
-- Beatrice & Benedikt (Viel Lärm um Nichts)
+- Beatrice & Benedick (Much Ado About Nothing)
 
 ### Vorsicht
 

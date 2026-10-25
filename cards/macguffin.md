@@ -13,7 +13,7 @@ Was wollen alle Figuren in meiner Geschichte haben oder erreichen? Warum ist es 
 ### Beispiele
 
 - Der Aktenkoffer-Inhalt (Pulp Fiction)
-- der Ring (Der Herr der Ringe)
+- der Ring (The Lord of the Rings)
 - das Briefing in North by Northwest (Hitchcock)
 
 ### Vorsicht

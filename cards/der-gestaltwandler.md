@@ -12,7 +12,7 @@ An welchem Punkt der Geschichte offenbart mein Gestaltwandler, auf welcher Seite
 
 ### Beispiele
 
-- Hans (Die Eiskönigin)
+- Hans (Frozen)
 - Severus Snape (Harry Potter)
 - Amy Dunne (Gone Girl)
 

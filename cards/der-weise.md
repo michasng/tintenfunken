@@ -14,8 +14,8 @@ Was weiß meine Weisheitsfigur, das der Held erst am Ende verstehen wird? Wie de
 
 - Yoda (Star Wars)
 - Oogway (Kung Fu Panda)
-- Rafiki (Der König der Löwen)
-- der alte Fischer in Der alte Mann und das Meer (Hemingway)
+- Rafiki (The Lion King)
+- der alte Fischer in The Old Man and the Sea (Hemingway)
 
 ### Vorsicht
 

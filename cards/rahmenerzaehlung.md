@@ -13,9 +13,9 @@ Was weiß mein Rahmenerzähler schon vom Ende der Geschichte? Wie färbt dieses 
 ### Beispiele
 
 - Frankenstein (Shelley – Briefe)
-- Sturmhöhe (Brontë)
-- Die Brautprinzessin
-- Der Hobbit
+- Wuthering Heights (Brontë)
+- The Princess Bride
+- The Hobbit
 
 ### Vorsicht
 

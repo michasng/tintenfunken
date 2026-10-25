@@ -13,7 +13,7 @@ Welche reale Situation oder Ideologie spiegelt meine Geschichte? Welche Elemente
 ### Beispiele
 
 - Animal Farm (Orwell – Sowjetunion)
-- Herr der Fliegen (Golding – Zivilisation vs. Barbarei)
+- Lord of the Flies (Golding – Zivilisation vs. Barbarei)
 
 ### Vorsicht
 

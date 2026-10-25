@@ -13,7 +13,7 @@ Was entdeckt meine Figur auf ihrer Reise, das sie verändert? Was hätte sie lie
 ### Beispiele
 
 - Indiana Jones
-- Bilbo Beutlin (Der Hobbit)
+- Bilbo Baggins (The Hobbit)
 - Lyra Silvertongue (His Dark Materials)
 - Captain Ahab (Moby Dick) als dunkle Variante
 

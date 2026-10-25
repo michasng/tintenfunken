@@ -12,9 +12,9 @@ Was ist meine Figur bereit, für die Verbindung, die sie sucht, zu verlieren? Wa
 
 ### Beispiele
 
-- Romeo & Julia (Shakespeare)
+- Romeo & Juliet (Shakespeare)
 - Jack & Rose (Titanic)
-- Heathcliff (Sturmhöhe – Brontë)
+- Heathcliff (Wuthering Heights – Brontë)
 
 ### Vorsicht
 

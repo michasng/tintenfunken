@@ -12,7 +12,7 @@ Welcher nicht-visuelle Sinneseindruck charakterisiert eine Schlüsselszene meine
 
 ### Beispiele
 
-- Der Geruch der Madeleines in Auf der Suche nach der verlorenen Zeit (Proust)
+- Der Geruch der Madeleines in À la recherche du temps perdu (Proust)
 - Klangatmosphäre in Virginia Woolfs The Waves
 
 ### Vorsicht

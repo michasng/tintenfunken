@@ -12,7 +12,7 @@ Welche Figur hat der Leser am meisten ins Vertrauen gezogen? Wie habe ich diese 
 
 ### Beispiele
 
-- Boromir (Der Herr der Ringe)
+- Boromir (The Lord of the Rings)
 - Peter Pettigrew (Harry Potter)
 - Cersei Lannister (Game of Thrones)
 

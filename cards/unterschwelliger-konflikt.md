@@ -12,7 +12,7 @@ Was streiten meine Figuren wirklich, wenn sie über das Abendessen, das Wetter o
 
 ### Beispiele
 
-- Wer hat Angst vor Virginia Woolf? (Albee)
+- Who's Afraid of Virginia Woolf? (Albee)
 - Hills Like White Elephants (Hemingway)
 
 ### Passt zu

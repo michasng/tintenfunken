@@ -13,7 +13,7 @@ Was sind die drei wichtigsten Regeln meines Systems? Was ist der größte Preis,
 ### Beispiele
 
 - Allomantik in Mistborn (Sanderson)
-- Bending in Avatar – Der Herr der Elemente
+- Bending in Avatar: The Last Airbender
 - Alchemie in Fullmetal Alchemist
 
 ### Vorsicht

@@ -12,8 +12,8 @@ Was ist der genaue Moment und der präzise Grund, warum meine Figur nicht mehr n
 
 ### Beispiele
 
-- Bilbo Beutlin (Der Hobbit)
-- Neo (Matrix)
+- Bilbo Baggins (The Hobbit)
+- Neo (The Matrix)
 - Rick Blaine (Casablanca)
 
 ### Vorsicht

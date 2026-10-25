@@ -12,7 +12,7 @@ Was verschweigt, verdreht oder missversteht mein Erzähler? Welche Szenen zeigen
 
 ### Beispiele
 
-- Stevens in Was vom Tage übrig blieb (Ishiguro)
+- Stevens in The Remains of the Day (Ishiguro)
 - Amy Dunne (Gone Girl)
 - Humbert Humbert (Lolita – Nabokov)
 

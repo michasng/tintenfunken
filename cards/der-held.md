@@ -12,9 +12,9 @@ Was will meine Figur bewusst, und was braucht sie wirklich? Wo weichen diese bei
 
 ### Beispiele
 
-- Frodo Beutlin (Der Herr der Ringe)
+- Frodo Baggins (The Lord of the Rings)
 - Luke Skywalker (Star Wars)
-- Katniss Everdeen (Die Tribute von Panem)
+- Katniss Everdeen (The Hunger Games)
 
 ### Vorsicht
 

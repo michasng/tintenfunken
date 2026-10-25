@@ -13,7 +13,7 @@ Welche ernste Situation in meiner Geschichte könnte durch die unerwartete Inter
 ### Beispiele
 
 - Loki (Nordische Mythologie / Marvel)
-- Jack Sparrow (Fluch der Karibik)
+- Jack Sparrow (Pirates of the Caribbean)
 - Fred & George Weasley (Harry Potter)
 
 ### Vorsicht

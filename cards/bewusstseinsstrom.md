@@ -14,7 +14,7 @@ In welchem Moment der intensivsten psychologischen Belastung meiner Figur könnt
 
 - Ulysses (Joyce)
 - Mrs. Dalloway (Woolf)
-- Der Schall und der Zorn (Faulkner)
+- The Sound and the Fury (Faulkner)
 
 ### Vorsicht
 

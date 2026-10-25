@@ -12,8 +12,8 @@ Welche Distanz braucht diese spezifische Szene? Welcher Wechsel würde die emoti
 
 ### Beispiele
 
-- Austen wechselt Distanz bewusst: ironischer Überblick + Elizabeths Innenperspektive (Stolz und Vorurteil)
-- Tolstois Schlachtszenen vs. Pierres Innenwelt (Krieg und Frieden)
+- Austen wechselt Distanz bewusst: ironischer Überblick + Elizabeths Innenperspektive (Pride and Prejudice)
+- Tolstoys Schlachtszenen vs. Pierres Innenwelt (War and Peace)
 
 ### Vorsicht
 

@@ -14,7 +14,7 @@ Welche Entscheidung hat meine Kontrastfigur getroffen, die mein Protagonist nich
 
 - Draco Malfoy als Foil zu Harry Potter
 - Laertes als Foil zu Hamlet
-- Gaston als Foil zu Beast (Die Schöne und das Biest)
+- Gaston als Foil zu Beast (Beauty and the Beast)
 
 ### Passt zu
 
