@@ -126,7 +126,11 @@ function buildFrontCard(card, index) {
   return root;
 }
 
-function buildBackCard(card, titleToCardNumber, onLinkClick) {
+function buildCardLookup(cards) {
+  return new Map(cards.map((card, index) => [card.title, { number: index + 1, category: card.category }]));
+}
+
+function buildBackCard(card, cardLookup, onLinkClick) {
   const template = document.getElementById('card-back-template').content.cloneNode(true);
   const root = template.querySelector('.card-back');
 
@@ -146,15 +150,19 @@ function buildBackCard(card, titleToCardNumber, onLinkClick) {
   if (card.pairs_with.length) {
     const tags = root.querySelector('[data-field="tags"]');
     for (const t of card.pairs_with) {
-      const cardNumber = titleToCardNumber?.get(t);
-      const tag = document.createElement(cardNumber ? 'button' : 'span');
+      const linked = cardLookup?.get(t);
+      const clickable = linked && onLinkClick;
+      const tag = document.createElement(clickable ? 'button' : 'span');
       tag.className = 'tag';
       tag.textContent = t;
-      if (cardNumber) {
+      if (linked) {
+        tag.style.setProperty('--accent', CATEGORY_COLORS[linked.category] ?? '#555');
+      }
+      if (clickable) {
         tag.type = 'button';
         tag.addEventListener('click', event => {
           event.stopPropagation();
-          onLinkClick(cardNumber);
+          onLinkClick(linked.number);
         });
       }
       tags.append(tag);
@@ -176,7 +184,7 @@ function buildBackCard(card, titleToCardNumber, onLinkClick) {
   return root;
 }
 
-function buildPreviewCard(card, index, titleToCardNumber, onLinkClick) {
+function buildPreviewCard(card, index, cardLookup, onLinkClick) {
   const previewCard = document.createElement('div');
   previewCard.className = 'preview-card';
 
@@ -189,7 +197,7 @@ function buildPreviewCard(card, index, titleToCardNumber, onLinkClick) {
 
   const back = document.createElement('div');
   back.className = 'preview-face preview-face-back';
-  back.append(buildBackCard(card, titleToCardNumber, onLinkClick));
+  back.append(buildBackCard(card, cardLookup, onLinkClick));
 
   inner.append(front, back);
   previewCard.append(inner);
@@ -197,7 +205,7 @@ function buildPreviewCard(card, index, titleToCardNumber, onLinkClick) {
 }
 
 function createPreview(cards, onCardChange) {
-  const titleToCardNumber = new Map(cards.map((card, index) => [card.title, index + 1]));
+  const cardLookup = buildCardLookup(cards);
   const stage = document.querySelector('.preview-stage');
   const counter = document.querySelector('.preview-counter');
   const previousButton = document.querySelector('.preview-previous');
@@ -211,7 +219,7 @@ function createPreview(cards, onCardChange) {
 
   function show(cardNumber) {
     currentCard = Math.min(Math.max(cardNumber, 1), cards.length);
-    stage.replaceChildren(buildPreviewCard(cards[currentCard - 1], currentCard, titleToCardNumber, onCardChange));
+    stage.replaceChildren(buildPreviewCard(cards[currentCard - 1], currentCard, cardLookup, onCardChange));
     counter.textContent = `${currentCard} / ${cards.length}`;
     previousButton.disabled = currentCard === 1;
     nextButton.disabled = currentCard === cards.length;
@@ -295,7 +303,7 @@ function createPreview(cards, onCardChange) {
   return { show };
 }
 
-function buildSheet(slots, type, label) {
+function buildSheet(slots, type, label, cardLookup) {
   const sheet = document.createElement('div');
   sheet.className = `sheet ${type}-sheet`;
   sheet.dataset.label = label;
@@ -306,7 +314,7 @@ function buildSheet(slots, type, label) {
       cell.append(
         type === 'front'
           ? buildFrontCard(slot.data, slot.index)
-          : buildBackCard(slot.data)
+          : buildBackCard(slot.data, cardLookup)
       );
     }
     sheet.append(cell);
@@ -329,6 +337,7 @@ function render(cards, duplexMode, flipEdge) {
   const container = document.getElementById('sheets');
   container.innerHTML = '';
 
+  const cardLookup = buildCardLookup(cards);
   const indexed = cards.map((data, i) => ({ data, index: i + 1 }));
   const chunks = [];
   for (let i = 0; i < indexed.length; i += 4) {
@@ -340,7 +349,7 @@ function render(cards, duplexMode, flipEdge) {
     for (let i = 0; i < n; i++) {
       container.append(
         buildSheet(padTo4(chunks[i]), 'front', `Vorderseite ${i + 1} / ${n}`),
-        buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`)
+        buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`, cardLookup)
       );
     }
   } else {
@@ -361,7 +370,7 @@ function render(cards, duplexMode, flipEdge) {
 
     for (let i = n - 1; i >= 0; i--) {
       container.append(
-        buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`)
+        buildSheet(mirrorSlots(chunks[i], flipEdge), 'back', `Rückseite ${i + 1} / ${n}`, cardLookup)
       );
     }
   }
