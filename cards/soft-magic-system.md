@@ -8,7 +8,7 @@ Erzeugt Staunen, Bedrohung und Ehrfurcht. Eignet sich für atmosphärische, myth
 
 ### Anwendung
 
-Welches Geheimnis behält das übernatürliche Element meiner Welt – und was verlöre die Geschichte, wenn es vollständig erklärt würde?
+Welches Geheimnis behält das übernatürliche Element meiner Welt? Was verlöre die Geschichte, wenn es vollständig erklärt würde?
 
 ### Beispiele
 

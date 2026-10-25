@@ -4,11 +4,11 @@ Eine Figur, die durch Schicksal, Prophezeiung oder besondere Herkunft eine entsc
 
 ### Funktion
 
-Verleiht dem Protagonisten eine kosmische Bedeutung und erzeugt Spannung durch die Frage: Wird er seiner Bestimmung gerecht – oder scheitert er?
+Verleiht dem Protagonisten eine kosmische Bedeutung und erzeugt Spannung durch die Frage: Wird er seiner Bestimmung gerecht oder scheitert er?
 
 ### Anwendung
 
-Wie subvertiert meine Geschichte die Erwartung des Auserwählten – durch Fehlbarkeit, Zweifel oder eine falsche Prophezeiung?
+Wie subvertiert meine Geschichte die Erwartung des Auserwählten, etwa durch Fehlbarkeit, Zweifel oder eine falsche Prophezeiung?
 
 ### Beispiele
 

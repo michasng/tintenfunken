@@ -8,7 +8,7 @@ Erzeugt anhaltende Spannung, liefert natürliche Konfliktmomente und macht die e
 
 ### Anwendung
 
-Was ist der spezifische Interessenkonflikt, der meine Figuren trennt – und was zwingt sie, diesen zu überwinden?
+Was ist der spezifische Interessenkonflikt, der meine Figuren trennt? Was zwingt sie, diesen zu überwinden?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Was ist der spezifische Interessenkonflikt, der meine Figuren trennt – und was
 
 ### Vorsicht
 
-Die Feindschaft darf kein reines Missverständnis sein, das ein Gespräch lösen würde; echter Konflikt ist nötig.
+Die Feindschaft darf kein reines Missverständnis sein, das ein Gespräch lösen würde. Echter Konflikt ist nötig.
 
 ### Passt zu
 

@@ -4,11 +4,11 @@ Die kleinste dramatische Einheit: ein einzelner Austausch von Aktion und Reaktio
 
 ### Funktion
 
-Beats sind die Atome des Dramas; eine Szene ist eine Folge von Beats. Wer Beats bewusst gestaltet, kontrolliert das Pacing auf Mikroebene.
+Beats sind die Atome des Dramas. Eine Szene ist eine Folge von Beats. Wer Beats bewusst gestaltet, kontrolliert das Pacing auf Mikroebene.
 
 ### Anwendung
 
-Verlangsame eine Szene, indem du mehr Beats einfügst; beschleunige sie, indem du Beats zusammenfasst oder weglässt.
+Verlangsame eine Szene, indem du mehr Beats einfügst. Beschleunige sie, indem du Beats zusammenfasst oder weglässt.
 
 ### Beispiele
 

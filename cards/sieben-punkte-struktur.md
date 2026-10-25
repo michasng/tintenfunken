@@ -8,7 +8,7 @@ Betont das Zusammenspiel von äußerem und innerem Konflikt und ist besonders n�
 
 ### Anwendung
 
-Was ist mein Midpoint – der Moment, in dem meine Figur aufhört zu reagieren und beginnt zu handeln?
+Wo liegt mein Midpoint, also der Moment, in dem meine Figur aufhört zu reagieren und beginnt zu handeln?
 
 ### Beispiele
 

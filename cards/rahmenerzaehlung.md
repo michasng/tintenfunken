@@ -8,7 +8,7 @@ Erzeugt Distanz und Kommentar, macht Auslassungen glaubwürdig, kann Spannung du
 
 ### Anwendung
 
-Was weiß mein Rahmenerzähler schon vom Ende der Geschichte – und wie färbt dieses Wissen implizit seine Erzählung?
+Was weiß mein Rahmenerzähler schon vom Ende der Geschichte? Wie färbt dieses Wissen implizit seine Erzählung?
 
 ### Beispiele
 

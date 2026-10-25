@@ -4,11 +4,11 @@ Jede Geschichte erzählt gleichzeitig eine äußere Handlung (Plot) und eine inn
 
 ### Funktion
 
-Gibt der Geschichte ihre zweite Dimension. Ohne innere Reise ist es nur Plot; ohne äußere Reise entsteht kein Drama.
+Gibt der Geschichte ihre zweite Dimension. Ohne innere Reise ist es nur Plot, ohne äußere Reise entsteht kein Drama.
 
 ### Anwendung
 
-Wie löst die Auflösung des äußeren Konflikts gleichzeitig die innere Wandlung meiner Figur – oder verunmöglicht sie?
+Wie löst die Auflösung des äußeren Konflikts gleichzeitig die innere Wandlung meiner Figur? Oder verunmöglicht sie diese?
 
 ### Beispiele
 

@@ -1,6 +1,6 @@
 ## Save the Cat! Beat Sheet
 
-Ein 15-Punkte-Schema für Drehbücher und Romane mit präzisen Positionen für jeden strukturellen Moment – von der Eröffnung bis zum Finale.
+Ein 15-Punkte-Schema für Drehbücher und Romane mit präzisen Positionen für jeden strukturellen Moment, von der Eröffnung bis zum Finale.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Gibt Autoren eine konkrete Checkliste für Pacing und Struktur und hilft, emotio
 
 ### Anwendung
 
-Habe ich einen »All is Lost«-Moment kurz vor dem Finale – den tiefsten Punkt, bevor meine Figur die letzte Transformation vollzieht?
+Habe ich einen »All is Lost«-Moment kurz vor dem Finale, also den tiefsten Punkt, bevor meine Figur die letzte Transformation vollzieht?
 
 ### Beispiele
 

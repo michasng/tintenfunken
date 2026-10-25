@@ -8,7 +8,7 @@ Gibt der Geschichte ein inneres Anliegen, das über den Plot hinausgeht, und ver
 
 ### Anwendung
 
-Was ist die eine Frage, die meine Geschichte stellt – und wie lautet die implizite Antwort, die das Ende liefert?
+Was ist die eine Frage, die meine Geschichte stellt? Wie lautet die implizite Antwort, die das Ende liefert?
 
 ### Beispiele
 

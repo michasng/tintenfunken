@@ -8,7 +8,7 @@ Steigert Spannung mechanisch und unerbittlich. Verhindert, dass Figuren sich zu 
 
 ### Anwendung
 
-Was passiert genau, wenn meine Figur diese Aufgabe nicht rechtzeitig abschließt – und ist diese Konsequenz für den Leser wirklich bedrohlich?
+Was passiert genau, wenn meine Figur diese Aufgabe nicht rechtzeitig abschließt? Ist diese Konsequenz für den Leser wirklich bedrohlich?
 
 ### Beispiele
 

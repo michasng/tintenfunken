@@ -8,7 +8,7 @@ Maximiert die Effizienz der Prosa. Ein sprechendes Detail gibt dem Leser Raum zu
 
 ### Anwendung
 
-Welches eine Detail in dieser Beschreibung trägt die gesamte emotionale oder charakterliche Last – und können alle anderen Beschreibungen weg?
+Welches eine Detail in dieser Beschreibung trägt die gesamte emotionale oder charakterliche Last? Können alle anderen Beschreibungen weg?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Welches eine Detail in dieser Beschreibung trägt die gesamte emotionale oder ch
 
 ### Vorsicht
 
-Was als Detail gemeint ist, wird zur langen Beschreibung – weniger ist mehr.
+Was als Detail gemeint ist, wird zur langen Beschreibung. Weniger ist mehr.
 
 ### Passt zu
 

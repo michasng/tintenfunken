@@ -8,7 +8,7 @@ Ist der Motor des inneren Charakterbogens. Die Geschichte deckt Schicht für Sch
 
 ### Anwendung
 
-Formuliere die Lüge deiner Figur als konkreten Satz – und wie formt sie jede ihrer Entscheidungen?
+Formuliere die Lüge deiner Figur als konkreten Satz. Wie formt sie jede ihrer Entscheidungen?
 
 ### Beispiele
 

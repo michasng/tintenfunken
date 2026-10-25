@@ -4,11 +4,11 @@ Eine Figur oder ein Handlungsstrang, der die umgekehrte These zum Hauptthema ver
 
 ### Funktion
 
-Verhindert Vereinfachung und einen belehrenden Ton; zeigt, dass die Geschichte die Komplexität ihrer Frage ernst nimmt.
+Verhindert Vereinfachung und einen belehrenden Ton und zeigt, dass die Geschichte die Komplexität ihrer Frage ernst nimmt.
 
 ### Anwendung
 
-Wer in meiner Geschichte vertritt am überzeugendsten die entgegengesetzte Position zum Thema – und warum ist er nicht leicht zu widerlegen?
+Wer in meiner Geschichte vertritt am überzeugendsten die entgegengesetzte Position zum Thema? Warum ist er nicht leicht zu widerlegen?
 
 ### Beispiele
 

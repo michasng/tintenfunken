@@ -8,7 +8,7 @@ Treibt gesellschaftliche Konflikte voran, bringt die Außenseiter-Perspektive ei
 
 ### Anwendung
 
-Gegen welches konkrete System oder welche Norm rebelliert meine Figur – und was kostet sie dieser Widerstand?
+Gegen welches konkrete System oder welche Norm rebelliert meine Figur? Was kostet sie dieser Widerstand?
 
 ### Beispiele
 

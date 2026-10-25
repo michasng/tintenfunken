@@ -16,7 +16,7 @@ Welche zweite Funktion kann ich meiner aktuellen Infoszene geben, damit sie glei
 
 ### Vorsicht
 
-Eine Szene, die drei oder vier Funktionen hat, verliert an Fokus; zwei ist die optimale Zahl.
+Eine Szene, die drei oder vier Funktionen hat, verliert an Fokus. Zwei Funktionen sind optimal.
 
 ### Passt zu
 

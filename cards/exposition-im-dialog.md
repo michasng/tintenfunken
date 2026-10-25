@@ -8,7 +8,7 @@ Dieser Mechanismus sollte vermieden werden. Er entlarvt den Autor hinter der Fik
 
 ### Anwendung
 
-Wer braucht in dieser Szene wirklich eine Information – und welche Figur weiß sie noch nicht? Nur dann darf erklärt werden.
+Wer braucht in dieser Szene wirklich eine Information, und welche Figur weiß sie noch nicht? Nur dann darf erklärt werden.
 
 ### Beispiele
 
@@ -16,7 +16,7 @@ Wer braucht in dieser Szene wirklich eine Information – und welche Figur weiß
 
 ### Vorsicht
 
-Dies ist die Pitfall – die gesamte Karte ist eine Warnung.
+Die gesamte Karte ist eine Warnung.
 
 ### Passt zu
 

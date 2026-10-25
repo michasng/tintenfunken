@@ -8,7 +8,7 @@ Erzeugt Sympathie, Pausen im Drama und lässt Figurenbeziehungen lebendig und re
 
 ### Anwendung
 
-Wie sprechen meine zwei engsten Verbündeten miteinander, wenn die Welt nicht untergeht – und verrät mir dieser Ton etwas über ihre echte Beziehung?
+Wie sprechen meine zwei engsten Verbündeten miteinander, wenn die Welt nicht untergeht? Verrät mir dieser Ton etwas über ihre echte Beziehung?
 
 ### Beispiele
 

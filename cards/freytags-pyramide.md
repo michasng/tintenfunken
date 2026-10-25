@@ -8,7 +8,7 @@ Verdeutlicht den emotionalen Bogen eines Stücks und betont die Unausweichlichke
 
 ### Anwendung
 
-Welcher Moment ist der absolute Hochpunkt meiner Geschichte – und ist jede Szene davor entweder Aufbau oder Abstieg auf diesen Moment hin?
+Welcher Moment ist der absolute Hochpunkt meiner Geschichte? Ist jede Szene davor entweder Aufbau oder Abstieg auf diesen Moment hin?
 
 ### Beispiele
 

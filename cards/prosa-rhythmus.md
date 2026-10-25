@@ -1,6 +1,6 @@
 ## Prosa-Rhythmus
 
-Die bewusste Steuerung von Satzlänge, Syntax-Komplexität und Klang zur Erzeugung von Tempo, Stimmung und emotionaler Intensität – das Pacing auf Wortebene, abgegrenzt vom dramatischen Beat auf Handlungsebene.
+Die bewusste Steuerung von Satzlänge, Syntax-Komplexität und Klang zur Erzeugung von Tempo, Stimmung und emotionaler Intensität. Gemeint ist das Pacing auf Wortebene, abgegrenzt vom dramatischen Beat auf Handlungsebene.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Kurze Sätze beschleunigen, lange verlangsamen. Harte Konsonanten erzeugen Schä
 
 ### Anwendung
 
-Lies diesen Absatz laut vor – entspricht der Klang und das Tempo dem emotionalen Inhalt der Szene?
+Lies diesen Absatz laut vor. Entsprechen Klang und Tempo dem emotionalen Inhalt der Szene?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Lies diesen Absatz laut vor – entspricht der Klang und das Tempo dem emotional
 
 ### Vorsicht
 
-Einheitlicher Rhythmus über viele Seiten wirkt einschläfernd; Variation ist das Ziel.
+Einheitlicher Rhythmus über viele Seiten wirkt einschläfernd. Variation ist das Ziel.
 
 ### Passt zu
 

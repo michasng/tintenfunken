@@ -8,7 +8,7 @@ Verhindert allmächtige Figuren, erzeugt Dilemma durch Ressourcenknappheit und z
 
 ### Anwendung
 
-Was kann meine Figur mit ihrer besonderen Fähigkeit nicht tun – und macht genau diese Einschränkung die Geschichte spannender?
+Was kann meine Figur mit ihrer besonderen Fähigkeit nicht tun? Macht genau diese Einschränkung die Geschichte spannender?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Erzeugt sofortigen Sog, vermeidet langsame Starts und zwingt den Leser durch Neu
 
 ### Anwendung
 
-Was ist der spannendste oder aufschlussreichste Moment, mit dem ich meine Geschichte beginnen kann – und wie baue ich die nötige Exposition organisch danach ein?
+Was ist der spannendste oder aufschlussreichste Moment, mit dem ich meine Geschichte beginnen kann? Wie baue ich die nötige Exposition danach organisch ein?
 
 ### Beispiele
 

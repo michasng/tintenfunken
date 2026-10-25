@@ -4,11 +4,11 @@ Das Spektrum zwischen maximaler Nähe (Figur und Leser teilen ein Bewusstsein) u
 
 ### Funktion
 
-Ermöglicht bewusstes Steuern von Empathie, Spannung und Ironie. Größere Distanz erlaubt Kommentar; größere Nähe erzeugt Intensität und Immersion.
+Ermöglicht bewusstes Steuern von Empathie, Spannung und Ironie. Größere Distanz erlaubt Kommentar, größere Nähe erzeugt Intensität und Immersion.
 
 ### Anwendung
 
-Welche Distanz braucht diese spezifische Szene – und welcher Wechsel würde die emotionale Wirkung maximieren?
+Welche Distanz braucht diese spezifische Szene? Welcher Wechsel würde die emotionale Wirkung maximieren?
 
 ### Beispiele
 

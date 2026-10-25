@@ -8,7 +8,7 @@ Ermöglicht epische Geschichten mit vielen Figuren, Zeitsprünge und Ironie durc
 
 ### Anwendung
 
-Wo nutzt mein Erzähler die Distanz zum Kommentieren – und wo sollte er eintauchen, um die Figur näher an den Leser zu bringen?
+Wo nutzt mein Erzähler die Distanz zum Kommentieren? Wo sollte er eintauchen, um die Figur näher an den Leser zu bringen?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Wo nutzt mein Erzähler die Distanz zum Kommentieren – und wo sollte er eintau
 
 ### Vorsicht
 
-Auktorialer Kommentar kann die emotionale Immersion unterbrechen; sparsam einsetzen.
+Auktorialer Kommentar kann die emotionale Immersion unterbrechen und sollte sparsam eingesetzt werden.
 
 ### Passt zu
 

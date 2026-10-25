@@ -1,6 +1,6 @@
 ## Tiefer personaler Erzähler
 
-Die Erzählung taucht so tief in das Bewusstsein der Figur ein, dass jeder Satz in ihrer Sprache, Wahrnehmung und emotionalen Realität gefärbt ist. Auch bekannt als Dritte Person limitiert oder Personaler Erzähler; keine Distanz zwischen Figur und Leser.
+Die Erzählung taucht so tief in das Bewusstsein der Figur ein, dass jeder Satz in ihrer Sprache, Wahrnehmung und emotionalen Realität gefärbt ist. Auch bekannt als Dritte Person limitiert oder Personaler Erzähler. Zwischen Figur und Leser bleibt keine Distanz.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Erzeugt maximale Empathie und Immersion. Jedes beschriebene Objekt sagt etwas ü
 
 ### Anwendung
 
-Erkenne ich in meinem Text noch Formulierungen, die der Autor statt die Figur sagen würde – und wie ersetze ich sie durch die Wahrnehmung meiner Figur?
+Erkenne ich in meinem Text noch Formulierungen, die der Autor statt die Figur sagen würde? Wie ersetze ich sie durch die Wahrnehmung meiner Figur?
 
 ### Beispiele
 

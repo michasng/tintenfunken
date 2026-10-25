@@ -4,11 +4,11 @@ Eine Figur beginnt mit einer falschen Überzeugung und wird durch die Handlung t
 
 ### Funktion
 
-Erzeugt Tragödie und Sozialkritik. Der Leser sieht das Scheitern kommen und ist trotzdem gefesselt; das Thema wird durch das Scheitern enthüllt.
+Erzeugt Tragödie und Sozialkritik. Der Leser sieht das Scheitern kommen und ist trotzdem gefesselt. Das Thema wird durch das Scheitern enthüllt.
 
 ### Anwendung
 
-An welchem Punkt hat meine Figur die letzte Möglichkeit, sich anders zu entscheiden – und welche Szene markiert diesen unumkehrbaren Wendepunkt?
+An welchem Punkt hat meine Figur die letzte Möglichkeit, sich anders zu entscheiden? Welche Szene markiert diesen unumkehrbaren Wendepunkt?
 
 ### Beispiele
 

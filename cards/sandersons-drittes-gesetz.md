@@ -1,6 +1,6 @@
 ## Sandersons Drittes Gesetz
 
-Erweitere das Bestehende, bevor du Neues hinzufügst. Jedes neue übernatürliche Element muss das bereits Etablierte vertiefen – nicht ersetzen oder verdrängen.
+Erweitere das Bestehende, bevor du Neues hinzufügst. Jedes neue übernatürliche Element muss das bereits Etablierte vertiefen, nicht ersetzen oder verdrängen.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Verhindert, dass die Welt immer weiter ausufert, statt tiefer zu werden, und hä
 
 ### Anwendung
 
-Welche Eigenschaft meines bestehenden Systems habe ich noch nicht vollständig ausgereizt – und wie löse ich das nächste Problem damit, statt ein neues Element einzuführen?
+Welche Eigenschaft meines bestehenden Systems habe ich noch nicht vollständig ausgereizt? Wie löse ich das nächste Problem damit, statt ein neues Element einzuführen?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Macht Tragödie unvermeidlich und erhöht die moralische Tiefe der Geschichte. D
 
 ### Anwendung
 
-Was ist die eine Eigenschaft meiner Figur, die sie nicht erkennt oder nicht aufgeben will – und wie wende ich genau diese Eigenschaft gegen sie?
+Was ist die eine Eigenschaft meiner Figur, die sie nicht erkennt oder nicht aufgeben will? Wie wende ich genau diese Eigenschaft gegen sie?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Treibt Abenteuerhandlungen an, lässt die Welt beiläufig sichtbar werden und tr
 
 ### Anwendung
 
-Was entdeckt meine Figur auf ihrer Reise, das sie verändert – und was hätte sie lieber nicht gewusst?
+Was entdeckt meine Figur auf ihrer Reise, das sie verändert? Was hätte sie lieber nicht gewusst?
 
 ### Beispiele
 
@@ -19,7 +19,7 @@ Was entdeckt meine Figur auf ihrer Reise, das sie verändert – und was hätte 
 
 ### Vorsicht
 
-Ein Entdecker ohne innere Entwicklung ist nur eine Plotmaschine; das Entdeckte muss ihn verwandeln.
+Ein Entdecker ohne innere Entwicklung ist nur eine Plotmaschine. Das Entdeckte muss ihn verwandeln.
 
 ### Passt zu
 

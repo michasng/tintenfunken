@@ -4,7 +4,7 @@ Ein Protagonist, der seine Aufgabe zunächst ablehnt und erst durch äußere Ums
 
 ### Funktion
 
-Macht den Helden menschlicher und nachvollziehbarer; die Weigerung macht die spätere Entscheidung zur Handlung bedeutungsvoller.
+Macht den Helden menschlicher und nachvollziehbarer. Die Weigerung macht die spätere Entscheidung zur Handlung bedeutungsvoller.
 
 ### Anwendung
 

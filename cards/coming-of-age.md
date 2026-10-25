@@ -1,6 +1,6 @@
 ## Coming of Age
 
-Eine Figur – meist jung – wächst durch prägende Erfahrungen aus der Kindheit oder Adoleszenz in die Erwachsenenwelt hinein und verliert dabei eine Form der Unschuld.
+Eine meist junge Figur wächst durch prägende Erfahrungen aus der Kindheit oder Adoleszenz in die Erwachsenenwelt hinein und verliert dabei eine Form der Unschuld.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Bindet den Leser über vertraute Erfahrungen wie Verlust, Identitätssuche und e
 
 ### Anwendung
 
-Welche spezifische Illusion oder welchen Schutz verliert meine Figur in dieser Geschichte – und wann genau passiert das?
+Welche spezifische Illusion oder welchen Schutz verliert meine Figur in dieser Geschichte? Wann genau passiert das?
 
 ### Beispiele
 

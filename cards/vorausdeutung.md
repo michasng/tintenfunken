@@ -18,7 +18,7 @@ Welches Detail in meiner Eröffnung kann ich so platzieren, dass es beim zweiten
 
 ### Vorsicht
 
-Zu offensichtliches Foreshadowing nimmt dem Twist den Effekt; zu subtiles bemerkt niemand.
+Zu offensichtliches Foreshadowing nimmt dem Twist den Effekt, zu subtiles bemerkt niemand.
 
 ### Passt zu
 

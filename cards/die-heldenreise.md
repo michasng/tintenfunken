@@ -8,7 +8,7 @@ Liefert ein bewährtes dramatisches Gerüst mit klaren emotionalen Wendepunkten,
 
 ### Anwendung
 
-Wo steht meine Figur auf der Heldenreise – und welchen Schritt verweigert sie gerade noch?
+Wo steht meine Figur auf der Heldenreise? Welchen Schritt verweigert sie gerade noch?
 
 ### Beispiele
 
@@ -19,7 +19,7 @@ Wo steht meine Figur auf der Heldenreise – und welchen Schritt verweigert sie 
 
 ### Vorsicht
 
-Zu sklavische Anwendung erzeugt vorhersehbare Geschichten; die Reise ist ein Kompass, kein Kochrezept.
+Zu sklavische Anwendung erzeugt vorhersehbare Geschichten. Die Reise ist ein Kompass, kein Kochrezept.
 
 ### Passt zu
 

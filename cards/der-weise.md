@@ -8,7 +8,7 @@ Verankert das Thema der Geschichte und liefert Perspektive auf die Handlung, ohn
 
 ### Anwendung
 
-Was weiß meine Weisheitsfigur, das der Held erst am Ende verstehen wird – und wie deutet sie es an, ohne es zu verraten?
+Was weiß meine Weisheitsfigur, das der Held erst am Ende verstehen wird? Wie deutet sie es an, ohne es zu verraten?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Erzeugt tiefe thematische Spannung um freien Willen, um Würde angesichts des Un
 
 ### Anwendung
 
-Weiß meine Figur von ihrem Schicksal – und wie verändert dieses Wissen ihr Handeln, auch wenn es das Ergebnis nicht ändern kann?
+Weiß meine Figur von ihrem Schicksal? Wie verändert dieses Wissen ihr Handeln, auch wenn es das Ergebnis nicht ändern kann?
 
 ### Beispiele
 

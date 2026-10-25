@@ -1,6 +1,6 @@
 ## Unterschwelliger Konflikt
 
-Zwei Figuren sprechen über ein Thema, während sie eigentlich über etwas völlig anderes streiten – der eigentliche Konflikt liegt unter der sprachlichen Oberfläche.
+Zwei Figuren sprechen über ein Thema, während sie eigentlich über etwas völlig anderes streiten. Der eigentliche Konflikt liegt unter der sprachlichen Oberfläche.
 
 ### Funktion
 

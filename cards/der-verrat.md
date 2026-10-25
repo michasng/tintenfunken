@@ -8,7 +8,7 @@ Erzeugt maximale emotionale Wirkung, weil er persönlich ist. Erschüttert die E
 
 ### Anwendung
 
-Welche Figur hat der Leser am meisten ins Vertrauen gezogen – und wie habe ich diese Erwartung aufgebaut, um sie zu brechen?
+Welche Figur hat der Leser am meisten ins Vertrauen gezogen? Wie habe ich diese Erwartung aufgebaut, um sie zu brechen?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Ohne klare Einsätze fühlt sich kein Konflikt bedrohlich an. Sie sind der Hebel
 
 ### Anwendung
 
-Was steht für meine Figur auf dem Spiel – und hat der Leser verstanden, warum genau das verloren gehen kann?
+Was steht für meine Figur auf dem Spiel? Hat der Leser verstanden, warum genau das verloren gehen kann?
 
 ### Beispiele
 

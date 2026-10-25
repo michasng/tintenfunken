@@ -8,7 +8,7 @@ Erzeugt Intimität und Unmittelbarkeit. Schränkt das Wissen auf das ein, was di
 
 ### Anwendung
 
-Was weiß mein Ich-Erzähler nicht – und wie nutze ich diese Lücke für Spannung oder späte Enthüllung?
+Was weiß mein Ich-Erzähler nicht? Wie nutze ich diese Lücke für Spannung oder späte Enthüllung?
 
 ### Beispiele
 

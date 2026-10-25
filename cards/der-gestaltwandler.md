@@ -8,7 +8,7 @@ Erzeugt Unsicherheit und Spannung, lässt bis zuletzt offen, ob die Figur Verbü
 
 ### Anwendung
 
-An welchem Punkt der Geschichte offenbart mein Gestaltwandler, auf welcher Seite er wirklich steht – und wie bereite ich das durch frühere Szenen vor?
+An welchem Punkt der Geschichte offenbart mein Gestaltwandler, auf welcher Seite er wirklich steht? Wie bereite ich das durch frühere Szenen vor?
 
 ### Beispiele
 

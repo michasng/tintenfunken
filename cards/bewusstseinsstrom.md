@@ -18,7 +18,7 @@ In welchem Moment der intensivsten psychologischen Belastung meiner Figur könnt
 
 ### Vorsicht
 
-Länger angehaltener Bewusstseinsstrom ist für viele Leser schwer zugänglich; sparsam einsetzen.
+Länger angehaltener Bewusstseinsstrom ist für viele Leser schwer zugänglich. Daher sparsam einsetzen.
 
 ### Passt zu
 

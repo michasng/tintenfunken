@@ -8,7 +8,7 @@ Definiert das Genre-Versprechen und steuert, wie der Leser Ereignisse wertet. In
 
 ### Anwendung
 
-Was ist die eine Haltung, die meine Erzählstimme gegenüber der Geschichte einnimmt – und halte ich diese über das gesamte Manuskript?
+Was ist die eine Haltung, die meine Erzählstimme gegenüber der Geschichte einnimmt? Halte ich sie über das gesamte Manuskript durch?
 
 ### Beispiele
 

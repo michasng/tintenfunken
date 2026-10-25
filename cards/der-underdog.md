@@ -18,7 +18,7 @@ Welche konkrete Fähigkeit oder Eigenschaft gibt meinem Underdog eine echte, wen
 
 ### Vorsicht
 
-Ein Underdog, der ohne Vorbereitung oder Entwicklung gewinnt, enttäuscht; der Sieg muss verdient sein.
+Ein Underdog, der ohne Vorbereitung oder Entwicklung gewinnt, enttäuscht. Der Sieg muss verdient sein.
 
 ### Passt zu
 

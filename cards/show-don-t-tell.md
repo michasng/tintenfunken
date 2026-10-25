@@ -1,6 +1,6 @@
 ## Show, don't tell
 
-Charaktereigenschaften, Emotionen und Bedeutung werden nicht benannt, sondern durch Handlung, Dialog, Entscheidungen und Reaktionen sichtbar gemacht. Direkte Charakterisierung (»Er war grausam«) erklärt – indirekte lässt den Leser selbst schlussfolgern.
+Charaktereigenschaften, Emotionen und Bedeutung werden nicht benannt, sondern durch Handlung, Dialog, Entscheidungen und Reaktionen sichtbar gemacht. Direkte Charakterisierung (»Er war grausam«) erklärt, indirekte lässt den Leser selbst schlussfolgern.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Indirekte Charakterisierung überzeugt, weil der Leser selbst schlussfolgert. Di
 
 ### Anwendung
 
-Was erkläre ich noch direkt – Eigenschaft, Emotion, Bedeutung –, das ich durch Handlung, Geste oder Dialog zeigen könnte?
+Welche Eigenschaft, Emotion oder Bedeutung erkläre ich noch direkt, obwohl ich sie durch Handlung, Geste oder Dialog zeigen könnte?
 
 ### Beispiele
 
@@ -17,7 +17,7 @@ Was erkläre ich noch direkt – Eigenschaft, Emotion, Bedeutung –, das ich du
 
 ### Vorsicht
 
-»Show, don't tell« ist kein absolutes Gebot; manchmal ist direkte Charakterisierung effizienter und richtig.
+»Show, don't tell« ist kein absolutes Gebot. Manchmal ist direkte Charakterisierung effizienter und richtig.
 
 ### Passt zu
 

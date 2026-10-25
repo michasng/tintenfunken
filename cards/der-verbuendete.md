@@ -8,7 +8,7 @@ Ermöglicht Dialog als Spiegel für die Gedanken des Helden, verteilt emotionale
 
 ### Anwendung
 
-Was bringt mein Verbündeter ein, das mein Held allein nicht hätte – und wo könnten ihre Ziele in Konflikt geraten?
+Was bringt mein Verbündeter ein, das mein Held allein nicht hätte? Wo könnten ihre Ziele in Konflikt geraten?
 
 ### Beispiele
 

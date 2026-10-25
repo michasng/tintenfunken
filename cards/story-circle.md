@@ -4,7 +4,7 @@ Eine vereinfachte Heldenreise in acht Schritten, die den Zyklus von Komfort, Wun
 
 ### Funktion
 
-Eignet sich besonders für Episodenformate und Kurzgeschichten; macht die emotionale Logik der Heldenreise sehr greifbar.
+Eignet sich besonders für Episodenformate und Kurzgeschichten und macht die emotionale Logik der Heldenreise sehr greifbar.
 
 ### Anwendung
 

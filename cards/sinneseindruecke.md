@@ -1,6 +1,6 @@
 ## Sinneseindrücke
 
-Die bewusste Nutzung aller fünf Sinne – nicht nur Sehen – zur Beschreibung von Setting, Figuren und Ereignissen.
+Die bewusste Nutzung aller fünf Sinne, nicht nur des Sehens, zur Beschreibung von Setting, Figuren und Ereignissen.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Verankert den Leser körperlich in der Szene und zieht ihn hinein, indem sie Sin
 
 ### Anwendung
 
-Welcher nicht-visuelle Sinneseindruck charakterisiert eine Schlüsselszene meiner Geschichte am besten – und wie kann ich ihn im Text verankern?
+Welcher nicht-visuelle Sinneseindruck charakterisiert eine Schlüsselszene meiner Geschichte am besten? Wie kann ich ihn im Text verankern?
 
 ### Beispiele
 

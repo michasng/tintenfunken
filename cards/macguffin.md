@@ -1,6 +1,6 @@
 ## MacGuffin
 
-Ein Objekt, Ziel oder Geheimnis, das die Figuren begehren und die Handlung antreibt – dessen tatsächlicher Inhalt für die Geschichte irrelevant ist.
+Ein Objekt, Ziel oder Geheimnis, das die Figuren begehren und das die Handlung antreibt. Sein tatsächlicher Inhalt ist für die Geschichte irrelevant.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Schafft einen konkreten Fokus für Konflikt und Motivation, ohne die Geschichte 
 
 ### Anwendung
 
-Was wollen alle Figuren in meiner Geschichte haben oder erreichen – und warum ist es letztlich egal, was es genau ist?
+Was wollen alle Figuren in meiner Geschichte haben oder erreichen? Warum ist es letztlich egal, was es genau ist?
 
 ### Beispiele
 

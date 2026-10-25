@@ -1,6 +1,6 @@
 ## Poetische Gerechtigkeit
 
-Figuren erhalten am Ende der Geschichte das, was sie durch ihre Handlungen verdienen – Tugend wird belohnt, Laster bestraft.
+Figuren erhalten am Ende der Geschichte das, was sie durch ihre Handlungen verdienen. Tugend wird belohnt, Laster bestraft.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Gibt dem Leser Genugtuung und unterstreicht das moralische Weltbild der Geschich
 
 ### Anwendung
 
-Ergibt die Schlusssituation meiner Figuren organisch aus ihren früheren Entscheidungen – oder kommt sie von außen?
+Ergibt sich die Schlusssituation meiner Figuren organisch aus ihren früheren Entscheidungen? Oder kommt sie von außen?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Ergibt die Schlusssituation meiner Figuren organisch aus ihren früheren Entsche
 
 ### Vorsicht
 
-Zu mechanisch angewandte poetische Gerechtigkeit wirkt naiv; sie muss aus der Logik der Geschichte folgen.
+Zu mechanisch angewandte poetische Gerechtigkeit wirkt naiv. Sie muss aus der Logik der Geschichte folgen.
 
 ### Passt zu
 

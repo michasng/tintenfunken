@@ -8,7 +8,7 @@ Erzeugt emotionale Tiefe, treibt romantische Konflikte an und macht das Risiko p
 
 ### Anwendung
 
-Was ist meine Figur bereit zu verlieren für die Verbindung, die sie sucht – und was sagt das über ihre tiefste Überzeugung?
+Was ist meine Figur bereit, für die Verbindung, die sie sucht, zu verlieren? Was sagt das über ihre tiefste Überzeugung?
 
 ### Beispiele
 

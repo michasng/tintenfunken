@@ -8,7 +8,7 @@ Erlaubt komplexe, mehrschichtige Handlungsstränge und lässt die Wahrheit erst 
 
 ### Anwendung
 
-Was sieht jede meiner POV-Figuren an einer Schlüsselszene anders – und wie verändert dieses Wissensgefälle die Spannung für den Leser?
+Was sieht jede meiner POV-Figuren an einer Schlüsselszene anders? Wie verändert dieses Wissensgefälle die Spannung für den Leser?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Was sieht jede meiner POV-Figuren an einer Schlüsselszene anders – und wie ve
 
 ### Vorsicht
 
-Zu viele POV-Figuren verwässern die emotionale Bindung; jede Perspektive muss einzigartig und notwendig sein.
+Zu viele POV-Figuren verwässern die emotionale Bindung. Jede Perspektive muss einzigartig und notwendig sein.
 
 ### Passt zu
 

@@ -8,7 +8,7 @@ Setzt die Grenzen des Möglichen in einer Welt und erzeugt charakteristische Spa
 
 ### Anwendung
 
-Welche Technologie in meiner Welt verändert grundlegend, was Macht bedeutet – und wer hat Zugang zu ihr?
+Welche Technologie in meiner Welt verändert grundlegend, was Macht bedeutet? Wer hat Zugang zu ihr?
 
 ### Beispiele
 

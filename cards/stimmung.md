@@ -1,6 +1,6 @@
 ## Stimmung
 
-Die emotionale Atmosphäre, die eine Szene oder das gesamte Werk beim Leser erzeugt – Unbehagen, Melancholie, Aufregung, Geborgenheit.
+Die emotionale Atmosphäre, die eine Szene oder das gesamte Werk beim Leser erzeugt, etwa Unbehagen, Melancholie, Aufregung oder Geborgenheit.
 
 ### Funktion
 

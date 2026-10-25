@@ -8,7 +8,7 @@ Steuert das Pacing und verhindert, dass Dauerspannung den Leser abstumpft. Macht
 
 ### Anwendung
 
-Welcher Moment nach einer Klimax-Szene ermöglicht meinen Figuren und dem Leser kurz zu atmen – und was kann diese Pause trotzdem für den Plot leisten?
+Welcher Moment nach einer Klimax-Szene ermöglicht es meinen Figuren und dem Leser, kurz zu atmen? Was kann diese Pause trotzdem für den Plot leisten?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Wer Konventionen bewusst bedient, erfüllt die Erwartungen des Lesers. Wer sie b
 
 ### Anwendung
 
-Welche drei Konventionen meines Genres erwartet der Leser – und welche davon breche ich bewusst, welche erfülle ich?
+Welche drei Konventionen meines Genres erwartet der Leser? Welche davon breche ich bewusst, welche erfülle ich?
 
 ### Beispiele
 

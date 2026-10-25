@@ -4,7 +4,7 @@ Jede Figur spricht mit einem unverwechselbaren Vokabular, Rhythmus, Dialekt und 
 
 ### Funktion
 
-Macht Figuren ohne Zuschreibung erkennbar und lebendig; verhindert, dass alle Figuren wie der Autor klingen.
+Macht Figuren ohne Zuschreibung erkennbar und lebendig und verhindert, dass alle Figuren wie der Autor klingen.
 
 ### Anwendung
 
@@ -18,7 +18,7 @@ Könntest du den Figurennamen entfernen und den Dialog nur anhand des Sprachstil
 
 ### Vorsicht
 
-Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren; sparsam einsetzen.
+Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren. Er sollte deshalb sparsam eingesetzt werden.
 
 ### Passt zu
 

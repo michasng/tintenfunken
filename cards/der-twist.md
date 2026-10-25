@@ -8,7 +8,7 @@ Erzeugt maximale emotionale Wirkung durch Überraschung und Neubewertung. Ein gu
 
 ### Anwendung
 
-Habe ich ausreichend Hinweise eingebaut, damit sich mein Twist im Rückblick unvermeidlich anfühlt – und nicht wie ein Zufallseinfall?
+Habe ich ausreichend Hinweise eingebaut, damit sich mein Twist im Rückblick unvermeidlich anfühlt und nicht wie ein Zufallseinfall?
 
 ### Beispiele
 

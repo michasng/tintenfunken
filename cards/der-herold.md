@@ -8,7 +8,7 @@ Setzt die Handlung in Gang und macht dem Protagonisten und dem Leser klar, dass 
 
 ### Anwendung
 
-Wie kündigt sich der erste Bruch in der Alltagswelt meiner Figur an – durch eine Begegnung, eine Nachricht oder ein ungewöhnliches Ereignis?
+Wie kündigt sich der erste Bruch in der Alltagswelt meiner Figur an? Durch eine Begegnung, eine Nachricht oder ein ungewöhnliches Ereignis?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Verstärkt emotionale Wirkung durch atmosphärische Resonanz ohne explizite Besc
 
 ### Anwendung
 
-Welches Wetterelement oder Naturdetail könnte den inneren Zustand meiner Figur symbolisch verstärken – ohne klischeehaft zu sein?
+Welches Wetterelement oder Naturdetail könnte den inneren Zustand meiner Figur symbolisch verstärken, ohne klischeehaft zu sein?
 
 ### Beispiele
 

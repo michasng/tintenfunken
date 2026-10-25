@@ -1,6 +1,6 @@
 ## Dreiecksbeziehung
 
-Drei Figuren, bei denen zwei um die Zuneigung, Loyalität oder Liebe der dritten konkurrieren – ein System rivalisierender Ansprüche und Loyalitätskonflikte.
+Drei Figuren, bei denen zwei um die Zuneigung, Loyalität oder Liebe der dritten konkurrieren. So entsteht ein System rivalisierender Ansprüche und Loyalitätskonflikte.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Erzeugt anhaltende Spannung durch ungelöste Entscheidungen, gibt der wählenden
 
 ### Anwendung
 
-Was macht jede der beiden konkurrierenden Figuren einzigartig attraktiv – und was macht die Entscheidung wirklich unmöglich?
+Was macht jede der beiden konkurrierenden Figuren einzigartig attraktiv? Was macht die Entscheidung wirklich unmöglich?
 
 ### Beispiele
 

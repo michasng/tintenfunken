@@ -4,11 +4,11 @@ Eine Figur, die die Welt mit Vertrauen und reiner Absicht betrachtet. Sie glaubt
 
 ### Funktion
 
-Erzeugt emotionalen Kontrast zu einer zynischen Welt und macht den Verlust der Unschuld – wenn er eintritt – umso schmerzhafter und bedeutsamer.
+Erzeugt emotionalen Kontrast zu einer zynischen Welt und macht den Verlust der Unschuld, wenn er eintritt, umso schmerzhafter und bedeutsamer.
 
 ### Anwendung
 
-Was bewahrt meine Figur davor, zynisch zu werden – und wann wird dieses Schutzschild von der Welt zerstört?
+Was bewahrt meine Figur davor, zynisch zu werden? Wann wird dieses Schutzschild von der Welt zerstört?
 
 ### Beispiele
 

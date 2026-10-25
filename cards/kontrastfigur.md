@@ -8,7 +8,7 @@ Hebt die Eigenschaften der Hauptfigur hervor, vertieft das Thema und schafft Spa
 
 ### Anwendung
 
-Welche Entscheidung hat meine Kontrastfigur getroffen, die mein Protagonist nicht treffen konnte – und was sagt dieser Unterschied über das Thema der Geschichte aus?
+Welche Entscheidung hat meine Kontrastfigur getroffen, die mein Protagonist nicht treffen konnte? Was sagt dieser Unterschied über das Thema der Geschichte aus?
 
 ### Beispiele
 

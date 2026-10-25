@@ -8,7 +8,7 @@ Erzeugt klare Spannung durch persönliche Feindschaft und ermöglicht Konfrontat
 
 ### Anwendung
 
-Was wollen meine Figuren genau, das sich gegenseitig ausschließt – und welche persönliche Geschichte verbindet sie jenseits des aktuellen Konflikts?
+Was wollen meine Figuren genau, das sich gegenseitig ausschließt? Welche persönliche Geschichte verbindet sie jenseits des aktuellen Konflikts?
 
 ### Beispiele
 

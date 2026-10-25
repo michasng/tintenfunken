@@ -8,7 +8,7 @@ Macht Dialog schichtreich und glaubwürdig, weil echte Menschen selten direkt au
 
 ### Anwendung
 
-Was will jede Figur in diesem Dialog wirklich – und was sagen sie stattdessen? Sind diese zwei Dinge wirklich verschieden?
+Was will jede Figur in diesem Dialog wirklich, und was sagt sie stattdessen? Sind diese zwei Dinge wirklich verschieden?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Was will jede Figur in diesem Dialog wirklich – und was sagen sie stattdessen?
 
 ### Vorsicht
 
-Zu viel Subtext wirkt undurchdringlich; zu direkte, unverblümte Aussagen (»on the nose«) wirken unnatürlich – beide Extreme kosten Glaubwürdigkeit.
+Zu viel Subtext wirkt undurchdringlich. Zu direkte, unverblümte Aussagen (»on the nose«) wirken unnatürlich. Beide Extreme kosten Glaubwürdigkeit.
 
 ### Passt zu
 

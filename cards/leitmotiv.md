@@ -1,6 +1,6 @@
 ## Leitmotiv
 
-Ein wiederkehrendes bedeutsames Element – ein Bild, ein Satz, ein Symbol, eine Melodie (Motiv) –, das durch seine Wiederkehr thematische Tiefe aufbaut und die emotionalen Schichten der Geschichte verknüpft.
+Ein wiederkehrendes bedeutsames Element, etwa ein Bild, ein Satz, ein Symbol oder eine Melodie (Motiv). Durch seine Wiederkehr baut es thematische Tiefe auf und verknüpft die emotionalen Schichten der Geschichte.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Erzeugt ein Gefühl narrativer Kohärenz und emotionaler Resonanz, das weit übe
 
 ### Anwendung
 
-Welches Bild, welcher Satz oder welches Objekt taucht an den wichtigsten emotionalen Momenten meiner Geschichte auf – und verändert seine Bedeutung dabei?
+Welches Bild, welcher Satz oder welches Objekt taucht an den wichtigsten emotionalen Momenten meiner Geschichte auf? Verändert sich seine Bedeutung dabei?
 
 ### Beispiele
 

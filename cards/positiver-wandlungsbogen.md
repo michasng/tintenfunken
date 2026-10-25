@@ -8,7 +8,7 @@ Wirkt emotional am stärksten, weil der Leser die innere Reise ebenso verfolgt w
 
 ### Anwendung
 
-Was glaubt meine Figur zu Beginn fälschlicherweise über sich, andere oder die Welt – und welche Szene zwingt sie, diese Überzeugung aufzugeben?
+Was glaubt meine Figur zu Beginn fälschlicherweise über sich, andere oder die Welt? Welche Szene zwingt sie, diese Überzeugung aufzugeben?
 
 ### Beispiele
 

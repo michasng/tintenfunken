@@ -8,7 +8,7 @@ Ermöglicht Rätsel und Problemlösungen innerhalb der Fantasie, da der Leser di
 
 ### Anwendung
 
-Was sind die drei wichtigsten Regeln meines Systems – und was ist der größte Preis, den eine Figur für seine Nutzung zahlt?
+Was sind die drei wichtigsten Regeln meines Systems? Was ist der größte Preis, den eine Figur für seine Nutzung zahlt?
 
 ### Beispiele
 

@@ -4,11 +4,11 @@ Ein Ort in der Geschichte besitzt eine so ausgeprägte, konsistente Atmosphäre,
 
 ### Funktion
 
-Macht die Welt lebendig und bedeutungsgeladen. Das Setting schließt das Zeitkolorit ein – die historische oder zeitliche Atmosphäre, die durch Epochen-Details entsteht. Es kommentiert Figuren und Thema, ohne explizit zu werden.
+Macht die Welt lebendig und bedeutungsgeladen. Das Setting schließt das Zeitkolorit ein, also die historische oder zeitliche Atmosphäre, die durch Epochen-Details entsteht. Es kommentiert Figuren und Thema, ohne explizit zu werden.
 
 ### Anwendung
 
-Welche drei konsistenten Eigenschaften hat mein Schauplatz – und wie verändert er sich, wenn sich die emotionale Lage meiner Figur verändert?
+Welche drei konsistenten Eigenschaften hat mein Schauplatz? Wie verändert er sich, wenn sich die emotionale Lage meiner Figur verändert?
 
 ### Beispiele
 

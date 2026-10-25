@@ -8,7 +8,7 @@ Erkundet existenzielle Angst, religiöse oder spirituelle Themen und das Fremdar
 
 ### Anwendung
 
-Was symbolisiert das übernatürliche Element meiner Geschichte – welche menschliche Angst oder welches Tabu gibt es der Figur preis?
+Was symbolisiert das übernatürliche Element meiner Geschichte? Welche menschliche Angst oder welches Tabu gibt es der Figur preis?
 
 ### Beispiele
 

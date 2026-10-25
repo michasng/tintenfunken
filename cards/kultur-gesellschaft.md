@@ -8,7 +8,7 @@ Verankert Figuren in einer glaubwürdigen sozialen Realität und macht gesellsch
 
 ### Anwendung
 
-Was ist in der Gesellschaft meiner Geschichte normal, was tabuisiert – und welche Figur bricht dieses Tabu?
+Was ist in der Gesellschaft meiner Geschichte normal, was tabuisiert? Welche Figur bricht dieses Tabu?
 
 ### Beispiele
 

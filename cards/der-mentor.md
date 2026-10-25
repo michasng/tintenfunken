@@ -8,7 +8,7 @@ Ermöglicht glaubwürdige Exposition ohne Info-Dump, stellt Ausrüstung oder Auf
 
 ### Anwendung
 
-Welche entscheidende Lektion gibt mein Mentor dem Helden mit – und wann wird dieser sie erstmals missverstehen?
+Welche entscheidende Lektion gibt mein Mentor dem Helden mit? Wann wird dieser sie erstmals missverstehen?
 
 ### Beispiele
 

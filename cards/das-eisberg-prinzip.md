@@ -8,7 +8,7 @@ Gibt dem Text Tiefe und Glaubwürdigkeit, weil Figuren und Umgebungen organisch 
 
 ### Anwendung
 
-Welche drei Aspekte meiner Welt – Geschichte, Mythologie, Alltagskultur – kenne ich detailliert, die ich nie explizit erkläre, und wie schimmern sie in Dialogen und Handlungen durch?
+Welche drei Aspekte meiner Welt kenne ich detailliert, ohne sie je explizit zu erklären, etwa Geschichte, Mythologie oder Alltagskultur? Wie schimmern sie in Dialogen und Handlungen durch?
 
 ### Beispiele
 

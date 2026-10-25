@@ -8,7 +8,7 @@ Verhindert Szenen ohne dramatischen Zweck und stellt sicher, dass jede Seite Spa
 
 ### Anwendung
 
-Was will meine POV-Figur in dieser Szene? Wer oder was verhindert es – und kann das Ergebnis schlimmer werden als erwartet?
+Was will meine POV-Figur in dieser Szene? Wer oder was verhindert es? Kann das Ergebnis schlimmer werden als erwartet?
 
 ### Beispiele
 

@@ -18,7 +18,7 @@ Welchen Verdächtigen, Hinweis oder scheinbaren Zusammenhang kann ich einbauen, 
 
 ### Vorsicht
 
-Zu viele falsche Fährten wirken billig; die wahre Lösung muss im Nachhinein logisch gewesen sein.
+Zu viele falsche Fährten wirken billig. Die wahre Lösung muss im Nachhinein logisch gewesen sein.
 
 ### Passt zu
 

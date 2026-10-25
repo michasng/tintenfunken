@@ -4,11 +4,11 @@ Ein vergangenes Trauma oder Erlebnis, das die Figur geformt hat und aus dem ihre
 
 ### Funktion
 
-Gibt der Figur psychologische Tiefe und Glaubwürdigkeit; erklärt (ohne zu entschuldigen) ihr Fehlverhalten und macht sie menschlich.
+Gibt der Figur psychologische Tiefe und Glaubwürdigkeit. Erklärt ihr Fehlverhalten, ohne es zu entschuldigen, und macht sie menschlich.
 
 ### Anwendung
 
-Was ist das prägende negative Erlebnis in der Vergangenheit meiner Figur – und wie manifestiert es sich in einer ihrer Verhaltensweisen in der ersten Szene?
+Was ist das prägende negative Erlebnis in der Vergangenheit meiner Figur? Wie manifestiert es sich in einer ihrer Verhaltensweisen in der ersten Szene?
 
 ### Beispiele
 

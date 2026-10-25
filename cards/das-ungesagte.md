@@ -1,6 +1,6 @@
 ## Das Ungesagte
 
-Das bedeutendste Gesprächselement ist manchmal das, was nicht gesagt wird – die Pause, das Schweigen, das Ausweichen.
+Das bedeutendste Gesprächselement ist manchmal das, was nicht gesagt wird: die Pause, das Schweigen, das Ausweichen.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Gibt dem Leser eine aktive Interpretationsaufgabe und erzeugt Spannung durch das
 
 ### Anwendung
 
-Welche Aussage in meinem Dialog kann ich in Schweigen oder Themenwechsel verwandeln – und ist das Ungesagte für den Leser trotzdem verständlich?
+Welche Aussage in meinem Dialog kann ich in Schweigen oder Themenwechsel verwandeln? Ist das Ungesagte für den Leser trotzdem verständlich?
 
 ### Beispiele
 

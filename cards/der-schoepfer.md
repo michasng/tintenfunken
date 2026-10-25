@@ -8,7 +8,7 @@ Trägt das Thema von Schöpfung, Kontrolle und Verantwortung für das Geschaffen
 
 ### Anwendung
 
-Was erschafft meine Figur – und welche unbeabsichtigten Konsequenzen bringt das Geschaffene mit sich?
+Was erschafft meine Figur? Welche unbeabsichtigten Konsequenzen bringt das Geschaffene mit sich?
 
 ### Beispiele
 
@@ -19,7 +19,7 @@ Was erschafft meine Figur – und welche unbeabsichtigten Konsequenzen bringt da
 
 ### Vorsicht
 
-Der Schöpfer neigt zur Selbstüberschätzung; ohne persönlichen Preis für unkontrollierte Kreativität fehlt die dramatische Tiefe.
+Der Schöpfer neigt zur Selbstüberschätzung. Ohne persönlichen Preis für unkontrollierte Kreativität fehlt die dramatische Tiefe.
 
 ### Passt zu
 

@@ -8,7 +8,7 @@ Erzeugt Spannung durch die Frage der Erfüllung und lädt zum Nachdenken über S
 
 ### Anwendung
 
-Erfüllt sich meine Prophezeiung auf überraschende, aber im Nachhinein unvermeidliche Weise – oder wird sie bewusst subvertiert?
+Erfüllt sich meine Prophezeiung auf überraschende, aber im Nachhinein unvermeidliche Weise? Oder wird sie bewusst subvertiert?
 
 ### Beispiele
 

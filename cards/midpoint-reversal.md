@@ -1,6 +1,6 @@
 ## Midpoint-Reversal
 
-In der Mitte der Geschichte verändert sich die grundlegende Situation oder das Ziel der Hauptfigur radikal – ein Scheingewinn wird zum echten Problem oder umgekehrt.
+In der Mitte der Geschichte verändert sich die grundlegende Situation oder das Ziel der Hauptfigur radikal. Ein Scheingewinn wird zum echten Problem oder umgekehrt.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Verhindert das Durchhängen im zweiten Akt, gibt der Geschichte neuen Schwung un
 
 ### Anwendung
 
-Was glaubt meine Figur in der Mitte der Geschichte gewonnen zu haben – und was stellt sich dabei als Irrtum oder neue, größere Herausforderung heraus?
+Was glaubt meine Figur in der Mitte der Geschichte gewonnen zu haben? Was stellt sich dabei als Irrtum oder neue, größere Herausforderung heraus?
 
 ### Beispiele
 

@@ -8,7 +8,7 @@ Verkörpert die Macht der Institutionen, steckt den Rahmen des Konflikts ab und 
 
 ### Anwendung
 
-Welche Ordnung verteidigt mein Herrscher – und welche Kosten zahlen jene, die unter ihr leben?
+Welche Ordnung verteidigt mein Herrscher? Welche Kosten zahlen jene, die unter ihr leben?
 
 ### Beispiele
 

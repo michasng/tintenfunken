@@ -8,7 +8,7 @@ Erzeugt emotionalen Rückhalt für den Helden, verkörpert das Thema von Selbsta
 
 ### Anwendung
 
-Was opfert meine fürsorgliche Figur – und ab welchem Punkt schadet ihre Fürsorge mehr als sie nützt?
+Was opfert meine fürsorgliche Figur? Ab welchem Punkt schadet ihre Fürsorge mehr, als sie nützt?
 
 ### Beispiele
 

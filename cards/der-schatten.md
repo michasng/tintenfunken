@@ -8,7 +8,7 @@ Erzeugt den zentralen Konflikt und zwingt den Helden zur Konfrontation mit seine
 
 ### Anwendung
 
-Welche Eigenschaft des Antagonisten könnte auch in meinem Helden stecken – und unter welchen Umständen hätte der Held denselben Weg gewählt?
+Welche Eigenschaft des Antagonisten könnte auch in meinem Helden stecken? Unter welchen Umständen hätte der Held denselben Weg gewählt?
 
 ### Beispiele
 

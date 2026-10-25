@@ -8,7 +8,7 @@ Ermöglicht Gesellschaftskritik und moralische Aussagen in fiktionalem Gewand, d
 
 ### Anwendung
 
-Auf welche reale Situation oder Ideologie spiegelt meine Geschichte – und welche Elemente der Allegorie sind für den Leser lesbar, welche versteckt?
+Welche reale Situation oder Ideologie spiegelt meine Geschichte? Welche Elemente der Allegorie sind für den Leser lesbar, welche versteckt?
 
 ### Beispiele
 

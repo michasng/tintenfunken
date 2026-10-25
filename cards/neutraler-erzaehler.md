@@ -1,6 +1,6 @@
 ## Neutraler Erzähler
 
-Ein Erzähler, der ausschließlich Beobachtbares beschreibt – Handlungen, Dialoge, Gesten – ohne Zugang zu Gedanken oder Gefühlen einer Figur. Auch bekannt als dramatischer oder Kamera-Erzähler.
+Ein Erzähler, der ausschließlich Beobachtbares wie Handlungen, Dialoge und Gesten beschreibt, ohne Zugang zu Gedanken oder Gefühlen einer Figur. Auch bekannt als dramatischer oder Kamera-Erzähler.
 
 ### Funktion
 

@@ -8,7 +8,7 @@ Erzeugt einen klaren Rhythmus aus Aufbau, Eskalation und Auflösung, der die Erw
 
 ### Anwendung
 
-Was ist der erste Wendepunkt – der Moment, ab dem meine Figur die alte Welt nicht mehr zurücklassen kann? Was ist der zweite – der tiefste Punkt vor dem Finale?
+Was ist der erste Wendepunkt, ab dem meine Figur die alte Welt nicht mehr zurücklassen kann? Wo liegt der zweite, der tiefste Punkt vor dem Finale?
 
 ### Beispiele
 

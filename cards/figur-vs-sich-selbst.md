@@ -8,7 +8,7 @@ Trifft den Leser emotional am tiefsten und ist das Fundament jeder ernsthaften C
 
 ### Anwendung
 
-Was kämpft in meiner Figur gegeneinander – und welche Entscheidung erzwingt die Geschichte, bei der keine Option wirklich gut ist?
+Was kämpft in meiner Figur gegeneinander? Welche Entscheidung erzwingt die Geschichte, bei der keine Option wirklich gut ist?
 
 ### Beispiele
 

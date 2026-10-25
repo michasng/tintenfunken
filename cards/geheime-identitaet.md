@@ -1,6 +1,6 @@
 ## Geheime Identität
 
-Eine Figur verbirgt bewusst, wer sie wirklich ist – Herkunft, Fähigkeiten oder moralische Ausrichtung. Die geheime Identität ist eine bewusste Entscheidung, keine unklare Loyalität wie beim Gestaltwandler.
+Eine Figur verbirgt bewusst, wer sie wirklich ist: Herkunft, Fähigkeiten oder moralische Ausrichtung. Die geheime Identität ist eine bewusste Entscheidung, keine unklare Loyalität wie beim Gestaltwandler.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Erzeugt Spannung durch Enthüllungsrisiko, ermöglicht Doppelleben-Konflikte und
 
 ### Anwendung
 
-Was würde meine Figur verlieren, wenn die geheime Identität aufgedeckt würde – und was hindert sie daran, die Wahrheit zu sagen?
+Was würde meine Figur verlieren, wenn die geheime Identität aufgedeckt würde? Was hindert sie daran, die Wahrheit zu sagen?
 
 ### Beispiele
 

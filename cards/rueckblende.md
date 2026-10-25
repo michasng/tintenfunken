@@ -8,7 +8,7 @@ Enthüllt Hintergründe emotional statt als trockene Erklärung, gibt Figuren Ti
 
 ### Anwendung
 
-Welche Information über die Vergangenheit meiner Figur verändert die Bedeutung einer aktuellen Szene grundlegend – und wann ist der emotionalste Moment, sie zu enthüllen?
+Welche Information über die Vergangenheit meiner Figur verändert die Bedeutung einer aktuellen Szene grundlegend? Wann ist der emotionalste Moment, sie zu enthüllen?
 
 ### Beispiele
 

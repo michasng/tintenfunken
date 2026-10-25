@@ -1,6 +1,6 @@
 ## Flacher Bogen
 
-Eine Figur verändert sich kaum oder gar nicht – aber ihre konstante Überzeugung oder Haltung verändert die Welt oder die anderen Figuren um sie herum.
+Eine Figur verändert sich kaum oder gar nicht, aber ihre konstante Überzeugung oder Haltung verändert die Welt oder die anderen Figuren um sie herum.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Ideal für Serienprotagonisten oder Archetypen. Die Spannung entsteht durch die 
 
 ### Anwendung
 
-Was ist die unveränderliche Überzeugung meiner Figur – und welche Welt oder welche anderen Figuren verändert sie damit?
+Was ist die unveränderliche Überzeugung meiner Figur? Welche Welt oder welche anderen Figuren verändert sie damit?
 
 ### Beispiele
 

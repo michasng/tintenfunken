@@ -1,6 +1,6 @@
 ## Tschechows Gewehr
 
-Jedes bedeutsam eingeführte Element einer Geschichte muss irgendwann eine Rolle spielen – und was später eine Rolle spielt, muss zuvor eingeführt worden sein.
+Jedes bedeutsam eingeführte Element einer Geschichte muss irgendwann eine Rolle spielen. Umgekehrt muss alles, was später eine Rolle spielt, zuvor eingeführt worden sein.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Erzeugt ein Gefühl von Dichte und Stimmigkeit: Der Leser spürt, dass die Gesch
 
 ### Anwendung
 
-Welche Details in meiner Eröffnungsszene kann ich so platzieren, dass sie im dritten Akt bedeutsam werden – ohne im ersten Moment zu auffällig zu sein?
+Welche Details in meiner Eröffnungsszene kann ich so platzieren, dass sie im dritten Akt bedeutsam werden, ohne im ersten Moment zu auffällig zu sein?
 
 ### Beispiele
 

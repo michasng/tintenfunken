@@ -8,7 +8,7 @@ Schafft sofortige Spannung durch Unwissenheit, lässt die Welt beiläufig sichtb
 
 ### Anwendung
 
-Was ist in meiner Welt seltsam oder gefährlich, das einer Figur von außen erklärt werden muss – und wie kann diese Erklärung Konflikt erzeugen statt Info-Dump?
+Was ist in meiner Welt seltsam oder gefährlich, das einer Figur von außen erklärt werden muss? Wie kann diese Erklärung Konflikt erzeugen statt Info-Dump?
 
 ### Beispiele
 

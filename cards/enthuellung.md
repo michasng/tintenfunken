@@ -8,7 +8,7 @@ Erzeugt einen unmittelbaren Wendepunkt innerhalb einer Szene, liefert Belohnung 
 
 ### Anwendung
 
-Was weiß der Leser oder eine Figur in diesem Moment noch nicht – und welche Emotion soll die Enthüllung auslösen: Schock, Erleichterung, Trauer oder Erkenntnis?
+Was weiß der Leser oder eine Figur in diesem Moment noch nicht? Welche Emotion soll die Enthüllung auslösen: Schock, Erleichterung, Trauer oder Erkenntnis?
 
 ### Beispiele
 

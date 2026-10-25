@@ -8,7 +8,7 @@ Erzeugt Spannung durch die Frage, was wirklich passiert, und zwingt den Leser zu
 
 ### Anwendung
 
-Was verschweigt, verdreht oder missversteht mein Erzähler – und welche Szenen zeigen dem aufmerksamen Leser die Risse in seiner Version der Wahrheit?
+Was verschweigt, verdreht oder missversteht mein Erzähler? Welche Szenen zeigen dem aufmerksamen Leser die Risse in seiner Version der Wahrheit?
 
 ### Beispiele
 

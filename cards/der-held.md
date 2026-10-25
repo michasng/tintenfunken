@@ -8,7 +8,7 @@ Gibt dem Leser eine Figur zum Mitfühlen und treibt die Handlung durch aktive En
 
 ### Anwendung
 
-Was will meine Figur bewusst – und was braucht sie wirklich? Wo weichen diese beiden Dinge voneinander ab?
+Was will meine Figur bewusst, und was braucht sie wirklich? Wo weichen diese beiden Dinge voneinander ab?
 
 ### Beispiele
 
@@ -18,7 +18,7 @@ Was will meine Figur bewusst – und was braucht sie wirklich? Wo weichen diese 
 
 ### Vorsicht
 
-Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar; der Leser investiert emotional nicht in ihn.
+Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar. Der Leser investiert emotional nicht in ihn.
 
 ### Passt zu
 
