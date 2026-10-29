@@ -1,111 +1,34 @@
 # artwork_generator
 
-Generates one PNG per card from `cards.md` (and the card files it links to) via the Forge / A1111 txt2img REST API. The prompt is taken from each card's `### Bild` section.
+Generates one PNG per card from the Index via the Forge / A1111 txt2img API, using each card's artwork prompt.
 
-## Prerequisites
+## Setup
 
-- [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) installed and running.
-- Python 3.10+ (no extra packages required — stdlib only).
-- The following model files downloaded and placed as described in step 1.
+Requires [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) and Python 3.10+ (stdlib only).
 
-## 1 · Download and place model files
+1. Download the models (configured for **FLUX.1 [schnell] GGUF**, Apache 2.0) and place them in `<forge-install>\models\`:
 
-This script is configured for **FLUX.1 [schnell] GGUF** (Apache 2.0, free for commercial use).
+   | File | Folder | Source |
+   |---|---|---|
+   | `flux1-schnell-Q4_0.gguf` | `Stable-diffusion` | [lllyasviel/FLUX.1-schnell-gguf](https://huggingface.co/lllyasviel/FLUX.1-schnell-gguf) |
+   | `ae.safetensors` | `VAE` | [black-forest-labs/FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main) |
+   | `clip_l.safetensors` | `text_encoder` | [lllyasviel/flux_text_encoders](https://huggingface.co/lllyasviel/flux_text_encoders/tree/main) |
+   | `t5xxl_fp8_e4m3fn.safetensors` (not fp16, too large for 16 GB RAM) | `text_encoder` | [lllyasviel/flux_text_encoders](https://huggingface.co/lllyasviel/flux_text_encoders/tree/main) |
 
-### Files to download
+2. With 16 GB RAM on Windows, set a custom virtual memory size of 40000 MB (min and max) and restart.
+3. Add `--api` to `COMMANDLINE_ARGS` in `webui-user.bat` (in the Forge install folder).
+4. Start Forge once (see below), select the checkpoint and all three VAE / text encoder files in the UI, and generate one image to confirm. The selection persists.
 
-| File | Size | Source |
-|---|---|---|
-| `flux1-schnell-Q4_0.gguf` | ~6.8 GB | [lllyasviel/FLUX.1-schnell-gguf](https://huggingface.co/lllyasviel/FLUX.1-schnell-gguf) |
-| `ae.safetensors` (VAE) | ~335 MB | [black-forest-labs/FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main) |
-| `clip_l.safetensors` | ~246 MB | [lllyasviel/flux_text_encoders](https://huggingface.co/lllyasviel/flux_text_encoders/tree/main) |
-| `t5xxl_fp8_e4m3fn.safetensors` | ~4.9 GB | [lllyasviel/flux_text_encoders](https://huggingface.co/lllyasviel/flux_text_encoders/tree/main) |
+## Run
 
-Use `t5xxl_fp8_e4m3fn` (not fp16) — the fp16 variant is ~9.5 GB and too large for 16 GB RAM.
+Start Forge with `run.bat` (one-click package) or `webui.bat` in its install folder, and wait for the UI the load at `http://127.0.0.1:7860`.
 
-### Where to place them
-
-```
-<forge-install>\
-  models\
-    Stable-diffusion\    ← flux1-schnell-Q4_0.gguf
-    VAE\                 ← ae.safetensors
-    text_encoder\        ← clip_l.safetensors
-                         ← t5xxl_fp8_e4m3fn.safetensors
-```
-
-### Windows virtual memory (required)
-
-With 16 GB RAM Forge will crash without a large page file, because the T5 encoder is offloaded to RAM during generation.
-
-> Settings → System → Advanced system settings → Performance → Advanced → Virtual Memory  
-> Set a custom size with both min and max = **40000 MB**, then restart.
-
-## 2 · Load the model in Forge (one-time manual step)
-
-Forge does not expose text encoder selection via its API, so this must be done once in the UI. The selection persists across restarts.
-
-1. Launch Forge and open the **txt2img** tab.
-2. **Checkpoint** dropdown → select `flux1-schnell-Q4_0.gguf`
-3. **VAE / Text Encoder** box → select all three:
-   - `ae.safetensors`
-   - `clip_l.safetensors`
-   - `t5xxl_fp8_e4m3fn.safetensors`
-4. Generate one image manually to confirm everything loads correctly.
-
-After this, the script can be run without touching the UI again.
-
-## 4 · Enable the API in Forge
-
-Open `webui-user.bat` in the Forge installation folder and add `--api`:
-
-```bat
-set COMMANDLINE_ARGS=--api
-```
-
-## 5 · Start Forge
-
-Run `run.bat` (one-click package) or `webui.bat` and wait until the UI is fully loaded.  
-Verify the API is live: <http://127.0.0.1:7860/docs>
-
-## 6 · Run the script
-
-From the `artwork_generator/` directory:
+From this directory, run the generator:
 
 ```bash
-# All cards
-python generate.py
-
-# Specific cards (titles or slugs, case-insensitive)
-python generate.py "Der Held" der-mentor
-
-# Override resolution and seed
-python generate.py --width 1024 --height 1024 --seed 42
+python generate.py  # all cards
+python generate.py "Der Held" der-mentor  # specific titles or slugs
+python generate.py --seed 42
 ```
 
-All generation parameters not passed explicitly are left to Forge's own defaults.
-
-### Available options
-
-| Flag | Default | Description |
-|---|---|---|
-| `TITLE …` | all | Card titles or slugs to generate |
-| `--url` | `http://127.0.0.1:7860` | Forge server URL |
-| `--wrapper` | `../wrapper_image_prompt.txt` | Wrapper prompt file |
-| `--out` | `./artworks` | Output directory for PNGs |
-| `--seed N` | Forge default (random) | Fixed seed |
-| `--steps N` | Forge default | Sampling steps |
-| `--cfg-scale F` | Forge default | CFG scale |
-| `--sampler NAME` | Forge default | Sampler name |
-| `--width PX` | Forge default | Image width |
-| `--height PX` | Forge default | Image height |
-| `--negative TEXT` | Forge default | Negative prompt |
-
-## 7 · Output
-
-Each card produces two files in `artworks/`:
-
-- `{slug}.png` — generated image
-- `{slug}.txt` — actual seed used + full prompt (for reproducibility)
-
-The slug matches the filenames expected by `app.js`, so artworks can be copied into the repository's `artworks/` folder to appear in the print layout.
+Each card produces `artworks/{slug}.png` and `artworks/{slug}.txt` (seed and full prompt). Copy the PNGs into the repository's `artworks/` folder to use them in the app.
