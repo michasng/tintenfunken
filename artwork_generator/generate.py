@@ -54,7 +54,7 @@ def load_cards(index_path: Path) -> list[dict[str, str]]:
 
 
 def parse_card(text: str) -> dict[str, str]:
-    card = {"title": "", "image_prompt": ""}
+    card = {"title": "", "artwork_prompt": ""}
     section = ""
     for raw in text.splitlines():
         line = raw.strip()
@@ -63,7 +63,7 @@ def parse_card(text: str) -> dict[str, str]:
         elif line.startswith("### "):
             section = line[4:].strip()
         elif section == "Bild" and (m := re.match(r"!\[([^\]]*)\]", line)):
-            card["image_prompt"] = m.group(1)
+            card["artwork_prompt"] = m.group(1)
     return card
 
 
@@ -114,7 +114,7 @@ NEGATIVE_PROMPT = ",\n".join(  # noqa: FLY002
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Generate card images from cards.md via the Forge / A1111 txt2img API."
+        description="Generate card artworks from cards.md via the Forge / A1111 txt2img API."
     )
     parser.add_argument(
         "titles",
@@ -148,7 +148,7 @@ def main() -> None:
         title: str = card["title"]
         palette = CATEGORY_PALETTE.get(card["category"], DEFAULT_PALETTE)
         wrapper = WRAPPER_PROMPT_TEMPLATE.format(palette=palette)
-        full_prompt = ",\n".join([card["image_prompt"], wrapper])
+        full_prompt = ",\n".join([card["artwork_prompt"], wrapper])
 
         payload: dict[str, Any] = {
             "prompt": full_prompt,

@@ -16,7 +16,7 @@ Welche ernste Situation in meiner Geschichte könnte durch die unerwartete Inter
 - Jack Sparrow (Pirates of the Caribbean)
 - Fred & George Weasley (Harry Potter)
 
-### Vorsicht
+### Warnung
 
 Ein Trickster, der nie Konsequenzen trägt, verliert seine dramatische Glaubwürdigkeit.
 

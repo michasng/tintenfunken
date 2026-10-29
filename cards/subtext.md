@@ -16,7 +16,7 @@ Was will jede Figur in diesem Dialog wirklich, und was sagt sie stattdessen? Sin
 - fast jede Szene in Harold Pinters Stücken
 - Szene im Café in Lost in Translation
 
-### Vorsicht
+### Warnung
 
 Zu viel Subtext wirkt undurchdringlich. Zu direkte, unverblümte Aussagen (»on the nose«) wirken unnatürlich. Beide Extreme kosten Glaubwürdigkeit.
 

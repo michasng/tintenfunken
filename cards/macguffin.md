@@ -16,7 +16,7 @@ Was wollen alle Figuren in meiner Geschichte haben oder erreichen? Warum ist es 
 - der Ring (The Lord of the Rings)
 - das Briefing in North by Northwest (Hitchcock)
 
-### Vorsicht
+### Warnung
 
 Wenn der MacGuffin zu wichtig wird und erklärt werden muss, verliert er seine Funktion.
 

@@ -16,7 +16,7 @@ Erfüllt sich meine Prophezeiung auf überraschende, aber im Nachhinein unvermei
 - Oedipus Rex (Sophocles)
 - Anakin Skywalker als »der Auserwählte« (Star Wars)
 
-### Vorsicht
+### Warnung
 
 Eine buchstäblich erfüllte Prophezeiung ohne Ironie oder Wendung ist vorhersehbar.
 

@@ -14,7 +14,7 @@ Wer braucht in dieser Szene wirklich eine Information, und welche Figur weiß si
 
 - »Wie du weißt, Bruder, ist unser Vater seit zwanzig Jahren König...« – Stilmittel des schlechten Expositions-Dialogs
 
-### Vorsicht
+### Warnung
 
 Die gesamte Karte ist eine Warnung.
 

@@ -16,7 +16,7 @@ Was müssen meine Figuren tun und sagen, damit ihr innerer Zustand ohne jede Inn
 - Dashiell Hammetts Detektivprosa
 - L'Étranger (Camus – überwiegend)
 
-### Vorsicht
+### Warnung
 
 Konsequenter Verzicht auf Innenperspektive kann emotionale Distanz erzeugen, die Leser nicht investiert bleiben lässt.
 

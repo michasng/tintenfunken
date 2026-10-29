@@ -41,11 +41,11 @@ function assetUrl(path) {
 const SECTION_KEYS = {
   'Funktion': 'function',
   'Anwendung': 'application',
-  'Beispiele': 'example',
-  'Vorsicht': 'pitfall',
-  'Passt zu': 'pairs_with',
-  'Quellen': 'source',
-  'Bild': 'image_prompt',
+  'Beispiele': 'examples',
+  'Warnung': 'pitfall',
+  'Passt zu': 'references',
+  'Quellen': 'sources',
+  'Bild': 'artwork_prompt',
 };
 
 function parseCardIndex(text) {
@@ -87,11 +87,11 @@ function parseCard(text) {
     essence: joined('essence'),
     function: joined('function'),
     application: joined('application'),
-    example: joinExamples(sections.example ?? []),
+    examples: joinExamples(sections.examples ?? []),
     pitfall: joined('pitfall'),
-    pairs_with: sections.pairs_with ?? [],
-    source: sections.source ?? [],
-    image_prompt: joined('image_prompt'),
+    references: sections.references ?? [],
+    sources: sections.sources ?? [],
+    artwork_prompt: joined('artwork_prompt'),
   };
 }
 
@@ -110,19 +110,19 @@ async function loadCards() {
   }));
 }
 
-function buildFrontCard(card, index) {
+function buildFrontCard(card, number) {
   const template = document.getElementById('card-front-template').content.cloneNode(true);
   const root = template.querySelector('.card-front');
 
   root.style.setProperty('--accent', CATEGORY_COLORS[card.category] ?? '#555');
   root.querySelector('[data-field="category"]').textContent = card.category;
-  root.querySelector('[data-field="id"]').textContent = String(index).padStart(2, '0');
+  root.querySelector('[data-field="number"]').textContent = String(number).padStart(2, '0');
   root.querySelector('[data-field="title"]').textContent = card.title;
   root.querySelector('[data-field="essence"]').textContent = card.essence;
-  const illustration = root.querySelector('.illustration');
+  const artwork = root.querySelector('.artwork');
   const img = root.querySelector('[data-field="img"]');
   img.src = assetUrl(`artworks/${slug(card.title)}.png`);
-  img.addEventListener('error', () => illustration.classList.add('no-image'), { once: true });
+  img.addEventListener('error', () => artwork.classList.add('no-artwork'), { once: true });
   return root;
 }
 
@@ -139,7 +139,7 @@ function buildBackCard(card, cardLookup, onLinkClick) {
   root.querySelector('[data-field="title"]').textContent = card.title;
   root.querySelector('[data-field="function"]').textContent = card.function;
   root.querySelector('[data-field="application"]').textContent = card.application;
-  root.querySelector('[data-field="example"]').textContent = card.example;
+  root.querySelector('[data-field="examples"]').textContent = card.examples;
 
   if (card.pitfall?.trim()) {
     root.querySelector('[data-field="pitfall"]').textContent = card.pitfall;
@@ -147,44 +147,44 @@ function buildBackCard(card, cardLookup, onLinkClick) {
     for (const n of root.querySelectorAll('[data-optional="pitfall"]')) n.remove();
   }
 
-  if (card.pairs_with.length) {
-    const tags = root.querySelector('[data-field="tags"]');
-    for (const t of card.pairs_with) {
-      const linked = cardLookup?.get(t);
+  if (card.references.length) {
+    const referenceList = root.querySelector('[data-field="references"]');
+    for (const title of card.references) {
+      const linked = cardLookup?.get(title);
       const clickable = linked && onLinkClick;
-      const tag = document.createElement(clickable ? 'button' : 'span');
-      tag.className = 'tag';
-      tag.textContent = t;
+      const reference = document.createElement(clickable ? 'button' : 'span');
+      reference.className = 'reference';
+      reference.textContent = title;
       if (linked) {
-        tag.style.setProperty('--accent', CATEGORY_COLORS[linked.category] ?? '#555');
+        reference.style.setProperty('--accent', CATEGORY_COLORS[linked.category] ?? '#555');
       }
       if (clickable) {
-        tag.type = 'button';
-        tag.addEventListener('click', event => {
+        reference.type = 'button';
+        reference.addEventListener('click', event => {
           event.stopPropagation();
           onLinkClick(linked.number);
         });
       }
-      tags.append(tag);
+      referenceList.append(reference);
     }
   } else {
-    root.querySelector('[data-optional="pairs"]').remove();
+    root.querySelector('[data-optional="references"]').remove();
   }
 
-  if (card.source.length) {
-    const sourceElement = root.querySelector('[data-field="source"]');
-    for (const [sourceIndex, part] of card.source.entries()) {
-      if (sourceIndex > 0) sourceElement.append(document.createElement('br'));
-      sourceElement.append(part);
+  if (card.sources.length) {
+    const sourcesElement = root.querySelector('[data-field="sources"]');
+    for (const [sourceIndex, part] of card.sources.entries()) {
+      if (sourceIndex > 0) sourcesElement.append(document.createElement('br'));
+      sourcesElement.append(part);
     }
   } else {
-    root.querySelector('[data-optional="source"]').remove();
+    root.querySelector('[data-optional="sources"]').remove();
   }
 
   return root;
 }
 
-function buildPreviewCard(card, index, cardLookup, onLinkClick) {
+function buildPreviewCard(card, number, cardLookup, onLinkClick) {
   const previewCard = document.createElement('div');
   previewCard.className = 'preview-card';
 
@@ -193,7 +193,7 @@ function buildPreviewCard(card, index, cardLookup, onLinkClick) {
 
   const front = document.createElement('div');
   front.className = 'preview-face preview-face-front';
-  front.append(buildFrontCard(card, index));
+  front.append(buildFrontCard(card, number));
 
   const back = document.createElement('div');
   back.className = 'preview-face preview-face-back';
@@ -313,7 +313,7 @@ function buildSheet(slots, type, label, cardLookup) {
     if (slot) {
       cell.append(
         type === 'front'
-          ? buildFrontCard(slot.data, slot.index)
+          ? buildFrontCard(slot.data, slot.number)
           : buildBackCard(slot.data, cardLookup)
       );
     }
@@ -338,10 +338,10 @@ function render(cards, duplexMode, flipEdge) {
   container.innerHTML = '';
 
   const cardLookup = buildCardLookup(cards);
-  const indexed = cards.map((data, i) => ({ data, index: i + 1 }));
+  const numbered = cards.map((data, i) => ({ data, number: i + 1 }));
   const chunks = [];
-  for (let i = 0; i < indexed.length; i += 4) {
-    chunks.push(indexed.slice(i, i + 4));
+  for (let i = 0; i < numbered.length; i += 4) {
+    chunks.push(numbered.slice(i, i + 4));
   }
   const n = chunks.length;
 
@@ -449,8 +449,8 @@ async function init() {
   });
   document.getElementById('duplexMode').addEventListener('change', renderPrint);
   document.getElementById('flipEdge').addEventListener('change', renderPrint);
-  document.getElementById('showImages').addEventListener('change', event => {
-    document.body.classList.toggle('hide-images', !event.target.checked);
+  document.getElementById('showArtworks').addEventListener('change', event => {
+    document.body.classList.toggle('hide-artworks', !event.target.checked);
   });
   document.getElementById('printButton').addEventListener('click', () => window.print());
   window.addEventListener('popstate', () => applyRoute(readRoute()));

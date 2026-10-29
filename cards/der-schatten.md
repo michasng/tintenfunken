@@ -16,7 +16,7 @@ Welche Eigenschaft des Antagonisten könnte auch in meinem Helden stecken? Unter
 - Hannibal Lecter (The Silence of the Lambs)
 - Thanos (Avengers: Infinity War)
 
-### Vorsicht
+### Warnung
 
 Ein Schatten, der nur böse ist ohne Motivation, erzeugt keine echte thematische Spannung.
 

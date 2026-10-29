@@ -15,7 +15,7 @@ Welche drei Konventionen meines Genres erwartet der Leser? Welche davon breche i
 - Der Detektiv löst den Fall (Krimi), das Paar kommt zusammen (Romance)
 - Subversionen: Gone Girl (Thriller), No Country for Old Men (Anti-Western)
 
-### Vorsicht
+### Warnung
 
 Konventionen zu ignorieren ohne Bewusstsein für ihre Erwartungskraft hinterlässt enttäuschte Leser.
 

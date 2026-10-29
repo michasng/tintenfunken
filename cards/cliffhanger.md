@@ -16,7 +16,7 @@ Was ist die schlimmste oder interessanteste mögliche Situation, in der ich mein
 - Fast jede Folge von Game of Thrones
 - Dan Brown (The Da Vinci Code)
 
-### Vorsicht
+### Warnung
 
 Zu viele Cliffhanger ohne Auflösung erzeugen Leser-Frustration statt Spannung.
 

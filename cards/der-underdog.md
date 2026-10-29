@@ -16,7 +16,7 @@ Welche konkrete Fähigkeit oder Eigenschaft gibt meinem Underdog eine echte, wen
 - Rudy Ruettiger (Rudy)
 - Katniss (The Hunger Games)
 
-### Vorsicht
+### Warnung
 
 Ein Underdog, der ohne Vorbereitung oder Entwicklung gewinnt, enttäuscht. Der Sieg muss verdient sein.
 

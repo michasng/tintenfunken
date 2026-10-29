@@ -16,7 +16,7 @@ Welchen Verdächtigen, Hinweis oder scheinbaren Zusammenhang kann ich einbauen, 
 - Mrs. Danvers (Rebecca)
 - fast jede Krimihandlung
 
-### Vorsicht
+### Warnung
 
 Zu viele falsche Fährten wirken billig. Die wahre Lösung muss im Nachhinein logisch gewesen sein.
 

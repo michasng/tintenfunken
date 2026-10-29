@@ -15,7 +15,7 @@ Was ist die kleinste Eskalation, die ich pro Kapitel einbauen kann, damit mein S
 - Elizabeth & Darcy (Pride and Prejudice)
 - Better Call Saul (Transformation zu Saul)
 
-### Vorsicht
+### Warnung
 
 Ein Slow Burn ohne regelmäßige kleine Eskalationen stagniert und verliert den Leser.
 

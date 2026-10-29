@@ -16,7 +16,7 @@ Was ist der erste Wendepunkt, ab dem meine Figur die alte Welt nicht mehr zurüc
 - Die Verwandlung (Kafka)
 - Pride and Prejudice (Austen)
 
-### Vorsicht
+### Warnung
 
 Die drei Akte nur als grobe Längen zu sehen statt als dramatische Funktionen führt zu flachen Mittelteilen.
 

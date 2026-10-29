@@ -16,7 +16,7 @@ Was ist der spezifische Interessenkonflikt, der meine Figuren trennt? Was zwingt
 - Han Solo & Leia (Star Wars)
 - Beatrice & Benedick (Much Ado About Nothing)
 
-### Vorsicht
+### Warnung
 
 Die Feindschaft darf kein reines Missverständnis sein, das ein Gespräch lösen würde. Echter Konflikt ist nötig.
 

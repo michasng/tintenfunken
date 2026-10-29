@@ -16,7 +16,7 @@ Was ist der spannendste oder aufschlussreichste Moment, mit dem ich meine Geschi
 - Casino Royale
 - Fight Club (Erzähler bereits mit der Waffe am Kopf)
 
-### Vorsicht
+### Warnung
 
 Zu wenig Orientierung zu Beginn kann den Leser verwirren statt fesseln.
 

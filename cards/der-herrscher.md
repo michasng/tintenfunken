@@ -17,7 +17,7 @@ Welche Ordnung verteidigt mein Herrscher? Welche Kosten zahlen jene, die unter i
 - König Mufasa (The Lion King)
 - Miranda Priestly (The Devil Wears Prada)
 
-### Vorsicht
+### Warnung
 
 Ein Herrscher ohne persönliche Motivation und innere Logik wird zum flachen Antagonisten.
 

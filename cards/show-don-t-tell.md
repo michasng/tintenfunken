@@ -15,7 +15,7 @@ Welche Eigenschaft, Emotion oder Bedeutung erkläre ich noch direkt, obwohl ich 
 - Sherlock Holmes zeigt Intelligenz durch Schlussfolgerungen statt Benennung (Conan Doyle)
 - Up zeigt Liebe und Verlust in vier stummen Minuten (Pixar)
 
-### Vorsicht
+### Warnung
 
 »Show, don't tell« ist kein absolutes Gebot. Manchmal ist direkte Charakterisierung effizienter und richtig.
 

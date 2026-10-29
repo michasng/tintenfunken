@@ -16,7 +16,7 @@ Wie subvertiert meine Geschichte die Erwartung des Auserwählten, etwa durch Feh
 - Neo (The Matrix)
 - Anakin Skywalker (Star Wars)
 
-### Vorsicht
+### Warnung
 
 Ohne Zweifel und Versagen wirkt der Auserwählte wie ein unfehlbarer Gott statt wie eine menschliche Figur.
 

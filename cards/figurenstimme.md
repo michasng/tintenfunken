@@ -16,7 +16,7 @@ Könntest du den Figurennamen entfernen und den Dialog nur anhand des Sprachstil
 - Gollum (The Lord of the Rings)
 - Yoda (Star Wars)
 
-### Vorsicht
+### Warnung
 
 Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren. Er sollte deshalb sparsam eingesetzt werden.
 

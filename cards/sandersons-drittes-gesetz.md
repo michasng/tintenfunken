@@ -15,7 +15,7 @@ Welche Eigenschaft meines bestehenden Systems habe ich noch nicht vollständig a
 - Mistborn-Trilogie (bestehende Metallkräfte werden vertieft, bevor neue hinzukommen)
 - Metall-Bending in Avatar als Vertiefung statt Bruch
 
-### Vorsicht
+### Warnung
 
 Für jedes neue Buch ein neues Magiesystem einzuführen dehnt die Welt, ohne sie zu vertiefen.
 

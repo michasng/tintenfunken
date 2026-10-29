@@ -16,7 +16,7 @@ Welches eine Detail in dieser Beschreibung trägt die gesamte emotionale oder ch
 - die abgeknabberten Nägel der nervösen Figur
 - die zu saubere Wohnung im Thriller
 
-### Vorsicht
+### Warnung
 
 Was als Detail gemeint ist, wird zur langen Beschreibung. Weniger ist mehr.
 

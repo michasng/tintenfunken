@@ -16,7 +16,7 @@ Was will meine Figur bewusst, und was braucht sie wirklich? Wo weichen diese bei
 - Luke Skywalker (Star Wars)
 - Katniss Everdeen (The Hunger Games)
 
-### Vorsicht
+### Warnung
 
 Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar. Der Leser investiert emotional nicht in ihn.
 

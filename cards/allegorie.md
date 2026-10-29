@@ -15,7 +15,7 @@ Welche reale Situation oder Ideologie spiegelt meine Geschichte? Welche Elemente
 - Animal Farm (Orwell – Sowjetunion)
 - Lord of the Flies (Golding – Zivilisation vs. Barbarei)
 
-### Vorsicht
+### Warnung
 
 Zu direkte Allegorie reduziert Figuren zu Symbolen ohne eigene Lebendigkeit.
 

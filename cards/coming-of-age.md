@@ -16,7 +16,7 @@ Welche spezifische Illusion oder welchen Schutz verliert meine Figur in dieser G
 - Scout Finch (To Kill a Mockingbird)
 - Bastian (Die unendliche Geschichte)
 
-### Vorsicht
+### Warnung
 
 Coming of Age ohne echten Verlust oder Schmerz ist sentimental statt bewegend.
 

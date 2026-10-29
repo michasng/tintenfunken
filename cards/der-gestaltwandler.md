@@ -16,7 +16,7 @@ An welchem Punkt der Geschichte offenbart mein Gestaltwandler, auf welcher Seite
 - Severus Snape (Harry Potter)
 - Amy Dunne (Gone Girl)
 
-### Vorsicht
+### Warnung
 
 Zu viele Gesinnungswechsel ohne innere Logik wirken beliebig statt spannend.
 

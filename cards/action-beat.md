@@ -15,7 +15,7 @@ Welche Gewohnheit, Geste oder Körperhaltung verrät etwas über die innere Verf
 - Standardtechnik in moderner Prosa
 - als Prinzip: Show, don't tell
 
-### Vorsicht
+### Warnung
 
 Zu viele oder klischeehafte Action Beats nerven statt zu charakterisieren.
 

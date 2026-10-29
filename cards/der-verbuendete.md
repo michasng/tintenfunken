@@ -16,7 +16,7 @@ Was bringt mein Verbündeter ein, das mein Held allein nicht hätte? Wo könnten
 - Chewbacca (Star Wars)
 - Dr. Watson (Sherlock Holmes)
 
-### Vorsicht
+### Warnung
 
 Ein Verbündeter ohne eigene Wünsche und Fehler ist nur ein Werkzeug, keine Figur.
 

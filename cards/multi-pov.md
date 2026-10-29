@@ -16,7 +16,7 @@ Was sieht jede meiner POV-Figuren an einer Schlüsselszene anders? Wie veränder
 - Gone Girl (Flynn – Nick und Amy)
 - The Lord of the Rings
 
-### Vorsicht
+### Warnung
 
 Zu viele POV-Figuren verwässern die emotionale Bindung. Jede Perspektive muss einzigartig und notwendig sein.
 

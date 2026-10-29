@@ -17,7 +17,7 @@ Was würde meine Figur verlieren, wenn die geheime Identität aufgedeckt würde?
 - Zorro
 - The Scarlet Pimpernel
 
-### Vorsicht
+### Warnung
 
 Eine geheime Identität, die nie ernsthaft gefährdet ist, verliert ihre dramatische Funktion.
 

@@ -15,7 +15,7 @@ Welcher Moment nach einer Klimax-Szene ermöglicht es meinen Figuren und dem Les
 - Sam & Frodos Gespräch über Geschichten (The Lord of the Rings)
 - Lagerfeuernächte in Abenteuerromanen
 
-### Vorsicht
+### Warnung
 
 Eine Ruhepause, die zu lang ist, tötet die aufgebaute Spannung.
 

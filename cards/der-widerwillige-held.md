@@ -16,7 +16,7 @@ Was ist der genaue Moment und der präzise Grund, warum meine Figur nicht mehr n
 - Neo (The Matrix)
 - Rick Blaine (Casablanca)
 
-### Vorsicht
+### Warnung
 
 Der Held darf die Weigerung nicht zu lange aufrechterhalten, sonst verliert er Sympathie.
 

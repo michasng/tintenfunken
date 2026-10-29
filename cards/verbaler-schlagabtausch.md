@@ -17,7 +17,7 @@ Wie sprechen meine zwei engsten Verbündeten miteinander, wenn die Welt nicht un
 - Benedick & Beatrice (Much Ado About Nothing)
 - Lorelai & Rory (Gilmore Girls)
 
-### Vorsicht
+### Warnung
 
 Banter, der Plot-relevante Szenen ersetzt statt ergänzt, verlangsamt das Pacing.
 

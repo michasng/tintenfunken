@@ -16,7 +16,7 @@ Was weiß der Leser oder eine Figur in diesem Moment noch nicht? Welche Emotion 
 - das Tagebuch in Rebecca (Du Maurier)
 - jede Aufklärungsszene im Krimi
 
-### Vorsicht
+### Warnung
 
 Eine Enthüllung, auf die keine emotionale Reaktion der Figuren folgt, verpufft wirkungslos.
 

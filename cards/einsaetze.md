@@ -16,7 +16,7 @@ Was steht für meine Figur auf dem Spiel? Hat der Leser verstanden, warum genau 
 - Rockys Würde vs. der Kampf (Rocky)
 - Atticus' Integrität vs. die Gemeinschaft (To Kill a Mockingbird)
 
-### Vorsicht
+### Warnung
 
 Einsätze, die sich im Verlauf der Geschichte nicht steigern, verlieren ihre Wirkung.
 

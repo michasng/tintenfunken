@@ -16,7 +16,7 @@ Was ist meine Figur bereit, für die Verbindung, die sie sucht, zu verlieren? Wa
 - Jack & Rose (Titanic)
 - Heathcliff (Wuthering Heights – Brontë)
 
-### Vorsicht
+### Warnung
 
 Ein Liebender ohne eigene Identität jenseits der Beziehung macht Abhängigkeit zum unfreiwilligen Thema.
 

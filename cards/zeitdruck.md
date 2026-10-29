@@ -16,7 +16,7 @@ Was passiert genau, wenn meine Figur diese Aufgabe nicht rechtzeitig abschließt
 - 24 (TV-Serie)
 - Arrival (Denis Villeneuve)
 
-### Vorsicht
+### Warnung
 
 Der Zeitdruck verliert seine Kraft, wenn er mehrfach verlängert wird ohne echte Konsequenz.
 

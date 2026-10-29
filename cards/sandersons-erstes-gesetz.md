@@ -15,7 +15,7 @@ Welche magischen Fähigkeiten, die später das Problem lösen, habe ich dem Lese
 - Mistborn (Sanderson)
 - Das erste Zeigen von Magie in Harry Potter – Kapitel 1
 
-### Vorsicht
+### Warnung
 
 Unbekannte Magie, die unvermittelt ein Problem löst, ist ein klassischer Deus ex Machina.
 

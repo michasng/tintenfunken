@@ -1,6 +1,6 @@
 const CACHE_VERSION = 'v2';
 const STATIC_CACHE = `tintenfunken-static-${CACHE_VERSION}`;
-const IMAGE_CACHE = `tintenfunken-images-${CACHE_VERSION}`;
+const ARTWORK_CACHE = `tintenfunken-artworks-${CACHE_VERSION}`;
 const APP_SCOPE = self.registration.scope;
 const APP_ORIGIN = new URL(APP_SCOPE).origin;
 const APP_PATH = new URL(APP_SCOPE).pathname;
@@ -27,7 +27,7 @@ self.addEventListener('install', event => {
 
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
-    const expected = new Set([STATIC_CACHE, IMAGE_CACHE]);
+    const expected = new Set([STATIC_CACHE, ARTWORK_CACHE]);
     for (const cacheName of await caches.keys()) {
       if (cacheName.startsWith('tintenfunken-') && !expected.has(cacheName)) {
         await caches.delete(cacheName);
@@ -57,8 +57,8 @@ async function staleWhileRevalidate(request) {
 }
 
 async function cacheFirst(request) {
-  const imageCache = await caches.open(IMAGE_CACHE);
-  const cached = await imageCache.match(request);
+  const artworkCache = await caches.open(ARTWORK_CACHE);
+  const cached = await artworkCache.match(request);
   if (cached) {
     return cached;
   }
@@ -71,7 +71,7 @@ async function cacheFirst(request) {
 
   const response = await fetch(request);
   if (response.ok) {
-    await imageCache.put(request, response.clone());
+    await artworkCache.put(request, response.clone());
   }
   return response;
 }

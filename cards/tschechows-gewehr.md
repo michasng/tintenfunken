@@ -16,7 +16,7 @@ Welche Details in meiner Eröffnungsszene kann ich so platzieren, dass sie im dr
 - Hermiones Time-Turner (Harry Potter)
 - Das Lichtschwert von Lukes Vater (Star Wars)
 
-### Vorsicht
+### Warnung
 
 Zu offensichtliches Einführen wichtiger Elemente nimmt dem Twist seinen Effekt.
 

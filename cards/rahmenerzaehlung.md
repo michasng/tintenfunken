@@ -17,7 +17,7 @@ Was weiß mein Rahmenerzähler schon vom Ende der Geschichte? Wie färbt dieses 
 - The Princess Bride
 - The Hobbit
 
-### Vorsicht
+### Warnung
 
 Ein Rahmen, der irrelevant für das Thema ist, verwirrt mehr als er hilft.
 

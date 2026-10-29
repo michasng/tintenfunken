@@ -17,7 +17,7 @@ Wo steht meine Figur auf der Heldenreise? Welchen Schritt verweigert sie gerade 
 - Simba (The Lion King)
 - Odysseus (The Odyssey)
 
-### Vorsicht
+### Warnung
 
 Zu sklavische Anwendung erzeugt vorhersehbare Geschichten. Die Reise ist ein Kompass, kein Kochrezept.
 

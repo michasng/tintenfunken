@@ -16,7 +16,7 @@ Was weiß mein Ich-Erzähler nicht? Wie nutze ich diese Lücke für Spannung ode
 - Scout Finch (To Kill a Mockingbird)
 - Ishmael (Moby Dick)
 
-### Vorsicht
+### Warnung
 
 Der Ich-Erzähler kann keine Szenen glaubwürdig beschreiben, bei denen er nicht anwesend war.
 

@@ -16,7 +16,7 @@ Welches Geheimnis behält das übernatürliche Element meiner Welt? Was verlöre
 - Magie in A Song of Ice and Fire (Martin)
 - Jonathan Strange & Mr Norrell (Clarke)
 
-### Vorsicht
+### Warnung
 
 Ein zu weiches System kann keine Konflikte lösen, ohne sich wie Deus ex Machina anzufühlen.
 

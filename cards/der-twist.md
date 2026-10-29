@@ -16,7 +16,7 @@ Habe ich ausreichend Hinweise eingebaut, damit sich mein Twist im Rückblick unv
 - Tyler Durden (Fight Club)
 - The Sixth Sense
 
-### Vorsicht
+### Warnung
 
 Ein Twist, der sich nicht aus dem vorherigen Material ableiten lässt, fühlt sich wie Betrug an.
 

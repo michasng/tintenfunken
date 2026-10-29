@@ -16,7 +16,7 @@ Welche Figur hat der Leser am meisten ins Vertrauen gezogen? Wie habe ich diese 
 - Peter Pettigrew (Harry Potter)
 - Cersei Lannister (Game of Thrones)
 
-### Vorsicht
+### Warnung
 
 Ein Verrat ohne erkennbare Motivation wirkt unglaubwürdig und ärgerlich.
 

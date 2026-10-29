@@ -15,7 +15,7 @@ Welcher nicht-visuelle Sinneseindruck charakterisiert eine Schlüsselszene meine
 - Der Geruch der Madeleines in À la recherche du temps perdu (Proust)
 - Klangatmosphäre in Virginia Woolfs The Waves
 
-### Vorsicht
+### Warnung
 
 Erzwungene Sinneseindrücke, die nicht zur Szene passen, wirken dekorativ statt immersiv.
 

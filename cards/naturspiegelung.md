@@ -15,7 +15,7 @@ Welches Wetterelement oder Naturdetail könnte den inneren Zustand meiner Figur 
 - Sturm in Shakespeares Tragödien (Lear, Macbeth)
 - Sonnenschein nach Scrooges Wandlung (A Christmas Carol)
 
-### Vorsicht
+### Warnung
 
 Zu direkte Entsprechung (Gewitter = böse, Sonne = gut) wirkt klischeehaft.
 

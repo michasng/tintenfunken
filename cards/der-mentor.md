@@ -17,7 +17,7 @@ Welche entscheidende Lektion gibt mein Mentor dem Helden mit? Wann wird dieser s
 - Dumbledore (Harry Potter)
 - Haymitch (The Hunger Games)
 
-### Vorsicht
+### Warnung
 
 Ein Mentor, der zu viel löst, nimmt dem Helden die Handlungsmacht.
 

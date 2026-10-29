@@ -17,7 +17,7 @@ Welchen Tod oder Abgang muss mein Held verkraften, bevor er die letzte Prüfung 
 - Mufasa (The Lion King)
 - Dumbledore (Harry Potter)
 
-### Vorsicht
+### Warnung
 
 Der Tod des Mentors wirkt billig, wenn er kein Echo in der weiteren Handlung hat.
 

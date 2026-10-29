@@ -16,7 +16,7 @@ In welchem Moment der intensivsten psychologischen Belastung meiner Figur könnt
 - Mrs. Dalloway (Woolf)
 - The Sound and the Fury (Faulkner)
 
-### Vorsicht
+### Warnung
 
 Länger angehaltener Bewusstseinsstrom ist für viele Leser schwer zugänglich. Daher sparsam einsetzen.
 

@@ -16,7 +16,7 @@ Was ist die eine Haltung, die meine Erzählstimme gegenüber der Geschichte einn
 - zarte Ironie bei Jane Austen
 - bitterer Sarkasmus in Catch-22 (Heller)
 
-### Vorsicht
+### Warnung
 
 Unkontrollierter Tonwechsel (tragisch zu plötzlich komisch) zerstört die emotionale Kontinuität.
 

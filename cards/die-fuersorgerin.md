@@ -16,7 +16,7 @@ Was opfert meine fürsorgliche Figur? Ab welchem Punkt schadet ihre Fürsorge me
 - Samwise Gamgee (The Lord of the Rings)
 - Calpurnia (To Kill a Mockingbird)
 
-### Vorsicht
+### Warnung
 
 Eine Fürsorgerin ohne eigene Bedürfnisse und Grenzen wird zum Klischee der selbstlosen Opferfigur.
 

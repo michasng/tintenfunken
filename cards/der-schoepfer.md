@@ -17,7 +17,7 @@ Was erschafft meine Figur? Welche unbeabsichtigten Konsequenzen bringt das Gesch
 - Willy Wonka (Charlie and the Chocolate Factory)
 - Dr. Hammond (Jurassic Park)
 
-### Vorsicht
+### Warnung
 
 Der Schöpfer neigt zur Selbstüberschätzung. Ohne persönlichen Preis für unkontrollierte Kreativität fehlt die dramatische Tiefe.
 

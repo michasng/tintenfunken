@@ -17,7 +17,7 @@ Was bewahrt meine Figur davor, zynisch zu werden? Wann wird dieses Schutzschild 
 - Forrest Gump
 - Amélie (Le Fabuleux Destin d'Amélie Poulain)
 
-### Vorsicht
+### Warnung
 
 Eine dauerhaft unverstellte Figur ohne Brüche wirkt naiv und unglaubwürdig in einer komplexen Welt.
 

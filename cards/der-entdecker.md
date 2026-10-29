@@ -17,7 +17,7 @@ Was entdeckt meine Figur auf ihrer Reise, das sie verändert? Was hätte sie lie
 - Lyra Silvertongue (His Dark Materials)
 - Captain Ahab (Moby Dick) als dunkle Variante
 
-### Vorsicht
+### Warnung
 
 Ein Entdecker ohne innere Entwicklung ist nur eine Plotmaschine. Das Entdeckte muss ihn verwandeln.
 

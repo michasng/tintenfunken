@@ -16,7 +16,7 @@ Welche zwei scheinbar unverbundenen Elemente meiner Geschichte können in einer 
 - viele Manga-Kurzgeschichten
 - klassische japanische Lyrik
 
-### Vorsicht
+### Warnung
 
 Ohne eine wirklich überraschende Verbindung im dritten Akt wirkt die Struktur orientierungslos.
 

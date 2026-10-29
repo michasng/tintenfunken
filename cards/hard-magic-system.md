@@ -16,7 +16,7 @@ Was sind die drei wichtigsten Regeln meines Systems? Was ist der größte Preis,
 - Bending in Avatar: The Last Airbender
 - Alchemie in Fullmetal Alchemist
 
-### Vorsicht
+### Warnung
 
 Ein hartes System, das in der Auflösung plötzlich neue Regeln einführt, zerstört das Vertrauen des Lesers.
 

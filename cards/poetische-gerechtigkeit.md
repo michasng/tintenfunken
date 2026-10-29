@@ -16,7 +16,7 @@ Ergibt sich die Schlusssituation meiner Figuren organisch aus ihren früheren En
 - Walter White (Breaking Bad)
 - Schurken in Märchen
 
-### Vorsicht
+### Warnung
 
 Zu mechanisch angewandte poetische Gerechtigkeit wirkt naiv. Sie muss aus der Logik der Geschichte folgen.
 

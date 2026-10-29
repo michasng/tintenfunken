@@ -14,7 +14,7 @@ Welche zweite Funktion kann ich meiner aktuellen Infoszene geben, damit sie glei
 
 - Das Familienfrühstück in American Beauty (Familienkonflikt + Charakterisierung + Worldbuilding gleichzeitig)
 
-### Vorsicht
+### Warnung
 
 Eine Szene, die drei oder vier Funktionen hat, verliert an Fokus. Zwei Funktionen sind optimal.
 

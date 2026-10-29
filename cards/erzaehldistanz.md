@@ -15,7 +15,7 @@ Welche Distanz braucht diese spezifische Szene? Welcher Wechsel würde die emoti
 - Austen wechselt Distanz bewusst: ironischer Überblick + Elizabeths Innenperspektive (Pride and Prejudice)
 - Tolstoys Schlachtszenen vs. Pierres Innenwelt (War and Peace)
 
-### Vorsicht
+### Warnung
 
 Unkontrolliertes Wechseln der Distanz innerhalb einer Szene (»Head-Hopping«) verwirrt den Leser.
 

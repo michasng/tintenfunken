@@ -16,7 +16,7 @@ Was macht jede der beiden konkurrierenden Figuren einzigartig attraktiv? Was mac
 - Katniss – Peeta – Gale (The Hunger Games)
 - Aragorn – Arwen – Éowyn (The Lord of the Rings)
 
-### Vorsicht
+### Warnung
 
 Ohne echten inneren Konflikt der wählenden Figur wird das Dreieck zur Dauerhinhaltetaktik ohne emotionale Tiefe.
 

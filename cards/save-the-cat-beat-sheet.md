@@ -16,7 +16,7 @@ Habe ich einen »All is Lost«-Moment kurz vor dem Finale, also den tiefsten Pun
 - Bridesmaids
 - Harry Potter
 
-### Vorsicht
+### Warnung
 
 Das Schema kann bei zu enger Anwendung auf Literatur zu formelhaftem Schreiben verleiten.
 

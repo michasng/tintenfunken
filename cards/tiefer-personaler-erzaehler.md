@@ -15,7 +15,7 @@ Erkenne ich in meinem Text noch Formulierungen, die der Autor statt die Figur sa
 - Lyra Silvertongue in His Dark Materials (Pullman)
 - Katniss (The Hunger Games)
 
-### Vorsicht
+### Warnung
 
 Deep POV mit einer unsympathischen oder uninteressanten Figur kann sehr ermüdend sein.
 

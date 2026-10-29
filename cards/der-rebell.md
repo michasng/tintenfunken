@@ -16,7 +16,7 @@ Gegen welches konkrete System oder welche Norm rebelliert meine Figur? Was koste
 - McMurphy (One Flew Over the Cuckoo's Nest)
 - V (V for Vendetta)
 
-### Vorsicht
+### Warnung
 
 Rebellion ohne persönliche Konsequenz erzeugt keine echte Spannung.
 

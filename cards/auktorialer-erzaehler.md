@@ -16,7 +16,7 @@ Wo nutzt mein Erzähler die Distanz zum Kommentieren? Wo sollte er eintauchen, u
 - Jane Austen (Pride and Prejudice)
 - Terry Pratchett (Discworld)
 
-### Vorsicht
+### Warnung
 
 Auktorialer Kommentar kann die emotionale Immersion unterbrechen und sollte sparsam eingesetzt werden.
 

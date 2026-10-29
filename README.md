@@ -1,6 +1,6 @@
 # Tintenfunken
 
-Print-ready deck of writing-craft cards. 89 × 140 mm, four cards per DIN A4 sheet.
+Print-ready deck of writing-craft cards. Each card's visual representation is 89 × 140 mm, four per DIN A4 sheet.
 
 ## Run
 
@@ -12,7 +12,7 @@ npx serve .
 
 Then open the printed URL (default: http://localhost:3000).
 
-## Add card images
+## Add card artworks
 
 Place one PNG per card in the `artworks/` folder. File names are derived from the card title:
 
@@ -24,7 +24,7 @@ Place one PNG per card in the `artworks/` folder. File names are derived from th
 Examples: `Der Held → der-held.png`, `Kishōtenketsu → kishotenketsu.png`, `3-Akt-Struktur → 3-akt-struktur.png`, `Kontrastfigur (Foil) → kontrastfigur.png`
 
 Cards without a matching PNG show a dark gradient placeholder.  
-See `image_prompts.json` for per-card illustration prompts and `wrapper_image_prompt.txt` for the shared style suffix.
+Each card's artwork prompt lives in its `### Bild` section; see `artwork_generator/` for generating the artworks.
 
 ## Print
 
@@ -55,13 +55,13 @@ The backs are printed with 1.5 mm bleed, so the cut will always land on solid co
 
 ## Data
 
-Each card lives in its own file in `cards/` (named after the card's slug, e.g. `cards/der-held.md`). `cards.md` is the index: it groups the cards by category and defines their order.
+Each card lives in its own file in `cards/` (named after the card's slug, e.g. `cards/der-held.md`). `cards.md` is the index: it groups the cards by category and defines their order, which gives each card its number.
 
 ```markdown
 - Archetyp
   - [Der Held](cards/der-held.md)
 ```
 
-A card file starts with the title as `## Title`, followed by the front text (essence) and the sections `### Funktion`, `### Anwendung`, `### Beispiele`, `### Vorsicht`, `### Passt zu`, `### Quellen` and `### Bild`. Empty sections can be omitted. Write each paragraph on a single line; list items (`- `) are used for examples, related cards and sources. `Passt zu` entries link to other card files; `Bild` holds the image prompt as alt text: `![prompt](../artworks/slug.png)`.
+A card file starts with the title as `## Title`, followed by the essence and the sections `### Funktion`, `### Anwendung`, `### Beispiele`, `### Warnung`, `### Passt zu`, `### Quellen` and `### Bild`. Empty sections can be omitted. Write each paragraph on a single line; list items (`- `) are used for examples, references and sources. `Passt zu` entries (the references) link to other card files; `Bild` holds the artwork prompt as alt text: `![prompt](../artworks/slug.png)`.
 
 Category colours are fixed in `app.js` (`CATEGORY_COLORS`). Adding a new category requires adding an entry there.

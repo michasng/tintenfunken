@@ -17,7 +17,7 @@ Was weiß meine Weisheitsfigur, das der Held erst am Ende verstehen wird? Wie de
 - Rafiki (The Lion King)
 - der alte Fischer in The Old Man and the Sea (Hemingway)
 
-### Vorsicht
+### Warnung
 
 Ein Weiser, der alle Antworten ausspricht, ersetzt die Reise des Helden durch eine Lektion.
 

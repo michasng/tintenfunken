@@ -16,7 +16,7 @@ Was verschweigt, verdreht oder missversteht mein Erzähler? Welche Szenen zeigen
 - Amy Dunne (Gone Girl)
 - Humbert Humbert (Lolita – Nabokov)
 
-### Vorsicht
+### Warnung
 
 Der unzuverlässige Erzähler funktioniert nur, wenn die Unzuverlässigkeit rückwirkend nachvollziehbar ist.
 

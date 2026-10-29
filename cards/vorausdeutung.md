@@ -16,7 +16,7 @@ Welches Detail in meiner Eröffnung kann ich so platzieren, dass es beim zweiten
 - die Schneekugel in Citizen Kane
 - Tschechows Gewehr in unzähligen Krimis
 
-### Vorsicht
+### Warnung
 
 Zu offensichtliches Foreshadowing nimmt dem Twist den Effekt, zu subtiles bemerkt niemand.
 

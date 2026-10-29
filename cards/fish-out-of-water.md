@@ -16,7 +16,7 @@ Was ist in meiner Welt seltsam oder gefährlich, das einer Figur von außen erkl
 - Thor (Marvel)
 - The Devil Wears Prada
 
-### Vorsicht
+### Warnung
 
 Dient die Außenseiterfigur nur dazu, sich die Welt erklären zu lassen, ohne eigene Ziele zu verfolgen, bleibt das Potenzial des Tropes ungenutzt.
 
