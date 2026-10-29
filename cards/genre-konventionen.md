@@ -27,4 +27,4 @@ Konventionen zu ignorieren ohne Bewusstsein für ihre Erwartungskraft hinterläs
 
 ### Bild
 
-![a row of book spines in different genre colors, one pulled forward](../images/genre-konventionen.png)
+![a row of book spines in different genre colors, one pulled forward](../artworks/genre-konventionen.png)

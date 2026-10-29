@@ -71,7 +71,7 @@ _THIS_DIR = Path(__file__).parent
 
 URL = "http://127.0.0.1:7860"
 CARDS_INDEX = _THIS_DIR.parent / "cards.md"
-OUT_DIR = _THIS_DIR / "images"
+OUT_DIR = _THIS_DIR / "artworks"
 
 # FLUX.1 [schnell] — CFG must be 1; higher values cause blurry output
 STEPS = 4

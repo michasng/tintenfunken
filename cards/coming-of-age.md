@@ -28,4 +28,4 @@ Coming of Age ohne echten Verlust oder Schmerz ist sentimental statt bewegend.
 
 ### Bild
 
-![a child's small shoe beside a worn adult boot in a doorway](../images/coming-of-age.png)
+![a child's small shoe beside a worn adult boot in a doorway](../artworks/coming-of-age.png)

@@ -27,4 +27,4 @@ Ohne eine wirklich überraschende Verbindung im dritten Akt wirkt die Struktur o
 
 ### Bild
 
-![a teacup and a crescent moon linked by a bridge of mist](../images/kishotenketsu.png)
+![a teacup and a crescent moon linked by a bridge of mist](../artworks/kishotenketsu.png)

@@ -24,4 +24,4 @@ Wie spiegelt das natürliche Hindernis, gegen das meine Figur kämpft, ihren inn
 
 ### Bild
 
-![a tiny ship beneath an enormous curling storm wave](../images/figur-vs-natur.png)
+![a tiny ship beneath an enormous curling storm wave](../artworks/figur-vs-natur.png)

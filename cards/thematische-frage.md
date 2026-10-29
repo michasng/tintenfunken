@@ -22,4 +22,4 @@ Was ist die eine Frage, die meine Geschichte stellt? Wie lautet die implizite An
 
 ### Bild
 
-![a glowing question mark formed from rising embers in darkness](../images/thematische-frage.png)
+![a glowing question mark formed from rising embers in darkness](../artworks/thematische-frage.png)

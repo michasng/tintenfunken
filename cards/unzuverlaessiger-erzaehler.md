@@ -27,4 +27,4 @@ Der unzuverlässige Erzähler funktioniert nur, wenn die Unzuverlässigkeit rüc
 
 ### Bild
 
-![a cracked mirror reflecting a room that contradicts the real one](../images/unzuverlaessiger-erzaehler.png)
+![a cracked mirror reflecting a room that contradicts the real one](../artworks/unzuverlaessiger-erzaehler.png)

@@ -26,4 +26,4 @@ Zu direkte Entsprechung (Gewitter = böse, Sonne = gut) wirkt klischeehaft.
 
 ### Bild
 
-![a stormy sky reflected in a perfectly still lake](../images/naturspiegelung.png)
+![a stormy sky reflected in a perfectly still lake](../artworks/naturspiegelung.png)

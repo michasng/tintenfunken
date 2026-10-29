@@ -1,4 +1,4 @@
-# image_generation
+# artwork_generator
 
 Generates one PNG per card from `cards.md` (and the card files it links to) via the Forge / A1111 txt2img REST API. The prompt is taken from each card's `### Bild` section.
 
@@ -70,7 +70,7 @@ Verify the API is live: <http://127.0.0.1:7860/docs>
 
 ## 6 · Run the script
 
-From the `image_generation/` directory:
+From the `artwork_generator/` directory:
 
 ```bash
 # All cards
@@ -92,7 +92,7 @@ All generation parameters not passed explicitly are left to Forge's own defaults
 | `TITLE …` | all | Card titles or slugs to generate |
 | `--url` | `http://127.0.0.1:7860` | Forge server URL |
 | `--wrapper` | `../wrapper_image_prompt.txt` | Wrapper prompt file |
-| `--out` | `./images` | Output directory for PNGs |
+| `--out` | `./artworks` | Output directory for PNGs |
 | `--seed N` | Forge default (random) | Fixed seed |
 | `--steps N` | Forge default | Sampling steps |
 | `--cfg-scale F` | Forge default | CFG scale |
@@ -103,9 +103,9 @@ All generation parameters not passed explicitly are left to Forge's own defaults
 
 ## 7 · Output
 
-Each card produces two files in `images/`:
+Each card produces two files in `artworks/`:
 
 - `{slug}.png` — generated image
 - `{slug}.txt` — actual seed used + full prompt (for reproducibility)
 
-The slug matches the filenames expected by `layout/app.js`, so images can be copied into `layout/images/` to appear in the print layout.
+The slug matches the filenames expected by `app.js`, so artworks can be copied into the repository's `artworks/` folder to appear in the print layout.

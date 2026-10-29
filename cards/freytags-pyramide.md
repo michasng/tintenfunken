@@ -27,4 +27,4 @@ Welcher Moment ist der absolute Hochpunkt meiner Geschichte? Ist jede Szene davo
 
 ### Bild
 
-![a mountain path rising to a lone figure at the peak, then descending](../images/freytags-pyramide.png)
+![a mountain path rising to a lone figure at the peak, then descending](../artworks/freytags-pyramide.png)

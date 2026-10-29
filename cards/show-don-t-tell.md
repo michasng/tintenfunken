@@ -27,4 +27,4 @@ Welche Eigenschaft, Emotion oder Bedeutung erkläre ich noch direkt, obwohl ich 
 
 ### Bild
 
-![a clenched fist resting on a table, knuckles white](../images/show-don-t-tell.png)
+![a clenched fist resting on a table, knuckles white](../artworks/show-don-t-tell.png)

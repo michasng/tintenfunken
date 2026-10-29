@@ -22,4 +22,4 @@ Wer in meiner Geschichte vertritt am überzeugendsten die entgegengesetzte Posit
 
 ### Bild
 
-![two mirror-image portraits side by side in opposing colors](../images/gegen-thema.png)
+![two mirror-image portraits side by side in opposing colors](../artworks/gegen-thema.png)

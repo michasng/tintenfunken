@@ -31,4 +31,4 @@ Ein zu weiches System kann keine Konflikte lösen, ohne sich wie Deus ex Machina
 
 ### Bild
 
-![swirling luminous mist forming shapes that never quite resolve](../images/soft-magic-system.png)
+![swirling luminous mist forming shapes that never quite resolve](../artworks/soft-magic-system.png)

@@ -31,4 +31,4 @@ Das Schema kann bei zu enger Anwendung auf Literatur zu formelhaftem Schreiben v
 
 ### Bild
 
-![a cat perched on a rooftop ledge in the rain, city lights below](../images/save-the-cat-beat-sheet.png)
+![a cat perched on a rooftop ledge in the rain, city lights below](../artworks/save-the-cat-beat-sheet.png)

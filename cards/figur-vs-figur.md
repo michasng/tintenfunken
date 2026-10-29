@@ -23,4 +23,4 @@ Was wollen meine Figuren genau, das sich gegenseitig ausschließt? Welche persö
 
 ### Bild
 
-![two chess kings facing each other on an otherwise empty board](../images/figur-vs-figur.png)
+![two chess kings facing each other on an otherwise empty board](../artworks/figur-vs-figur.png)

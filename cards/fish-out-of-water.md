@@ -28,4 +28,4 @@ Dient die Außenseiterfigur nur dazu, sich die Welt erklären zu lassen, ohne ei
 
 ### Bild
 
-![a fish in a water bubble hovering above a busy street](../images/fish-out-of-water.png)
+![a fish in a water bubble hovering above a busy street](../artworks/fish-out-of-water.png)

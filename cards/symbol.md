@@ -23,4 +23,4 @@ Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Ro
 
 ### Bild
 
-![an ordinary chair casting a shadow shaped like a throne](../images/symbol.png)
+![an ordinary chair casting a shadow shaped like a throne](../artworks/symbol.png)

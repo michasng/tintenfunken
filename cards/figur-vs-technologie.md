@@ -25,4 +25,4 @@ Ist die Technologie in meiner Geschichte ein Werkzeug, ein Gegner oder ein Spieg
 
 ### Bild
 
-![an organic vine and a mechanical arm reaching toward each other](../images/figur-vs-technologie.png)
+![an organic vine and a mechanical arm reaching toward each other](../artworks/figur-vs-technologie.png)

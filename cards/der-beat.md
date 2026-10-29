@@ -25,4 +25,4 @@ Verlangsame eine Szene, indem du mehr Beats einfügst. Beschleunige sie, indem d
 
 ### Bild
 
-![a metronome](../images/der-beat.png)
+![a metronome](../artworks/der-beat.png)

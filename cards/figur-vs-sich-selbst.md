@@ -25,4 +25,4 @@ Was kämpft in meiner Figur gegeneinander? Welche Entscheidung erzwingt die Gesc
 
 ### Bild
 
-![a figure before a cracked mirror](../images/figur-vs-sich-selbst.png)
+![a figure before a cracked mirror](../artworks/figur-vs-sich-selbst.png)

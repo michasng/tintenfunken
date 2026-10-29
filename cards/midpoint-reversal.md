@@ -22,4 +22,4 @@ Was glaubt meine Figur in der Mitte der Geschichte gewonnen zu haben? Was stellt
 
 ### Bild
 
-![a road going up, then down again](../images/midpoint-reversal.png)
+![a road going up, then down again](../artworks/midpoint-reversal.png)

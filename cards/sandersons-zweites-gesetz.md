@@ -27,4 +27,4 @@ Was kann meine Figur mit ihrer besonderen Fähigkeit nicht tun? Macht genau dies
 
 ### Bild
 
-![a cracked glowing artifact with a shard missing](../images/sandersons-zweites-gesetz.png)
+![a cracked glowing artifact with a shard missing](../artworks/sandersons-zweites-gesetz.png)

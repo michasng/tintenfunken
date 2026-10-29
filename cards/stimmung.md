@@ -23,4 +23,4 @@ Welche drei spezifischen Sinneseindrücke (Klang, Geruch, Licht) kann ich einbau
 
 ### Bild
 
-![a single glowing streetlamp diffusing light through autumn fog](../images/stimmung.png)
+![a single glowing streetlamp diffusing light through autumn fog](../artworks/stimmung.png)

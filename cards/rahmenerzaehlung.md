@@ -28,4 +28,4 @@ Ein Rahmen, der irrelevant für das Thema ist, verwirrt mehr als er hilft.
 
 ### Bild
 
-![a painting within a painting within a painting](../images/rahmenerzaehlung.png)
+![a painting within a painting within a painting](../artworks/rahmenerzaehlung.png)

@@ -27,4 +27,4 @@ Ein Verrat ohne erkennbare Motivation wirkt unglaubwürdig und ärgerlich.
 
 ### Bild
 
-![two figures greeting, one hiding a knife behind their back](../images/der-verrat.png)
+![two figures greeting, one hiding a knife behind their back](../artworks/der-verrat.png)

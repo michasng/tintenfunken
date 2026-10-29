@@ -26,4 +26,4 @@ Wo liegt mein Midpoint, also der Moment, in dem meine Figur aufhört zu reagiere
 
 ### Bild
 
-![a constellation of 7 stars](../images/sieben-punkte-struktur.png)
+![a constellation of 7 stars](../artworks/sieben-punkte-struktur.png)

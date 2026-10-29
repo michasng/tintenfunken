@@ -27,4 +27,4 @@ Was will meine Figur, und was braucht sie wirklich? Wann begreift sie den Unters
 
 ### Bild
 
-![a fork in the road, one path bright, the other path dark](../images/wunsch-vs-beduerfnis.png)
+![a fork in the road, one path bright, the other path dark](../artworks/wunsch-vs-beduerfnis.png)

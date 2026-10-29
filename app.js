@@ -121,7 +121,7 @@ function buildFrontCard(card, index) {
   root.querySelector('[data-field="essence"]').textContent = card.essence;
   const illustration = root.querySelector('.illustration');
   const img = root.querySelector('[data-field="img"]');
-  img.src = assetUrl(`images/${slug(card.title)}.png`);
+  img.src = assetUrl(`artworks/${slug(card.title)}.png`);
   img.addEventListener('error', () => illustration.classList.add('no-image'), { once: true });
   return root;
 }

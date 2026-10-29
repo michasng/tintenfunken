@@ -28,4 +28,4 @@ Banter, der Plot-relevante Szenen ersetzt statt ergänzt, verlangsamt das Pacing
 
 ### Bild
 
-![two swords clashing, sparks at the point of contact](../images/verbaler-schlagabtausch.png)
+![two swords clashing, sparks at the point of contact](../artworks/verbaler-schlagabtausch.png)

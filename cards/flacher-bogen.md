@@ -23,4 +23,4 @@ Was ist die unveränderliche Überzeugung meiner Figur? Welche Welt oder welche 
 
 ### Bild
 
-![a solid boulder unmoved in the center of a rushing river](../images/flacher-bogen.png)
+![a solid boulder unmoved in the center of a rushing river](../artworks/flacher-bogen.png)

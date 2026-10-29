@@ -31,4 +31,4 @@ Ein hartes System, das in der Auflösung plötzlich neue Regeln einführt, zerst
 
 ### Bild
 
-![a precise glowing geometric diagram etched on dark stone](../images/hard-magic-system.png)
+![a precise glowing geometric diagram etched on dark stone](../artworks/hard-magic-system.png)

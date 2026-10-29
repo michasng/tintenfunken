@@ -27,4 +27,4 @@ Wo beginnt meine Szene wirklich? Kann ich die ersten zwei Absätze streichen? Gi
 
 ### Bild
 
-![stage lights rising on a scene already at its peak, edges in darkness](../images/spaet-rein-frueh-raus.png)
+![stage lights rising on a scene already at its peak, edges in darkness](../artworks/spaet-rein-frueh-raus.png)

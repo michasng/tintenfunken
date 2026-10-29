@@ -23,4 +23,4 @@ Was symbolisiert das übernatürliche Element meiner Geschichte? Welche menschli
 
 ### Bild
 
-![a lone figure standing firm before a swirling vortex of cold light](../images/figur-vs-uebernatuerliches.png)
+![a lone figure standing firm before a swirling vortex of cold light](../artworks/figur-vs-uebernatuerliches.png)

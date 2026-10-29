@@ -27,4 +27,4 @@ Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren. Er sollte
 
 ### Bild
 
-![five speech bubbles of completely different shapes and textures](../images/figurenstimme.png)
+![five speech bubbles of completely different shapes and textures](../artworks/figurenstimme.png)

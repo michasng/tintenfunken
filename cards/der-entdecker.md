@@ -32,4 +32,4 @@ Ein Entdecker ohne innere Entwicklung ist nur eine Plotmaschine. Das Entdeckte m
 
 ### Bild
 
-![an antique compass on the edge of an unmapped coastline](../images/der-entdecker.png)
+![an antique compass on the edge of an unmapped coastline](../artworks/der-entdecker.png)

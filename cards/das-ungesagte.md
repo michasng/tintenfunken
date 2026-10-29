@@ -23,4 +23,4 @@ Welche Aussage in meinem Dialog kann ich in Schweigen oder Themenwechsel verwand
 
 ### Bild
 
-![a figure with an open mouth and an entirely empty speech bubble](../images/das-ungesagte.png)
+![a figure with an open mouth and an entirely empty speech bubble](../artworks/das-ungesagte.png)

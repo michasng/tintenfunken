@@ -14,7 +14,7 @@ Then open the printed URL (default: http://localhost:3000).
 
 ## Add card images
 
-Place one PNG per card in the `images/` folder. File names are derived from the card title:
+Place one PNG per card in the `artworks/` folder. File names are derived from the card title:
 
 - A trailing parenthetical is ignored (used for the English term, e.g. `Kontrastfigur (Foil)`)
 - German umlauts are expanded: `ä → ae`, `ö → oe`, `ü → ue`, `ß → ss`
@@ -62,6 +62,6 @@ Each card lives in its own file in `cards/` (named after the card's slug, e.g. `
   - [Der Held](cards/der-held.md)
 ```
 
-A card file starts with the title as `## Title`, followed by the front text (essence) and the sections `### Funktion`, `### Anwendung`, `### Beispiele`, `### Vorsicht`, `### Passt zu`, `### Quellen` and `### Bild`. Empty sections can be omitted. Write each paragraph on a single line; list items (`- `) are used for examples, related cards and sources. `Passt zu` entries link to other card files; `Bild` holds the image prompt as alt text: `![prompt](../images/slug.png)`.
+A card file starts with the title as `## Title`, followed by the front text (essence) and the sections `### Funktion`, `### Anwendung`, `### Beispiele`, `### Vorsicht`, `### Passt zu`, `### Quellen` and `### Bild`. Empty sections can be omitted. Write each paragraph on a single line; list items (`- `) are used for examples, related cards and sources. `Passt zu` entries link to other card files; `Bild` holds the image prompt as alt text: `![prompt](../artworks/slug.png)`.
 
 Category colours are fixed in `app.js` (`CATEGORY_COLORS`). Adding a new category requires adding an entry there.

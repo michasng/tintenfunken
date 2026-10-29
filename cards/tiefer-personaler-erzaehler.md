@@ -28,4 +28,4 @@ Deep POV mit einer unsympathischen oder uninteressanten Figur kann sehr ermüden
 
 ### Bild
 
-![an extreme close-up of an eye with a whole world in its iris](../images/tiefer-personaler-erzaehler.png)
+![an extreme close-up of an eye with a whole world in its iris](../artworks/tiefer-personaler-erzaehler.png)

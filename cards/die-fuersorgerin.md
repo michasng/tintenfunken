@@ -31,4 +31,4 @@ Eine Fürsorgerin ohne eigene Bedürfnisse und Grenzen wird zum Klischee der sel
 
 ### Bild
 
-![two sheltering hands curved around a small candle flame in the wind](../images/die-fuersorgerin.png)
+![two sheltering hands curved around a small candle flame in the wind](../artworks/die-fuersorgerin.png)

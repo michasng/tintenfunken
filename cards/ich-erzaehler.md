@@ -27,4 +27,4 @@ Der Ich-Erzähler kann keine Szenen glaubwürdig beschreiben, bei denen er nicht
 
 ### Bild
 
-![a view through a keyhole](../images/ich-erzaehler.png)
+![a view through a keyhole](../artworks/ich-erzaehler.png)

@@ -26,4 +26,4 @@ Zu direkte Allegorie reduziert Figuren zu Symbolen ohne eigene Lebendigkeit.
 
 ### Bild
 
-![a flock of sheep seated like a formal political assembly](../images/allegorie.png)
+![a flock of sheep seated like a formal political assembly](../artworks/allegorie.png)

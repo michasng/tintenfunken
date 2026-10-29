@@ -32,4 +32,4 @@ Eine dauerhaft unverstellte Figur ohne Brüche wirkt naiv und unglaubwürdig in 
 
 ### Bild
 
-![a single firefly glowing softly in gentle darkness](../images/die-unschuldige.png)
+![a single firefly glowing softly in gentle darkness](../artworks/die-unschuldige.png)

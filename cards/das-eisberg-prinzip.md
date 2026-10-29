@@ -27,4 +27,4 @@ Welche drei Aspekte meiner Welt kenne ich detailliert, ohne sie je explizit zu e
 
 ### Bild
 
-![an iceberg in cross-section, small tip above, vast body below](../images/das-eisberg-prinzip.png)
+![an iceberg in cross-section, small tip above, vast body below](../artworks/das-eisberg-prinzip.png)

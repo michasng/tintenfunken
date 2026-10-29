@@ -23,4 +23,4 @@ Was will meine POV-Figur in dieser Szene? Wer oder was verhindert es? Kann das E
 
 ### Bild
 
-![a figure before a closed iron door with light glowing beneath it](../images/szenenziel-hindernisse.png)
+![a figure before a closed iron door with light glowing beneath it](../artworks/szenenziel-hindernisse.png)

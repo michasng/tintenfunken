@@ -27,4 +27,4 @@ Zu mechanisch angewandte poetische Gerechtigkeit wirkt naiv. Sie muss aus der Lo
 
 ### Bild
 
-![a balanced scale, one pan glowing with light, the other in darkness](../images/poetische-gerechtigkeit.png)
+![a balanced scale, one pan glowing with light, the other in darkness](../artworks/poetische-gerechtigkeit.png)

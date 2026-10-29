@@ -27,4 +27,4 @@ Eine buchstäblich erfüllte Prophezeiung ohne Ironie oder Wendung ist vorherseh
 
 ### Bild
 
-![an ancient stone tablet with a single glowing carved symbol](../images/die-prophezeiung.png)
+![an ancient stone tablet with a single glowing carved symbol](../artworks/die-prophezeiung.png)

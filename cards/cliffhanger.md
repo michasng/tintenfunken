@@ -27,4 +27,4 @@ Zu viele Cliffhanger ohne Auflösung erzeugen Leser-Frustration statt Spannung.
 
 ### Bild
 
-![a lone figure hanging from a sheer cliff edge over a vast drop](../images/cliffhanger.png)
+![a lone figure hanging from a sheer cliff edge over a vast drop](../artworks/cliffhanger.png)

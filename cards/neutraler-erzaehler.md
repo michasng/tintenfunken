@@ -28,4 +28,4 @@ Konsequenter Verzicht auf Innenperspektive kann emotionale Distanz erzeugen, die
 
 ### Bild
 
-![a rain-streaked window, figures inside with unreadable faces](../images/neutraler-erzaehler.png)
+![a rain-streaked window, figures inside with unreadable faces](../artworks/neutraler-erzaehler.png)

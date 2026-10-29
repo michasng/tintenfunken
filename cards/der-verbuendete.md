@@ -32,4 +32,4 @@ Ein Verbündeter ohne eigene Wünsche und Fehler ist nur ein Werkzeug, keine Fig
 
 ### Bild
 
-![two silhouettes walking side by side along a mountain ridge](../images/der-verbuendete.png)
+![two silhouettes walking side by side along a mountain ridge](../artworks/der-verbuendete.png)

@@ -31,4 +31,4 @@ Ein Liebender ohne eigene Identität jenseits der Beziehung macht Abhängigkeit 
 
 ### Bild
 
-![two glowing embers almost touching, a spark between them](../images/der-liebende.png)
+![two glowing embers almost touching, a spark between them](../artworks/der-liebende.png)

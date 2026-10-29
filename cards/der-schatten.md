@@ -32,4 +32,4 @@ Ein Schatten, der nur böse ist ohne Motivation, erzeugt keine echte thematische
 
 ### Bild
 
-![a figure facing its own dark, distorted mirror reflection](../images/der-schatten.png)
+![a figure facing its own dark, distorted mirror reflection](../artworks/der-schatten.png)

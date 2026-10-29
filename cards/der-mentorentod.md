@@ -28,4 +28,4 @@ Der Tod des Mentors wirkt billig, wenn er kein Echo in der weiteren Handlung hat
 
 ### Bild
 
-![an old staff and worn cloak left on an empty chair by a dying fire](../images/der-mentorentod.png)
+![an old staff and worn cloak left on an empty chair by a dying fire](../artworks/der-mentorentod.png)

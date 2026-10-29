@@ -27,4 +27,4 @@ Welches Hindernis steht am Eingang des nächsten Kapitels meiner Hauptfigur? Ist
 
 ### Bild
 
-![an armored guardian with a spear beneath a great stone gate, bright light beyond](../images/der-schwellenhueter.png)
+![an armored guardian with a spear beneath a great stone gate, bright light beyond](../artworks/der-schwellenhueter.png)

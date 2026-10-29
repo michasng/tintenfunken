@@ -31,4 +31,4 @@ Unbekannte Magie, die unvermittelt ein Problem löst, ist ein klassischer Deus e
 
 ### Bild
 
-![an ornate key sliding into a complex lock, tumblers aligning](../images/sandersons-erstes-gesetz.png)
+![an ornate key sliding into a complex lock, tumblers aligning](../artworks/sandersons-erstes-gesetz.png)

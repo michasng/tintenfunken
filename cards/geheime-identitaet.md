@@ -29,4 +29,4 @@ Eine geheime Identität, die nie ernsthaft gefährdet ist, verliert ihre dramati
 
 ### Bild
 
-![a half-removed mask, one eye hidden, one eye revealed](../images/geheime-identitaet.png)
+![a half-removed mask, one eye hidden, one eye revealed](../artworks/geheime-identitaet.png)

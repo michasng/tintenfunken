@@ -27,4 +27,4 @@ Länger angehaltener Bewusstseinsstrom ist für viele Leser schwer zugänglich. 
 
 ### Bild
 
-![a flowing river made of words, faces and memories dissolving together](../images/bewusstseinsstrom.png)
+![a flowing river made of words, faces and memories dissolving together](../artworks/bewusstseinsstrom.png)

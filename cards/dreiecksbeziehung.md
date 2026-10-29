@@ -28,4 +28,4 @@ Ohne echten inneren Konflikt der wählenden Figur wird das Dreieck zur Dauerhinh
 
 ### Bild
 
-![three candle, all leaning twoard the center one](../images/dreiecksbeziehung.png)
+![three candle, all leaning twoard the center one](../artworks/dreiecksbeziehung.png)

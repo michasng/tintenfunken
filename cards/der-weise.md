@@ -33,4 +33,4 @@ Ein Weiser, der alle Antworten ausspricht, ersetzt die Reise des Helden durch ei
 
 ### Bild
 
-![an old figure seated on a mountaintop beneath a canopy of stars](../images/der-weise.png)
+![an old figure seated on a mountaintop beneath a canopy of stars](../artworks/der-weise.png)

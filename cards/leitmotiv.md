@@ -23,4 +23,4 @@ Welches Bild, welcher Satz oder welches Objekt taucht an den wichtigsten emotion
 
 ### Bild
 
-![the same flower recurring multiple times across a scene](../images/leitmotiv.png)
+![the same flower recurring multiple times across a scene](../artworks/leitmotiv.png)

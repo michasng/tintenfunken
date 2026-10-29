@@ -22,4 +22,4 @@ Was ist in der Gesellschaft meiner Geschichte normal, was tabuisiert? Welche Fig
 
 ### Bild
 
-![a layered cityscape stacking different architectural eras](../images/kultur-gesellschaft.png)
+![a layered cityscape stacking different architectural eras](../artworks/kultur-gesellschaft.png)

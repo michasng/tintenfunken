@@ -28,4 +28,4 @@ Auktorialer Kommentar kann die emotionale Immersion unterbrechen und sollte spar
 
 ### Bild
 
-![a view from high above a tiny city full of small figures](../images/auktorialer-erzaehler.png)
+![a view from high above a tiny city full of small figures](../artworks/auktorialer-erzaehler.png)

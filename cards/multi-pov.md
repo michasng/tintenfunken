@@ -28,4 +28,4 @@ Zu viele POV-Figuren verwässern die emotionale Bindung. Jede Perspektive muss e
 
 ### Bild
 
-![a building facade at night, each lit window showing a different scene](../images/multi-pov.png)
+![a building facade at night, each lit window showing a different scene](../artworks/multi-pov.png)

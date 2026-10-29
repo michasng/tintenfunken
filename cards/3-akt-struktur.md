@@ -32,4 +32,4 @@ Die drei Akte nur als grobe Längen zu sehen statt als dramatische Funktionen f�
 
 ### Bild
 
-![three stone archways in a row—dawn, storm, sunset](../images/3-akt-struktur.png)
+![three stone archways in a row—dawn, storm, sunset](../artworks/3-akt-struktur.png)

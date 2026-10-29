@@ -12,7 +12,7 @@ const PRECACHE_PATHS = [
   'cards.md',
   'manifest.webmanifest',
   'icon.svg',
-  'images/der-held.png',
+  'artworks/der-held.png',
 ];
 const PRECACHE_URLS = PRECACHE_PATHS.map(path => new URL(path, APP_SCOPE).toString());
 const PRECACHE_URL_SET = new Set(PRECACHE_URLS);

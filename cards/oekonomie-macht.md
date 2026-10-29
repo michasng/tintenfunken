@@ -24,4 +24,4 @@ Was wäre, wenn meine Figur kein Geld, keinen Status oder keine Verbündeten hä
 
 ### Bild
 
-![a scale balancing a pile of coins against a crowd of tiny figures](../images/oekonomie-macht.png)
+![a scale balancing a pile of coins against a crowd of tiny figures](../artworks/oekonomie-macht.png)
