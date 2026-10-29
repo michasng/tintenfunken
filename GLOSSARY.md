@@ -76,3 +76,11 @@ How content is arranged on a Visual representation.
 
 **Page layout**:
 How Visual representations are arranged on the A4 sheets for printing.
+
+**Preview** (German: *Vorschau*):
+The view for browsing the Deck one Visual representation at a time, flipping between Front and Back.
+_Avoid_: Viewer, browser
+
+**Print view** (German: *Druck*):
+The view that shows the whole Deck as A4 sheets in the Page layout, ready to print.
+_Avoid_: Print preview, print mode
