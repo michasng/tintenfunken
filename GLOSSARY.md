@@ -34,32 +34,32 @@ _Avoid_: Name, heading
 The illustration of a Card, described by an Artwork prompt.
 
 **Essence**:
-The prose text that summarises the concept; currently the only prose shown on the front.
+The prose text that summarises the Card.
 _Avoid_: Definition, description, front text
 
 **Function** (German: *Funktion*):
-What the concept does in a story.
+What the Card does in a story.
 
 **Application** (German: *Anwendung*):
-How a writer applies the concept to their own writing, often phrased as questions.
+How a writer applies the Card to their own writing, often phrased as questions.
 _Avoid_: Prompt (reserved for Artwork prompt)
 
 **Examples** (German: *Beispiele*):
-Real, existing works, classic or pop-cultural, that illustrate the concept. Never invented.
+Real, existing works, classic or pop-cultural, that illustrate the Card. Never invented.
 
 **Pitfall** (German: *Warnung*):
-A way the concept commonly goes wrong when used.
+A way the Card commonly goes wrong when used.
 _Avoid_: Caveat, Vorsicht
 
 **References** (German: *Passt zu*):
-The Cards whose concepts go together with this one and are often combined with it in a story, within or across Categories, e.g. Der Mentorentod (Trope) references Der Mentor (Archetyp). Stronger than mere relatedness.
+The Cards that go together with this one and are often combined with it in a story, within or across Categories, e.g. Der Mentorentod (Trope) references Der Mentor (Archetyp). Stronger than mere relatedness.
 _Avoid_: Pairing, related card, link, tag
 
 **Sources** (German: *Quellen*):
-Where the concept comes from.
+Where the Card comes from.
 
 **Artwork prompt**:
-The text used to generate a Card's Artwork.
+The concise text used to generate a Card's Artwork. The prompt describes a low fidelity representation, naming no specific colors.
 _Avoid_: Image prompt
 
 ## Presentation
