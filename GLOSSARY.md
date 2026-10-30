@@ -77,6 +77,10 @@ How content is arranged on a Visual representation.
 **Page layout**:
 How Visual representations are arranged on the A4 sheets for printing.
 
+**Overview** (German: _Übersicht_):
+The view that shows the whole Deck at a glance, each Card as a miniature of its Front in Index order; selecting one opens it in the Preview.
+_Avoid_: Gallery, grid, index (Index is the `cards.md` file)
+
 **Preview** (German: _Vorschau_):
 The view for browsing the Deck one Visual representation at a time, flipping between Front and Back.
 _Avoid_: Viewer, browser

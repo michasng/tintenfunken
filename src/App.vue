@@ -39,6 +39,7 @@ const flipEdgeOptions = [
       Tintenfunken
     </span>
     <NavTabGroup label="Ansicht">
+      <NavTab :to="toRouteLocation(AppView.Overview, FIRST_CARD_NUMBER)">Übersicht</NavTab>
       <NavTab :to="toRouteLocation(AppView.Preview, FIRST_CARD_NUMBER)">Vorschau</NavTab>
       <NavTab :to="toRouteLocation(AppView.Print, FIRST_CARD_NUMBER)">Druck</NavTab>
     </NavTabGroup>

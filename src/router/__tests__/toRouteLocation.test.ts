@@ -9,6 +9,7 @@ const resolveUrl = (view: AppView, cardNumber: number) => {
     routes: [
       { path: '/', name: AppView.Preview, component: {} },
       { path: '/print', name: AppView.Print, component: {} },
+      { path: '/overview', name: AppView.Overview, component: {} },
     ],
   })
   return router.resolve(toRouteLocation(view, cardNumber)).fullPath
@@ -30,6 +31,12 @@ describe('toRouteLocation', () => {
   describe('given the print view', () => {
     it('points to the print path without a card', () => {
       expect(resolveUrl(AppView.Print, 12)).toBe('/print')
+    })
+  })
+
+  describe('given the overview', () => {
+    it('points to the overview path without a card', () => {
+      expect(resolveUrl(AppView.Overview, 12)).toBe('/overview')
     })
   })
 })
