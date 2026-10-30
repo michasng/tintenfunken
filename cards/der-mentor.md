@@ -33,4 +33,4 @@ Ein Mentor, der zu viel löst, nimmt dem Helden die Handlungsmacht.
 
 ### Bild
 
-![a glowing lantern passed between two hands in darkness](../artworks/der-mentor.png)
+![a glowing lantern passed between two hands in darkness](../public/artworks/der-mentor.png)

@@ -29,4 +29,4 @@ Die Feindschaft darf kein reines Missverständnis sein, das ein Gespräch lösen
 
 ### Bild
 
-![two crossed swords whose blades turn into intertwining rose stems](../artworks/enemies-to-lovers.png)
+![two crossed swords whose blades turn into intertwining rose stems](../public/artworks/enemies-to-lovers.png)

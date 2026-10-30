@@ -27,4 +27,4 @@ Zu viel Subtext wirkt undurchdringlich. Zu direkte, unverblümte Aussagen (»on 
 
 ### Bild
 
-![two coffee cups on a table, a folded note hidden beneath one](../artworks/subtext.png)
+![two coffee cups on a table, a folded note hidden beneath one](../public/artworks/subtext.png)

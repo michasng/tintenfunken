@@ -1,0 +1,100 @@
+# Project Guidelines
+
+Vue 3 + Vite + TypeScript SPA.
+Package manager: **pnpm**.
+
+## Coding Principles
+
+Always consider these principles.
+Write out their names when discussing their trade-offs.
+
+- **You Aren't Gonna Need It (YAGNI)**: Implement only what is required now
+- **Low Coupling**: Define contracts with abstractions
+- **High Cohesion**: Bundle functionality; prefer local over global scope
+- **Separation of Concerns (SoC)**: Separate structure, behavior, and persistence. One entity per file
+- **Single Responsibility (SRP)**: Each function, component, or module has one reason to change. Small components, one job each
+- **Open/Closed (OCP)**: Extend behavior without modifying existing code
+- **Dependency Inversion (DIP)**: Depend on abstractions, not concretions
+- **Interface Segregation (ISP)**: Depend on minimal interfaces
+- **Inversion of Control (IoC)**: Inject dependencies; never call `new` on services
+- **Command-Query Separation (CQS)**: A method either has a side-effect or returns data, but never both; the name indicates which
+- **Composition over Inheritance**: Prefer "has a" over "is a"
+- **Deep Modules**: Hide complexity behind simple interfaces
+- **Self-Documenting Code**: Expressive naming, include units, no abbreviations (e.g. `timeoutSeconds`), avoid comments
+- **Flat Control Flow**: Use early returns to avoid nesting
+
+## Code Style
+
+- Use American English
+- One unit (class or function) per file; names files by their unit, e.g. `doSomething.ts` would contain a function called `doSomething` (and maybe some constants)
+- TypeScript strict; no `any`, no non-null `!` assertions — model types honestly
+- Never suppress type or lint errors
+- No type casts unless there is no better option; if unavoidable, add a short comment explaining why
+- No unsafe casts like `as unknown`
+- Only arrow functions; never the `function` keyword
+- Consider optional vs. nullable parameters
+- Prefer enums over union types
+- Prefer `interface` over `type`
+- Use functional syntax without side-effects for concise notation (e.g. `map`)
+- Avoid `forEach`; use explicit loops instead
+- No magic numbers or strings; extract them to named constants or enums
+- No dead code, commented-out blocks, or leftover `TODO`s
+- Vue 3 `<script setup>` with the Composition API and typed props/emits
+- Naming: PascalCase components, `use`-prefixed composables, `@/` import alias
+- Formatting and lint enforced by oxfmt/oxlint/eslint
+- Prefer reusable primitive components (`src/components/primitives/`, e.g. buttons, cards, chips) over inlining native elements; encapsulate styling in the component, expose configuration via props/slots
+- Non-native Vue components require more than one word in the name; a one-word component name must be postfixed with "Component" (e.g. `CardComponent.vue`). Multi-word names don't need the suffix (e.g. `ProgressBar.vue`)
+- Never use `!important` styles or Tailwind `!...` classes; extend the component's props (e.g. `size`, `tone`, `variant`) instead of overriding its classes from the outside
+- A component styles itself visually; the parent only controls layout (spacing, sizing in context) via props such as `fullWidth`, never by passing classes that fight the component's own look
+- When importing `...Component` files, alias by dropping the `Component` postfix for template use (e.g. `import Button from '@/components/primitives/ButtonComponent.vue'` used as `<Button>`).
+
+## Architecture
+
+- `src/` app code, `src/router/` routing. Keep view/route components thin; extract reusable logic into composables (`useX`)
+- One-way data flow: props down, events up. Avoid shared mutable module state
+- Treat props and store state as read-only
+- Prefer `async`/`await`; always handle loading and error states
+- Surface errors to the user (e.g. `AlertMessage`); never swallow them
+- Semantic HTML, `alt` text, and keyboard support for interactive components
+
+## Security
+
+- Never commit secrets; use environment variables
+- Validate input at boundaries
+
+## Testing
+
+- All logic must be unit tested (`src/**/__tests__`); add or update tests with every behavior change
+- Do not unit test declarations, when the test only duplicates their values
+- One `describe` block at the top per unit under test
+- Nest scenarios with non-technical `given|when <scenario>` describes
+- Follow Arrange–Act–Assert
+- Keep a minimal shared setup
+- Prefer dependency injection over intrusive mocking
+- Don't mock imports; pass simple stubs, fakes or spies directly to the tested code (dependency injection)
+- Never use `await flushPromises()` or `await nextTick()` in tests; await the specific concrete promise the code under test is waiting on, or the specific time being advanced (for example `vi.advanceTimersByTimeAsync(...)`)
+
+## Workflow
+
+- Read a file before editing it; verify assumptions with tests rather than guessing
+- Atomic changes: reduce every task to the smallest change that makes sense and leaves the app runnable
+- Run `pnpm fix` to auto-fix lint and formatting issues before staging
+- Verify every change with `pnpm verify`
+- Keep responses and diffs minimal; skip restating unchanged code
+- Suggest a non-technical commit message
+  - Tiny first line, no commas or bullet points
+  - Optionally a blank line, then more context if it helps
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs live as local markdown files under `.scratch/<feature>/`. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default triage vocabulary (needs-triage, needs-info, ready-for-agent, ready-for-human, wontfix), recorded as `Status:` lines. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: one root `GLOSSARY.md` plus `docs/adr/`. See `docs/agents/domain.md`.

@@ -1,125 +1,29 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tintenfunken</title>
-  <meta name="description" content="Schreibhandwerk-Karten zum Durchblättern, Drucken und Offline-Nutzen.">
-  <meta name="theme-color" content="#1C1628">
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="Tintenfunken">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="artworks/der-held.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <nav class="controls">
-    <span class="brand">Tintenfunken</span>
-    <div class="control-group">
-      <span class="control-label">Ansicht</span>
-      <select id="viewMode">
-        <option value="preview">Vorschau</option>
-        <option value="print">Druck</option>
-      </select>
-    </div>
-    <div class="control-group print-only">
-      <span class="control-label">Duplex</span>
-      <select id="duplexMode">
-        <option value="manual">Manuell</option>
-        <option value="auto">Automatisch</option>
-      </select>
-    </div>
-    <div class="control-group print-only">
-      <span class="control-label">Wendeseite</span>
-      <select id="flipEdge">
-        <option value="long">Lange Kante</option>
-        <option value="short">Kurze Kante</option>
-      </select>
-    </div>
-    <label class="toggle-label">
-      <input type="checkbox" id="showArtworks" checked>
-      <span>Bilder</span>
-    </label>
-    <button id="printButton" class="print-only">Drucken</button>
-  </nav>
-  <main id="sheets" hidden></main>
-
-  <section id="preview" class="preview">
-    <div class="preview-search">
-      <input type="search" class="preview-search-input" placeholder="Karte suchen …" autocomplete="off" aria-label="Karte suchen">
-      <ul class="preview-suggestions" hidden></ul>
-    </div>
-    <div class="preview-stage"></div>
-    <div class="preview-nav">
-      <button type="button" class="preview-previous">Zurück</button>
-      <span class="preview-counter"></span>
-      <button type="button" class="preview-next">Weiter</button>
-    </div>
-    <p class="preview-hint">Karte anklicken zum Wenden</p>
-  </section>
-
-  <template id="card-front-template">
-    <div class="card card-front">
-      <div class="top-band">
-        <span class="category-text" data-field="category"></span>
-        <span class="card-number" data-field="number"></span>
-      </div>
-      <div class="title-area">
-        <h2 class="card-title" data-field="title"></h2>
-        <div class="title-rule"></div>
-      </div>
-      <div class="artwork">
-        <img alt="" data-field="img">
-      </div>
-      <div class="essence-area">
-        <p class="essence-text" data-field="essence"></p>
-      </div>
-    </div>
-  </template>
-
-  <template id="card-back-template">
-    <div class="card card-back">
-      <div class="back-header">
-        <div class="back-category" data-field="category"></div>
-        <div class="back-title" data-field="title"></div>
-      </div>
-      <div class="back-body">
-        <div class="field">
-          <div class="field-label">Funktion</div>
-          <p class="field-text" data-field="function"></p>
-        </div>
-        <div class="rule"></div>
-        <div class="field">
-          <div class="field-label">Anwendung</div>
-          <p class="field-text" data-field="application"></p>
-        </div>
-        <div class="rule"></div>
-        <div class="field">
-          <div class="field-label">Beispiele</div>
-          <p class="field-text examples" data-field="examples"></p>
-        </div>
-        <!-- both nodes share data-optional so they're removed together when pitfall is absent -->
-        <div class="rule" data-optional="pitfall"></div>
-        <div class="pitfall-block" data-optional="pitfall">
-          <p class="pitfall-text" data-field="pitfall"></p>
-        </div>
-      </div>
-      <div class="back-footer">
-        <div class="references-row" data-optional="references">
-          <span class="references-label">Passt&nbsp;zu</span>
-          <div class="references" data-field="references"></div>
-        </div>
-        <p class="sources-text" data-optional="sources" data-field="sources"></p>
-      </div>
-    </div>
-  </template>
-
-  <script src="app.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tintenfunken</title>
+    <meta
+      name="description"
+      content="Schreibhandwerk-Karten zum Durchblättern, Drucken und Offline-Nutzen."
+    />
+    <meta name="theme-color" content="#1C1628" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Tintenfunken" />
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/artworks/der-held.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
 </html>

@@ -24,4 +24,4 @@ Welche spezifische Regel oder Struktur der Gesellschaft meiner Geschichte macht 
 
 ### Bild
 
-![a lone figure facing a towering wall of identical blank faces](../artworks/figur-vs-gesellschaft.png)
+![a lone figure facing a towering wall of identical blank faces](../public/artworks/figur-vs-gesellschaft.png)

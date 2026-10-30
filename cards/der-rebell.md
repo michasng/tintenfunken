@@ -31,4 +31,4 @@ Rebellion ohne persönliche Konsequenz erzeugt keine echte Spannung.
 
 ### Bild
 
-![a single banner raised high above a large crowd](../artworks/der-rebell.png)
+![a single banner raised high above a large crowd](../public/artworks/der-rebell.png)

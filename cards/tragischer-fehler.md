@@ -29,4 +29,4 @@ Was ist die eine Eigenschaft meiner Figur, die sie nicht erkennt oder nicht aufg
 
 ### Bild
 
-![a marble column with a single hairline crack running its full height](../artworks/tragischer-fehler.png)
+![a marble column with a single hairline crack running its full height](../public/artworks/tragischer-fehler.png)

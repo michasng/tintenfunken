@@ -23,4 +23,4 @@ Weiß meine Figur von ihrem Schicksal? Wie verändert dieses Wissen ihr Handeln,
 
 ### Bild
 
-![a figure tangled in glowing threads pulling in every direction, some cut](../artworks/figur-vs-schicksal.png)
+![a figure tangled in glowing threads pulling in every direction, some cut](../public/artworks/figur-vs-schicksal.png)

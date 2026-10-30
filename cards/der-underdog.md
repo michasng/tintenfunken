@@ -27,4 +27,4 @@ Ein Underdog, der ohne Vorbereitung oder Entwicklung gewinnt, enttäuscht. Der S
 
 ### Bild
 
-![a tiny figure casting an enormous heroic shadow on a wall](../artworks/der-underdog.png)
+![a tiny figure casting an enormous heroic shadow on a wall](../public/artworks/der-underdog.png)

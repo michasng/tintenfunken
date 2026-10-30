@@ -25,4 +25,4 @@ Die gesamte Karte ist eine Warnung.
 
 ### Bild
 
-![a parrot speaking to its own reflection](../artworks/exposition-im-dialog.png)
+![a parrot speaking to its own reflection](../public/artworks/exposition-im-dialog.png)

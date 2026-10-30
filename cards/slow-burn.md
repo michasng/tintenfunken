@@ -27,4 +27,4 @@ Ein Slow Burn ohne regelmäßige kleine Eskalationen stagniert und verliert den 
 
 ### Bild
 
-![a candle burned to a stub amid a mountain of wax, still burning](../artworks/slow-burn.png)
+![a candle burned to a stub amid a mountain of wax, still burning](../public/artworks/slow-burn.png)

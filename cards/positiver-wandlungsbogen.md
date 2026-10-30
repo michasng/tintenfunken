@@ -29,4 +29,4 @@ Was glaubt meine Figur zu Beginn fälschlicherweise über sich, andere oder die 
 
 ### Bild
 
-![a butterfly emerging from its cocoon](../artworks/positiver-wandlungsbogen.png)
+![a butterfly emerging from its cocoon](../public/artworks/positiver-wandlungsbogen.png)

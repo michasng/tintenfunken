@@ -32,4 +32,4 @@ Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar. Der Leser investiert
 
 ### Bild
 
-![a lone cloaked figure on a hilltop facing a single bright star, a path of light leading toward it](../artworks/der-held.png)
+![a lone cloaked figure on a hilltop facing a single bright star, a path of light leading toward it](../public/artworks/der-held.png)

@@ -26,4 +26,4 @@ Eine Ruhepause, die zu lang ist, tötet die aufgebaute Spannung.
 
 ### Bild
 
-![a small campfire glowing in deep darkness, two figures resting](../artworks/ruhepause.png)
+![a small campfire glowing in deep darkness, two figures resting](../public/artworks/ruhepause.png)

@@ -27,4 +27,4 @@ Zu viele falsche Fährten wirken billig. Die wahre Lösung muss im Nachhinein lo
 
 ### Bild
 
-![clear footprints leading one way, faint footprints leading the other](../artworks/falsche-faehrte.png)
+![clear footprints leading one way, faint footprints leading the other](../public/artworks/falsche-faehrte.png)

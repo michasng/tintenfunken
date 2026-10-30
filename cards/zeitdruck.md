@@ -27,4 +27,4 @@ Der Zeitdruck verliert seine Kraft, wenn er mehrfach verlängert wird ohne echte
 
 ### Bild
 
-![an hourglass with only a few grains of sand left, mid-fall](../artworks/zeitdruck.png)
+![an hourglass with only a few grains of sand left, mid-fall](../public/artworks/zeitdruck.png)

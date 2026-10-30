@@ -27,4 +27,4 @@ Ohne Zweifel und Versagen wirkt der Auserwählte wie ein unfehlbarer Gott statt 
 
 ### Bild
 
-![a single figure in a dark crowd lit by one column of light](../artworks/der-auserwaehlte.png)
+![a single figure in a dark crowd lit by one column of light](../public/artworks/der-auserwaehlte.png)

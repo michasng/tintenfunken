@@ -28,4 +28,4 @@ Einheitlicher Rhythmus über viele Seiten wirkt einschläfernd. Variation ist da
 
 ### Bild
 
-![sheet music shifting from dense note clusters to sparse long notes](../artworks/prosa-rhythmus.png)
+![sheet music shifting from dense note clusters to sparse long notes](../public/artworks/prosa-rhythmus.png)

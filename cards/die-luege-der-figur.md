@@ -27,4 +27,4 @@ Formuliere die Lüge deiner Figur als konkreten Satz. Wie formt sie jede ihrer E
 
 ### Bild
 
-![a figure with a distorted mirror image](../artworks/die-luege-der-figur.png)
+![a figure with a distorted mirror image](../public/artworks/die-luege-der-figur.png)

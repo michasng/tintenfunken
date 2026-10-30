@@ -34,4 +34,4 @@ Zu sklavische Anwendung erzeugt vorhersehbare Geschichten. Die Reise ist ein Kom
 
 ### Bild
 
-![a glowing circular path winding through changing landscapes back to its start](../artworks/die-heldenreise.png)
+![a glowing circular path winding through changing landscapes back to its start](../public/artworks/die-heldenreise.png)

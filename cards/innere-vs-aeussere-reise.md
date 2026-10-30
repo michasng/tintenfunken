@@ -21,4 +21,4 @@ Wie löst die Auflösung des äußeren Konflikts gleichzeitig die innere Wandlun
 
 ### Bild
 
-![a figure on a road with a second landscape unfolding inside its outline](../artworks/innere-vs-aeussere-reise.png)
+![a figure on a road with a second landscape unfolding inside its outline](../public/artworks/innere-vs-aeussere-reise.png)

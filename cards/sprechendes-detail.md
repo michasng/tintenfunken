@@ -28,4 +28,4 @@ Was als Detail gemeint ist, wird zur langen Beschreibung. Weniger ist mehr.
 
 ### Bild
 
-![a single lit object in darkness—a worn key—everything else invisible](../artworks/sprechendes-detail.png)
+![a single lit object in darkness—a worn key—everything else invisible](../public/artworks/sprechendes-detail.png)

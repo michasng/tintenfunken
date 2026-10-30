@@ -28,4 +28,4 @@ In welchem Moment beginnt meine Protagonistin, die Rüstung abzulegen, die sie s
 
 ### Bild
 
-![a woman waist-deep in dark water, arms reaching up toward breaking light](../artworks/reise-der-heldin.png)
+![a woman waist-deep in dark water, arms reaching up toward breaking light](../public/artworks/reise-der-heldin.png)

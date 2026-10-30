@@ -24,4 +24,4 @@ Welche drei konsistenten Eigenschaften hat mein Schauplatz? Wie verändert er si
 
 ### Bild
 
-![a manor at dusk with two lit upper windows like watchful eyes](../artworks/setting-als-charakter.png)
+![a manor at dusk with two lit upper windows like watchful eyes](../public/artworks/setting-als-charakter.png)

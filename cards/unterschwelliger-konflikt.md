@@ -22,4 +22,4 @@ Was streiten meine Figuren wirklich, wenn sie über das Abendessen, das Wetter o
 
 ### Bild
 
-![two figures politely sharing tea as storm clouds form between them](../artworks/unterschwelliger-konflikt.png)
+![two figures politely sharing tea as storm clouds form between them](../public/artworks/unterschwelliger-konflikt.png)

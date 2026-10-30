@@ -22,4 +22,4 @@ Welche Technologie in meiner Welt verändert grundlegend, was Macht bedeutet? We
 
 ### Bild
 
-![a great clockwork gear with vines growing through its cogs](../artworks/technologische-paradigmen.png)
+![a great clockwork gear with vines growing through its cogs](../public/artworks/technologische-paradigmen.png)

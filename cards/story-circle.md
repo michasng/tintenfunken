@@ -27,4 +27,4 @@ Was bringt meine Figur am Ende jedes Kapitels oder jeder Szene verändert zurüc
 
 ### Bild
 
-![a snake going in a circle, biting its own tail](../artworks/story-circle.png)
+![a snake going in a circle, biting its own tail](../public/artworks/story-circle.png)

@@ -1,2 +1,15 @@
+node_modules
+dist
+dist-ssr
+coverage
+*.local
+*.log
+*.tsbuildinfo
+.eslintcache
+.DS_Store
+.idea
+__screenshots__/
+*.timestamp-*-*.mjs
+
 # Issues and specs from mattpocock skills
 .scratch/

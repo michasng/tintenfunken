@@ -31,4 +31,4 @@ Zu offensichtliches Einführen wichtiger Elemente nimmt dem Twist seinen Effekt.
 
 ### Bild
 
-![an old rifle mounted above a fireplace mantel, dramatically lit](../artworks/tschechows-gewehr.png)
+![an old rifle mounted above a fireplace mantel, dramatically lit](../public/artworks/tschechows-gewehr.png)

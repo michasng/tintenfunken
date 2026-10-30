@@ -28,4 +28,4 @@ Welcher konkrete Moment in dieser Szene verändert die Lage meiner Figur? Ist di
 
 ### Bild
 
-![a coin frozen mid-flip, outcome undetermined](../artworks/wendepunkt-der-szene.png)
+![a coin frozen mid-flip, outcome undetermined](../public/artworks/wendepunkt-der-szene.png)

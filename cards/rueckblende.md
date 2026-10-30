@@ -27,4 +27,4 @@ Zu frühe Rückblenden können die Spannung der Gegenwart brechen, bevor sie auf
 
 ### Bild
 
-![a soft memory glowing inside a bubble within a darker present](../artworks/rueckblende.png)
+![a soft memory glowing inside a bubble within a darker present](../public/artworks/rueckblende.png)

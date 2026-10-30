@@ -27,4 +27,4 @@ Was ist das prägende negative Erlebnis in der Vergangenheit meiner Figur? Wie m
 
 ### Bild
 
-![an old healed scar with a single thorn still embedded](../artworks/die-wunde.png)
+![an old healed scar with a single thorn still embedded](../public/artworks/die-wunde.png)

@@ -26,4 +26,4 @@ Was entscheidet meine Figur am Ende der Sequel-Phase, das die nächste Szene mit
 
 ### Bild
 
-![a runner pausing at a bench to catch their breath](../artworks/scene-sequel.png)
+![a runner pausing at a bench to catch their breath](../public/artworks/scene-sequel.png)

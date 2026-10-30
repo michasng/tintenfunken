@@ -32,4 +32,4 @@ Ein Herrscher ohne persönliche Motivation und innere Logik wird zum flachen Ant
 
 ### Bild
 
-![an ornate crown on a throne, a long shadow across the floor](../artworks/der-herrscher.png)
+![an ornate crown on a throne, a long shadow across the floor](../public/artworks/der-herrscher.png)

@@ -27,4 +27,4 @@ Der Held darf die Weigerung nicht zu lange aufrechterhalten, sonst verliert er S
 
 ### Bild
 
-![a figure hesitating at a half-open door, bright adventure beyond](../artworks/der-widerwillige-held.png)
+![a figure hesitating at a half-open door, bright adventure beyond](../public/artworks/der-widerwillige-held.png)

@@ -26,4 +26,4 @@ Erzwungene Sinneseindrücke, die nicht zur Szene passen, wirken dekorativ statt 
 
 ### Bild
 
-![five objects on a dark surface—candle, cloth, lemon, bell, pine](../artworks/sinneseindruecke.png)
+![five objects on a dark surface—candle, cloth, lemon, bell, pine](../public/artworks/sinneseindruecke.png)

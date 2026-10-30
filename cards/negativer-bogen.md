@@ -23,4 +23,4 @@ An welchem Punkt hat meine Figur die letzte Möglichkeit, sich anders zu entsche
 
 ### Bild
 
-![a figure walking on as its shadow grows monstrous behind it](../artworks/negativer-bogen.png)
+![a figure walking on as its shadow grows monstrous behind it](../public/artworks/negativer-bogen.png)

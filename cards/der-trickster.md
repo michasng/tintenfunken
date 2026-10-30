@@ -32,4 +32,4 @@ Ein Trickster, der nie Konsequenzen trägt, verliert seine dramatische Glaubwür
 
 ### Bild
 
-![a jester's cap on a chessboard of toppled pieces, one king still standing](../artworks/der-trickster.png)
+![a jester's cap on a chessboard of toppled pieces, one king still standing](../public/artworks/der-trickster.png)

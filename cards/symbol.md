@@ -23,4 +23,4 @@ Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Ro
 
 ### Bild
 
-![a broken crown on the ground](../artworks/symbol.png)
+![a broken crown on the ground](../public/artworks/symbol.png)

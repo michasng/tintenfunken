@@ -27,4 +27,4 @@ Zu offensichtliches Foreshadowing nimmt dem Twist den Effekt, zu subtiles bemerk
 
 ### Bild
 
-![a shadow on a wall cast by an object not yet visible](../artworks/vorausdeutung.png)
+![a shadow on a wall cast by an object not yet visible](../public/artworks/vorausdeutung.png)

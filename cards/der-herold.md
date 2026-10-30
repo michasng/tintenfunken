@@ -26,4 +26,4 @@ Wie kündigt sich der erste Bruch in der Alltagswelt meiner Figur an? Durch eine
 
 ### Bild
 
-![a raven in flight carrying a sealed scroll against a stormy sky](../artworks/der-herold.png)
+![a raven in flight carrying a sealed scroll against a stormy sky](../public/artworks/der-herold.png)

@@ -29,4 +29,4 @@ Eine Enthüllung, auf die keine emotionale Reaktion der Figuren folgt, verpufft 
 
 ### Bild
 
-![a heavy curtain parting to reveal blinding light beyond](../artworks/enthuellung.png)
+![a heavy curtain parting to reveal blinding light beyond](../public/artworks/enthuellung.png)

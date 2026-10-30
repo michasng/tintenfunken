@@ -25,4 +25,4 @@ Eine Szene, die drei oder vier Funktionen hat, verliert an Fokus. Zwei Funktione
 
 ### Bild
 
-![a double-exposure image layering two scenes into one](../artworks/doppelfunktion-der-szene.png)
+![a double-exposure image layering two scenes into one](../public/artworks/doppelfunktion-der-szene.png)

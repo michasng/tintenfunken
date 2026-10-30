@@ -32,4 +32,4 @@ Zu viele Gesinnungswechsel ohne innere Logik wirken beliebig statt spannend.
 
 ### Bild
 
-![a theatrical mask held up, a different face visible behind it](../artworks/der-gestaltwandler.png)
+![a theatrical mask held up, a different face visible behind it](../public/artworks/der-gestaltwandler.png)

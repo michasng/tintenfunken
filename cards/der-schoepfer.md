@@ -32,4 +32,4 @@ Der Schöpfer neigt zur Selbstüberschätzung. Ohne persönlichen Preis für unk
 
 ### Bild
 
-![a luminous human form emerging from swirling darkness, sparks rising](../artworks/der-schoepfer.png)
+![a luminous human form emerging from swirling darkness, sparks rising](../public/artworks/der-schoepfer.png)

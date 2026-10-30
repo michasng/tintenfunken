@@ -26,4 +26,4 @@ Lässt sich das Thema meiner Geschichte auf eine Prämisse komprimieren? Welche 
 
 ### Bild
 
-![a balanced scale holding a sun on one side, a moon on the other](../artworks/moralische-praemisse.png)
+![a balanced scale holding a sun on one side, a moon on the other](../public/artworks/moralische-praemisse.png)

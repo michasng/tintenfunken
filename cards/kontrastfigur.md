@@ -23,4 +23,4 @@ Welche Entscheidung hat meine Kontrastfigur getroffen, die mein Protagonist nich
 
 ### Bild
 
-![two identical silhouettes facing opposite ways, one light, one dark](../artworks/kontrastfigur.png)
+![two identical silhouettes facing opposite ways, one light, one dark](../public/artworks/kontrastfigur.png)

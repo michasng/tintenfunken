@@ -28,4 +28,4 @@ Unkontrollierter Tonwechsel (tragisch zu plötzlich komisch) zerstört die emoti
 
 ### Bild
 
-![a conductor's raised baton poised before the downbeat](../artworks/ton.png)
+![a conductor's raised baton poised before the downbeat](../public/artworks/ton.png)

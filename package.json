@@ -1,0 +1,68 @@
+{
+  "name": "tintenfunken",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "run-p type-check validate:deck \"build-only {@}\" --",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "test:unit:run": "vitest run",
+    "verify": "run-s build lint format:check test:unit:run",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --build",
+    "lint": "run-s \"lint:check:*\"",
+    "lint:check:oxlint": "oxlint .",
+    "lint:check:eslint": "eslint . --cache",
+    "lint:fix:oxlint": "oxlint . --fix",
+    "lint:fix:eslint": "eslint . --fix --cache",
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check .",
+    "fix": "run-s \"lint:fix:*\" format",
+    "validate:deck": "tsx --tsconfig tsconfig.node.json scripts/validateDeck.ts",
+    "generate:artworks": "tsx --tsconfig tsconfig.node.json scripts/generateArtworks.ts",
+    "prepare": "simple-git-hooks"
+  },
+  "dependencies": {
+    "vue": "^3.5.43",
+    "vue-router": "^5.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@tsconfig/node24": "^24.0.5",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^26.6.3",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "@vitest/eslint-plugin": "^1.6.27",
+    "@vue/eslint-config-typescript": "^14.9.0",
+    "@vue/test-utils": "^2.5.1",
+    "@vue/tsconfig": "^0.9.1",
+    "eslint": "^10.11.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-oxlint": "~1.86.0",
+    "eslint-plugin-vue": "~10.11.1",
+    "jiti": "^2.7.0",
+    "jsdom": "^30.1.1",
+    "npm-run-all2": "^9.0.3",
+    "oxfmt": "^0.71.0",
+    "oxlint": "~1.86.0",
+    "simple-git-hooks": "^2.14.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.21.0",
+    "typescript": "~6.0.3",
+    "vite": "^8.3.2",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.3",
+    "vue-eslint-parser": "^10.4.1",
+    "vue-tsc": "^3.3.11",
+    "workbox-build": "^7.4.1",
+    "workbox-window": "^7.4.1"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm verify"
+  },
+  "engines": {
+    "node": "^22.18.0 || >=24.12.0"
+  }
+}

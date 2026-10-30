@@ -31,4 +31,4 @@ Für jedes neue Buch ein neues Magiesystem einzuführen dehnt die Welt, ohne sie
 
 ### Bild
 
-![an ancient tree with deep roots and one small new branch](../artworks/sandersons-drittes-gesetz.png)
+![an ancient tree with deep roots and one small new branch](../public/artworks/sandersons-drittes-gesetz.png)

@@ -4,7 +4,7 @@ A print-ready deck of writing-craft cards for authors. Content is German; code a
 
 ## Language
 
-**Card** (German: *Karte*):
+**Card** (German: _Karte_):
 One writing-craft concept a writer can apply, whatever its Category. A Card is the concept, not its printed or on-screen form; see Visual representation.
 _Avoid_: Item, entry, concept
 
@@ -37,25 +37,25 @@ The illustration of a Card, described by an Artwork prompt.
 The prose text that summarises the Card.
 _Avoid_: Definition, description, front text
 
-**Function** (German: *Funktion*):
+**Function** (German: _Funktion_):
 What the Card does in a story.
 
-**Application** (German: *Anwendung*):
+**Application** (German: _Anwendung_):
 How a writer applies the Card to their own writing, often phrased as questions.
 _Avoid_: Prompt (reserved for Artwork prompt)
 
-**Examples** (German: *Beispiele*):
+**Examples** (German: _Beispiele_):
 Real, existing works, classic or pop-cultural, that illustrate the Card. Never invented.
 
-**Pitfall** (German: *Warnung*):
+**Pitfall** (German: _Warnung_):
 A way the Card commonly goes wrong when used.
 _Avoid_: Caveat, Vorsicht
 
-**References** (German: *Passt zu*):
+**References** (German: _Passt zu_):
 The Cards that go together with this one and are often combined with it in a story, within or across Categories, e.g. Der Mentorentod (Trope) references Der Mentor (Archetyp). Stronger than mere relatedness.
 _Avoid_: Pairing, related card, link, tag
 
-**Sources** (German: *Quellen*):
+**Sources** (German: _Quellen_):
 Where the Card comes from.
 
 **Artwork prompt**:
@@ -77,10 +77,10 @@ How content is arranged on a Visual representation.
 **Page layout**:
 How Visual representations are arranged on the A4 sheets for printing.
 
-**Preview** (German: *Vorschau*):
+**Preview** (German: _Vorschau_):
 The view for browsing the Deck one Visual representation at a time, flipping between Front and Back.
 _Avoid_: Viewer, browser
 
-**Print view** (German: *Druck*):
+**Print view** (German: _Druck_):
 The view that shows the whole Deck as A4 sheets in the Page layout, ready to print.
 _Avoid_: Print preview, print mode

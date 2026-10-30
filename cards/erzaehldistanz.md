@@ -28,4 +28,4 @@ Unkontrolliertes Wechseln der Distanz innerhalb einer Szene (»Head-Hopping«) v
 
 ### Bild
 
-![a telescope showing a scene both in close-up and in wide view](../artworks/erzaehldistanz.png)
+![a telescope showing a scene both in close-up and in wide view](../public/artworks/erzaehldistanz.png)

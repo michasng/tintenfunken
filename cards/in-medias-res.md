@@ -27,4 +27,4 @@ Zu wenig Orientierung zu Beginn kann den Leser verwirren statt fesseln.
 
 ### Bild
 
-![a figure frozen mid-leap between two rooftops above a dark city](../artworks/in-medias-res.png)
+![a figure frozen mid-leap between two rooftops above a dark city](../public/artworks/in-medias-res.png)

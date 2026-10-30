@@ -27,4 +27,4 @@ Zu viele oder klischeehafte Action Beats nerven statt zu charakterisieren.
 
 ### Bild
 
-![a coffee cup settling onto a table mid-motion, liquid rippling](../artworks/action-beat.png)
+![a coffee cup settling onto a table mid-motion, liquid rippling](../public/artworks/action-beat.png)

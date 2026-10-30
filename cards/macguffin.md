@@ -31,4 +31,4 @@ Wenn der MacGuffin zu wichtig wird und erklärt werden muss, verliert er seine F
 
 ### Bild
 
-![an ornate locked box with bright light leaking from its seams](../artworks/macguffin.png)
+![an ornate locked box with bright light leaking from its seams](../public/artworks/macguffin.png)

@@ -28,4 +28,4 @@ Ein Twist, der sich nicht aus dem vorherigen Material ableiten lässt, fühlt si
 
 ### Bild
 
-![a mirror reflecting a room completely different from the one before it](../artworks/der-twist.png)
+![a mirror reflecting a room completely different from the one before it](../public/artworks/der-twist.png)

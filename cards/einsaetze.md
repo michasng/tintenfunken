@@ -28,4 +28,4 @@ Einsätze, die sich im Verlauf der Geschichte nicht steigern, verlieren ihre Wir
 
 ### Bild
 
-![a tall stack of poker chips on a table edge, one starting to topple](../artworks/einsaetze.png)
+![a tall stack of poker chips on a table edge, one starting to topple](../public/artworks/einsaetze.png)

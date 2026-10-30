@@ -1,0 +1,43 @@
+@import 'tailwindcss' source(none);
+@source '..';
+
+@theme {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', serif;
+
+  --color-page: #14101e;
+  --color-panel: #1c1628;
+  --color-panel-border: #2a2040;
+  --color-control: #2a2040;
+  --color-control-border: #3a304c;
+  --color-text: #ddd8cc;
+  --color-text-strong: #ede4d8;
+  --color-muted: #777;
+  --color-brand: #8c1a6a;
+  --color-brand-hover: #a82080;
+}
+
+@layer base {
+  html {
+    line-height: normal;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background: var(--color-page);
+    color: var(--color-text);
+  }
+}
+
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+@media print {
+  body {
+    background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
