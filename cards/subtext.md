@@ -8,7 +8,7 @@ Macht Dialog schichtreich und glaubwürdig, weil echte Menschen selten direkt au
 
 ### Anwendung
 
-Was will jede Figur in diesem Dialog wirklich, und was sagt sie stattdessen? Sind diese zwei Dinge wirklich verschieden?
+Was will jede Figur in diesem Dialog wirklich, und was sagt sie stattdessen?
 
 ### Beispiele
 
@@ -24,6 +24,7 @@ Zu viel Subtext wirkt undurchdringlich. Zu direkte, unverblümte Aussagen (»on 
 
 - [Unterschwelliger Konflikt](unterschwelliger-konflikt.md)
 - [Das Ungesagte](das-ungesagte.md)
+- [Show, don't tell](show-don-t-tell.md)
 
 ### Bild
 

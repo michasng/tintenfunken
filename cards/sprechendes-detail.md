@@ -18,7 +18,7 @@ Welches eine Detail in dieser Beschreibung trägt die gesamte emotionale oder ch
 
 ### Warnung
 
-Was als Detail gemeint ist, wird zur langen Beschreibung. Weniger ist mehr.
+Wird das Detail ausgeschmückt oder erklärt, verliert es seine Wirkung, weil es selbst zur Beschreibung wird.
 
 ### Passt zu
 

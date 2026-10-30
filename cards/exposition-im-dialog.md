@@ -1,22 +1,23 @@
 ## Exposition im Dialog
 
-Der Versuch, Hintergrundinformation durch unnatürliche Dialoge zu vermitteln, bei denen Figuren Dinge sagen, die beide bereits wissen (»As you know, Bob...«).
+Hintergrundinformationen werden im Gespräch zwischen Figuren vermittelt, getragen von einem echten Anlass: Unwissen, Konflikt oder einem Interesse der Figuren.
 
 ### Funktion
 
-Dieser Mechanismus sollte vermieden werden. Er entlarvt den Autor hinter der Fiktion und lässt Figuren wie Informationsbroschüren klingen.
+Vermittelt Wissen, ohne die Handlung anzuhalten, und charakterisiert die Figuren durch die Art, wie sie Informationen teilen oder zurückhalten.
 
 ### Anwendung
 
-Wer braucht in dieser Szene wirklich eine Information, und welche Figur weiß sie noch nicht? Nur dann darf erklärt werden.
+Wer braucht die Information und warum wird sie ausgesprochen? Lässt sie sich in einen Streit, ein Verhör oder die Frage eines Neulings verpacken?
 
 ### Beispiele
 
-- »Wie du weißt, Bruder, ist unser Vater seit zwanzig Jahren König...« – Stilmittel des schlechten Expositions-Dialogs
+- Morpheus erklärt Neo, was die Matrix ist (The Matrix)
+- Quints Erzählung vom Untergang der USS Indianapolis (Jaws)
 
 ### Warnung
 
-Die gesamte Karte ist eine Warnung.
+Figuren, die einander erzählen, was beide längst wissen (»As you know, Bob …«), wirken unnatürlich.
 
 ### Passt zu
 

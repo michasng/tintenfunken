@@ -8,11 +8,13 @@ Beats sind die Atome des Dramas. Eine Szene ist eine Folge von Beats. Wer Beats 
 
 ### Anwendung
 
-Verlangsame eine Szene, indem du mehr Beats einfügst. Beschleunige sie, indem du Beats zusammenfasst oder weglässt.
+Verändert jeder Beat dieser Szene etwas, oder wiederholt er nur einen vorherigen? Kurze, schnell wechselnde Beats erzeugen Tempo; ein einzelner, ausgedehnter Beat erzeugt Anspannung.
 
 ### Beispiele
 
-- Schnelle Dialoge in Screwball-Komödien vs. schweigende Gegenüberstellungen in psychologischen Dramen
+- Die rasanten Wortwechsel in His Girl Friday (Howard Hawks)
+- das minutenlange Duell am Ende von The Good, the Bad and the Ugly (Sergio Leone)
+- McKees Beat-Analyse einer Szene aus Casablanca (Story)
 
 ### Passt zu
 

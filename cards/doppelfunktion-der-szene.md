@@ -12,11 +12,12 @@ Welche zweite Funktion kann ich meiner aktuellen Infoszene geben, damit sie glei
 
 ### Beispiele
 
-- Das Familienfrühstück in American Beauty (Familienkonflikt + Charakterisierung + Worldbuilding gleichzeitig)
+- Die Hochzeit zu Beginn von The Godfather führt die Familie ein und zeigt Vitos Macht
+- der Ball in Meryton bringt den Plot in Gang und enthüllt Darcys Stolz (Pride and Prejudice)
 
 ### Warnung
 
-Eine Szene, die drei oder vier Funktionen hat, verliert an Fokus. Zwei Funktionen sind optimal.
+Eine Szene, die zu viele Funktionen erfüllt, verliert ihren Fokus. Eine Funktion sollte klar im Vordergrund stehen.
 
 ### Passt zu
 

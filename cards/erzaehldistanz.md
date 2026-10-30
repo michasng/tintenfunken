@@ -1,6 +1,6 @@
 ## Erzähldistanz
 
-Das Spektrum zwischen maximaler Nähe (Figur und Leser teilen ein Bewusstsein) und maximaler Distanz (allwissender Überblick, keine emotionale Immersion). Jede Erzählperspektive besetzt eine Position auf diesem Spektrum.
+Das Spektrum zwischen maximaler Nähe (Figur und Erzähler teilen ein Bewusstsein) und maximaler Distanz (allwissender Überblick, keine emotionale Immersion). Jede Erzählperspektive besetzt eine Position auf diesem Spektrum.
 
 ### Funktion
 

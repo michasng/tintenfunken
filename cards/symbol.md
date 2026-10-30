@@ -8,7 +8,7 @@ Verdichtet komplexe thematische Aussagen zu konkreten, emotional aufgeladenen Bi
 
 ### Anwendung
 
-Welches Objekt in meiner Geschichte kann ich so aufbauen, dass es am Ende des Romans mehr bedeutet als am Anfang?
+Welches Objekt kann ich so aufbauen, dass es am Ende der Geschichte mehr bedeutet als am Anfang?
 
 ### Beispiele
 

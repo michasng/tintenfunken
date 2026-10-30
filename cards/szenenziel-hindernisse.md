@@ -4,7 +4,7 @@ Jede Szene braucht ein konkretes Ziel der Hauptfigur und ein echtes Hindernis, d
 
 ### Funktion
 
-Verhindert Szenen ohne dramatischen Zweck und stellt sicher, dass jede Seite Spannung trägt.
+Verhindert Szenen ohne dramatischen Zweck und stellt sicher, dass jede Szene Spannung trägt.
 
 ### Anwendung
 

@@ -8,7 +8,7 @@ Markiert narrative Übergänge, erhöht die Einsätze vor Schlüsselmomenten und
 
 ### Anwendung
 
-Welches Hindernis steht am Eingang des nächsten Kapitels meiner Hauptfigur? Ist es eine Figur, eine Prüfung oder eine innere Hemmung?
+Was bewacht die nächste Schwelle meiner Hauptfigur? Ist es eine Figur, eine Prüfung oder eine innere Hemmung?
 
 ### Beispiele
 

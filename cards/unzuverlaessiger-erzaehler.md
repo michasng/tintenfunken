@@ -22,6 +22,7 @@ Der unzuverlässige Erzähler funktioniert nur, wenn die Unzuverlässigkeit rüc
 
 ### Passt zu
 
+- [Ich-Erzähler](ich-erzaehler.md)
 - [Der Twist](der-twist.md)
 - [Falsche Fährte (Red Herring)](falsche-faehrte.md)
 

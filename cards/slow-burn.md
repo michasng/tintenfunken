@@ -8,7 +8,7 @@ Bindet den Leser stark, weil er lange auf die Auflösung wartet. Besonders wirks
 
 ### Anwendung
 
-Was ist die kleinste Eskalation, die ich pro Kapitel einbauen kann, damit mein Slow Burn voranschreitet ohne seinen Reiz zu verlieren?
+Welcher kleine Schritt treibt die Spannung in dieser Szene voran, ohne sie schon zu entladen?
 
 ### Beispiele
 

@@ -1,6 +1,6 @@
 ## Enthüllung
 
-Der gezielte Moment, in dem eine zurückgehaltene Information ans Licht kommt und die Bedeutung einer Szene oder Figur neu definiert. Kleiner und lokaler als ein Twist, der die gesamte Geschichte neubewertet.
+Der Moment, in dem eine bewusst zurückgehaltene Information ans Licht kommt und die Bedeutung einer Szene oder Figur neu definiert. Kleiner und lokaler als ein Twist, der die gesamte Geschichte neubewertet.
 
 ### Funktion
 

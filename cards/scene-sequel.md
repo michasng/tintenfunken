@@ -1,6 +1,6 @@
 ## Scene & Sequel
 
-Jede dramatische Szene (Ziel → Konflikt → Desaster) folgt eine Reflexionsphase (Reaktion → Dilemma → Entscheidung), bevor die nächste Szene beginnt.
+Auf jede Szene (Scene) aus Ziel, Konflikt und Desaster folgt eine Reaktionsphase (Sequel) aus Gefühl, Dilemma und Entscheidung, bevor die nächste Szene beginnt.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Gibt Lesern Zeit zur emotionalen Verarbeitung und verankert jede Szene in der in
 
 ### Anwendung
 
-Was entscheidet meine Figur am Ende der Sequel-Phase, das die nächste Szene mit einem neuen, konkreten Ziel startet?
+Was entscheidet meine Figur am Ende der Reaktionsphase, das die nächste Szene mit einem neuen, konkreten Ziel startet?
 
 ### Beispiele
 

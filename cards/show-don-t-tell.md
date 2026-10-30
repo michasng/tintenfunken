@@ -23,6 +23,7 @@ Welche Eigenschaft, Emotion oder Bedeutung erkläre ich noch direkt, obwohl ich 
 
 - [Sprechendes Detail](sprechendes-detail.md)
 - [Action Beat](action-beat.md)
+- [Subtext](subtext.md)
 - [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
 
 ### Bild

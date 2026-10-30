@@ -17,7 +17,7 @@ Welche Eigenschaft meines bestehenden Systems habe ich noch nicht vollständig a
 
 ### Warnung
 
-Für jedes neue Buch ein neues Magiesystem einzuführen dehnt die Welt, ohne sie zu vertiefen.
+Ein System, das immer weiter ausgebaut wird, bis es jedes Problem lösen kann, verliert seine Grenzen und damit seine Spannung.
 
 ### Passt zu
 

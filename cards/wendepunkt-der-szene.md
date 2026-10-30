@@ -1,6 +1,6 @@
 ## Wendepunkt der Szene
 
-Der Moment in einer Szene, in dem sich der Wertzustand für die Hauptfigur verändert: von gut zu schlecht, von schlecht zu schlechter, von unsicher zu klar.
+Der Moment in einer Szene, in dem sich das, was für die Figur auf dem Spiel steht, spürbar verändert: von Hoffnung zu Verzweiflung, von Sicherheit zu Gefahr, von schlimm zu noch schlimmer.
 
 ### Funktion
 
@@ -8,7 +8,7 @@ Definiert die dramatische Funktion der Szene. Ohne Turn ist die Szene kein Drama
 
 ### Anwendung
 
-Welcher konkrete Moment in dieser Szene verändert die Lage meiner Figur? Ist diese Veränderung überraschend genug, um die Seite lohnenswert zu machen?
+Welcher konkrete Moment in dieser Szene verändert die Lage meiner Figur? Ist diese Veränderung überraschend genug, um die Szene lohnenswert zu machen?
 
 ### Beispiele
 
