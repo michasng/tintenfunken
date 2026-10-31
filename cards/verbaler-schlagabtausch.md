@@ -25,6 +25,7 @@ Banter, der Plot-relevante Szenen ersetzt statt ergänzt, verlangsamt das Pacing
 
 - [Ruhepause](ruhepause.md)
 - [Figur vs. Figur](figur-vs-figur.md)
+- [Figurenstimme](figurenstimme.md)
 
 ### Bild
 

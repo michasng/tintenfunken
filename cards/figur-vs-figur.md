@@ -20,6 +20,7 @@ Was wollen meine Figuren genau, das sich gegenseitig ausschließt? Welche persö
 
 - [Der Gestaltwandler](der-gestaltwandler.md)
 - [Enemies to Lovers](enemies-to-lovers.md)
+- [Der Underdog](der-underdog.md)
 
 ### Bild
 

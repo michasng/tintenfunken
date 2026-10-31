@@ -20,6 +20,7 @@ An welchem Punkt hat meine Figur die letzte Möglichkeit, sich anders zu entsche
 
 - [Tragischer Fehler](tragischer-fehler.md)
 - [Figur vs. sich selbst](figur-vs-sich-selbst.md)
+- [Freytags Pyramide](freytags-pyramide.md)
 
 ### Bild
 

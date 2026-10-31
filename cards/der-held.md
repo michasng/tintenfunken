@@ -24,6 +24,7 @@ Ein Held ohne echte Fehler oder Schwächen bleibt unnahbar. Der Leser investiert
 
 - [Die Wunde](die-wunde.md)
 - [Wunsch vs. Bedürfnis](wunsch-vs-beduerfnis.md)
+- [Der Schwellenhüter](der-schwellenhueter.md)
 
 ### Quellen
 

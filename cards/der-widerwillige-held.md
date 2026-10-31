@@ -24,6 +24,7 @@ Der Held darf die Weigerung nicht zu lange aufrechterhalten, sonst verliert er S
 
 - [Die Heldenreise](die-heldenreise.md)
 - [Wunsch vs. Bedürfnis](wunsch-vs-beduerfnis.md)
+- [Der Herold](der-herold.md)
 
 ### Bild
 

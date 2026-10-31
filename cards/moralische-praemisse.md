@@ -19,6 +19,7 @@ Lässt sich das Thema meiner Geschichte auf eine Prämisse komprimieren? Welche 
 
 - [Thematische Frage](thematische-frage.md)
 - [Gegen-Thema](gegen-thema.md)
+- [Poetische Gerechtigkeit](poetische-gerechtigkeit.md)
 
 ### Quellen
 

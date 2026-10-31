@@ -24,6 +24,7 @@ Dialekt in Schriftform kann Leser ausschließen oder stereotypisieren. Er sollte
 
 - [Subtext](subtext.md)
 - [Tiefer personaler Erzähler (Deep POV)](tiefer-personaler-erzaehler.md)
+- [Verbaler Schlagabtausch (Banter)](verbaler-schlagabtausch.md)
 
 ### Bild
 

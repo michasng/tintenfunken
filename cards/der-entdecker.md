@@ -25,6 +25,7 @@ Ein Entdecker ohne innere Entwicklung ist nur eine Plotmaschine. Das Entdeckte m
 
 - [Die Heldenreise](die-heldenreise.md)
 - [Fish out of Water](fish-out-of-water.md)
+- [MacGuffin](macguffin.md)
 
 ### Quellen
 

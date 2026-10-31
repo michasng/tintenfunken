@@ -20,6 +20,7 @@ Welche drei spezifischen Sinneseindrücke (Klang, Geruch, Licht) kann ich einbau
 
 - [Ton](ton.md)
 - [Setting als Charakter](setting-als-charakter.md)
+- [Sinneseindrücke](sinneseindruecke.md)
 
 ### Bild
 

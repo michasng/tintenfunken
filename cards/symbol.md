@@ -19,6 +19,7 @@ Welches Objekt kann ich so aufbauen, dass es am Ende der Geschichte mehr bedeute
 ### Passt zu
 
 - [Leitmotiv](leitmotiv.md)
+- [Allegorie](allegorie.md)
 - [Vorausdeutung (Foreshadowing)](vorausdeutung.md)
 
 ### Bild

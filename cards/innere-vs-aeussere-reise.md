@@ -18,6 +18,7 @@ Wie löst die Auflösung des äußeren Konflikts gleichzeitig die innere Wandlun
 
 - [Positiver Wandlungsbogen](positiver-wandlungsbogen.md)
 - [Scene & Sequel](scene-sequel.md)
+- [Story Circle](story-circle.md)
 
 ### Bild
 

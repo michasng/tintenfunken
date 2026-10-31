@@ -24,6 +24,7 @@ Zu viele Cliffhanger ohne Auflösung erzeugen Leser-Frustration statt Spannung.
 
 - [Zeitdruck (Ticking Clock)](zeitdruck.md)
 - [Wendepunkt der Szene](wendepunkt-der-szene.md)
+- [Spät rein / früh raus](spaet-rein-frueh-raus.md)
 
 ### Bild
 

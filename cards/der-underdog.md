@@ -24,6 +24,7 @@ Ein Underdog, der ohne Vorbereitung oder Entwicklung gewinnt, enttäuscht. Der S
 
 - [Figur vs. Gesellschaft](figur-vs-gesellschaft.md)
 - [Positiver Wandlungsbogen](positiver-wandlungsbogen.md)
+- [Figur vs. Figur](figur-vs-figur.md)
 
 ### Bild
 

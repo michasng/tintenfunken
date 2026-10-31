@@ -19,6 +19,7 @@ Was glaubt meine Figur in der Mitte der Geschichte gewonnen zu haben? Was stellt
 
 - [3-Akt-Struktur](3-akt-struktur.md)
 - [Save the Cat! Beat Sheet](save-the-cat-beat-sheet.md)
+- [Sieben-Punkte-Struktur](sieben-punkte-struktur.md)
 
 ### Bild
 

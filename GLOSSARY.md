@@ -52,7 +52,7 @@ A way the Card commonly goes wrong when used.
 _Avoid_: Caveat, Vorsicht
 
 **References** (German: _Passt zu_):
-The Cards that go together with this one and are often combined with it in a story, within or across Categories, e.g. Der Mentorentod (Trope) references Der Mentor (Archetyp). Stronger than mere relatedness.
+The Cards that go together with this one and are often combined with it in a story, within or across Categories. Need not be mutual. Every Card is referenced at least once.
 _Avoid_: Pairing, related card, link, tag
 
 **Sources** (German: _Quellen_):

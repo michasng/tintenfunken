@@ -23,6 +23,7 @@ Eine Ruhepause, die zu lang ist, tötet die aufgebaute Spannung.
 
 - [Cliffhanger](cliffhanger.md)
 - [Scene & Sequel](scene-sequel.md)
+- [Der Trickster](der-trickster.md)
 
 ### Bild
 

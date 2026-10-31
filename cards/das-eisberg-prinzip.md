@@ -20,6 +20,7 @@ Welche drei Aspekte meiner Welt kenne ich detailliert, ohne sie je explizit zu e
 
 - [Sprechendes Detail](sprechendes-detail.md)
 - [Soft Magic System](soft-magic-system.md)
+- [Exposition im Dialog](exposition-im-dialog.md)
 
 ### Quellen
 

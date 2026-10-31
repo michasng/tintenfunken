@@ -19,6 +19,7 @@ Wie kündigt sich der erste Bruch in der Alltagswelt meiner Figur an? Durch eine
 
 - [Die Heldenreise](die-heldenreise.md)
 - [In Medias Res](in-medias-res.md)
+- [Der widerwillige Held](der-widerwillige-held.md)
 
 ### Quellen
 

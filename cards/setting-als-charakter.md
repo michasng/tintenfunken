@@ -21,6 +21,7 @@ Welche drei konsistenten Eigenschaften hat mein Schauplatz? Wie verändert er si
 
 - [Naturspiegelung](naturspiegelung.md)
 - [Stimmung](stimmung.md)
+- [Figur vs. Natur](figur-vs-natur.md)
 
 ### Bild
 
