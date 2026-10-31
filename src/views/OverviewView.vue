@@ -10,7 +10,7 @@ const deck = useDeck()
 
 <template>
   <main class="px-6 pt-10 pb-20">
-    <ul class="grid grid-cols-[repeat(auto-fill,35.6mm)] justify-center gap-5">
+    <ul class="grid grid-cols-[repeat(auto-fill,minmax(35.6mm,1fr))] gap-5">
       <li v-for="card in deck" :key="card.number">
         <RouterLink
           :to="toRouteLocation(AppView.Preview, card.number)"
