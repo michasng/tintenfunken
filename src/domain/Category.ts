@@ -14,16 +14,16 @@ export enum Category {
 }
 
 export const CATEGORY_ACCENT_COLORS: Record<Category, string> = {
-  [Category.Archetype]: '#8C1A6A',
-  [Category.Transformation]: '#611b96',
-  [Category.Structure]: '#112a75',
+  [Category.Archetype]: '#8c1a6a',
+  [Category.Transformation]: '#6902aa',
+  [Category.Structure]: '#5e7495',
   [Category.Trope]: '#2153be',
-  [Category.Conflict]: '#4187d3',
-  [Category.Pace]: '#15939c',
+  [Category.Conflict]: '#077cad',
+  [Category.Pace]: '#028389',
   [Category.WorldBuilding]: '#0f5c31',
-  [Category.Atmosphere]: '#3E9E56',
-  [Category.Perspective]: '#e18a2d',
-  [Category.Scene]: '#764b1c',
-  [Category.Dialogue]: '#c25211',
-  [Category.Theme]: '#8f1111',
+  [Category.Atmosphere]: '#038a3e',
+  [Category.Perspective]: '#d28a09',
+  [Category.Scene]: '#815323',
+  [Category.Dialogue]: '#c24b03',
+  [Category.Theme]: '#95002b',
 }

@@ -19,7 +19,7 @@ _Avoid_: Table of contents, manifest
 ## Card content
 
 **Category**:
-An aspect of writing that groups Cards; every Card belongs to exactly one, and it determines the colour of the Card's Visual representation. Currently twelve (Archetyp, Wandlung, Struktur, Trope, Konflikt, Tempo, Weltenbau, Atmosphäre, Perspektive, Szene, Dialog, Thema).
+An aspect of writing that groups Cards; every Card belongs to exactly one, and it determines the Category color of the Card's Visual representation. Currently twelve (Archetyp, Wandlung, Struktur, Trope, Konflikt, Tempo, Weltenbau, Atmosphäre, Perspektive, Szene, Dialog, Thema).
 _Avoid_: Type, tag, genre
 
 **Number**:
@@ -70,6 +70,10 @@ _Avoid_: Physical card, card (when the printed form is meant)
 
 **Front** / **Back**:
 The two sides of a Visual representation.
+
+**Category color**:
+The color that makes a Category recognizable at a glance on a Visual representation. Related Categories share a hue family, unrelated ones differ in hue, no two are confusable, and each stays dark enough for white text yet clearly not black.
+_Avoid_: Accent color, card color, colour
 
 **Card layout**:
 How content is arranged on a Visual representation.
