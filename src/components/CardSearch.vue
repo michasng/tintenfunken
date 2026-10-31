@@ -61,7 +61,7 @@ const keyActions: Record<string, () => void> = {
 </script>
 
 <template>
-  <div class="relative w-[89mm]">
+  <div class="relative w-full max-w-64">
     <input
       v-model="term"
       type="search"
@@ -71,7 +71,7 @@ const keyActions: Record<string, () => void> = {
       aria-label="Karte suchen"
       aria-autocomplete="list"
       :aria-expanded="suggestions.length > 0"
-      class="w-full rounded-[6px] border border-control-border bg-panel px-[14px] py-[9px] text-[0.8rem] text-text placeholder:text-[#6b6280] focus:outline-2 focus:outline-offset-1 focus:outline-brand"
+      class="w-full rounded-[4px] border border-control-border bg-control px-2 py-1 text-[0.7rem] text-text placeholder:text-[#6b6280] focus:outline-2 focus:outline-offset-1 focus:outline-brand"
       @input="updateSuggestions"
       @blur="closeSuggestions"
       @keydown="handleKeydown"

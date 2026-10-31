@@ -18,7 +18,9 @@ const sheetLabel = (kind: PageItemKind, sheetNumber: number, sheetCount: number)
 </script>
 
 <template>
-  <main class="flex flex-col items-center gap-[28px] px-6 pt-10 pb-20 print:gap-0 print:p-0">
+  <main
+    class="flex flex-col items-center-safe gap-[28px] overflow-x-auto px-6 pt-10 pb-20 print:gap-0 print:overflow-visible print:p-0"
+  >
     <template v-for="(item, itemIndex) in pageItems" :key="itemIndex">
       <section
         v-if="item.kind === PageItemKind.Divider"

@@ -9,7 +9,7 @@ const deck = useDeck()
 </script>
 
 <template>
-  <main class="px-6 pt-10 pb-20">
+  <main class="px-4 pt-6 pb-10 sm:px-6 sm:pt-10 sm:pb-20">
     <ul class="grid grid-cols-[repeat(auto-fill,minmax(35.6mm,1fr))] gap-5">
       <li v-for="card in deck" :key="card.number">
         <RouterLink
