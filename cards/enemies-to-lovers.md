@@ -26,6 +26,7 @@ Die Feindschaft darf kein reines Missverständnis sein, das ein Gespräch lösen
 - [Unterschwelliger Konflikt](unterschwelliger-konflikt.md)
 - [Der Liebende](der-liebende.md)
 - [Dreiecksbeziehung](dreiecksbeziehung.md)
+- [Verbaler Schlagabtausch (Banter)](verbaler-schlagabtausch.md)
 
 ### Bild
 

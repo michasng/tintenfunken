@@ -1,6 +1,6 @@
 ## Verbaler Schlagabtausch (Banter)
 
-Schneller, witziger, oft spielerischer Wortaustausch zwischen Figuren, der Beziehung und Chemie zeigt, ohne Plot zu bewegen.
+Schneller, witziger Wortwechsel, in dem Figuren sich gegenseitig herausfordern und so ihre Beziehung und Chemie zeigen, statt sie zu benennen.
 
 ### Funktion
 
@@ -8,24 +8,26 @@ Erzeugt Sympathie, Pausen im Drama und lässt Figurenbeziehungen lebendig und re
 
 ### Anwendung
 
-Wie sprechen meine zwei engsten Verbündeten miteinander, wenn die Welt nicht untergeht? Verrät mir dieser Ton etwas über ihre echte Beziehung?
+Wie sprechen meine Figuren miteinander, wenn gerade nichts auf dem Spiel steht? Was verrät dieser Ton über ihre Beziehung?
 
 ### Beispiele
 
 - Sherlock Holmes & Watson
 - Han Solo & Leia (Star Wars)
-- Benedick & Beatrice (Much Ado About Nothing)
+- Beatrice & Benedick (Much Ado About Nothing)
 - Lorelai & Rory (Gilmore Girls)
 
 ### Warnung
 
-Banter, der Plot-relevante Szenen ersetzt statt ergänzt, verlangsamt das Pacing.
+Banter in Momenten hoher Spannung kann die Fallhöhe untergraben. Wer im Ernst witzelt, signalisiert, dass nichts auf dem Spiel steht.
 
 ### Passt zu
 
 - [Ruhepause](ruhepause.md)
 - [Figur vs. Figur](figur-vs-figur.md)
 - [Figurenstimme](figurenstimme.md)
+- [Enemies to Lovers](enemies-to-lovers.md)
+- [Subtext](subtext.md)
 
 ### Bild
 
