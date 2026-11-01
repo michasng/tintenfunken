@@ -17,7 +17,7 @@ Welche magischen Fähigkeiten, die später das Problem lösen, habe ich dem Lese
 
 ### Warnung
 
-Unbekannte Magie, die unvermittelt ein Problem löst, ist ein klassischer Deus ex Machina.
+Wird die rettende Fähigkeit zu deutlich angekündigt, löst der Leser das Problem vor der Figur und die Auflösung verliert ihre Spannung.
 
 ### Passt zu
 

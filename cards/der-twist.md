@@ -18,7 +18,7 @@ Habe ich ausreichend Hinweise eingebaut, damit sich mein Twist im Rückblick unv
 
 ### Warnung
 
-Ein Twist, der sich nicht aus dem vorherigen Material ableiten lässt, fühlt sich wie Betrug an.
+Ein Twist, der nur überrascht, aber der Geschichte keine neue Bedeutung gibt, ist schnell vergessen.
 
 ### Passt zu
 

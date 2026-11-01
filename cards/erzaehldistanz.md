@@ -8,7 +8,7 @@ Ermöglicht bewusstes Steuern von Empathie, Spannung und Ironie. Größere Dista
 
 ### Anwendung
 
-Welche Distanz braucht diese spezifische Szene? Welcher Wechsel würde die emotionale Wirkung maximieren?
+Welche Distanz braucht diese Szene? Welcher Wechsel würde die emotionale Wirkung maximieren?
 
 ### Beispiele
 
@@ -17,7 +17,7 @@ Welche Distanz braucht diese spezifische Szene? Welcher Wechsel würde die emoti
 
 ### Warnung
 
-Unkontrolliertes Wechseln der Distanz innerhalb einer Szene (»Head-Hopping«) verwirrt den Leser.
+Zu häufiges Wechseln der Distanz innerhalb einer Szene (»Head-Hopping«) verwirrt den Leser.
 
 ### Passt zu
 

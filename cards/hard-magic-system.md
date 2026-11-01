@@ -18,7 +18,7 @@ Was sind die drei wichtigsten Regeln meines Systems? Was ist der größte Preis,
 
 ### Warnung
 
-Ein hartes System, das in der Auflösung plötzlich neue Regeln einführt, zerstört das Vertrauen des Lesers.
+Zu ausführlich erklärte Regeln lassen Magie wie Physikunterricht wirken. Das Staunen geht verloren.
 
 ### Passt zu
 

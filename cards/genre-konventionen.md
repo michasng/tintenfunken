@@ -4,7 +4,7 @@ Jedes Genre bringt implizite Lesererwartungen mit: bestimmte Figuren, Konflikte,
 
 ### Funktion
 
-Wer Konventionen bewusst bedient, erfüllt die Erwartungen des Lesers. Wer sie bewusst bricht, erzeugt Überraschung und Bedeutung. Unbewusstes Brechen erzeugt nur Enttäuschung.
+Wer Konventionen bewusst bedient, erfüllt die Erwartungen des Lesers. Wer sie bewusst bricht, erzeugt Überraschung und Bedeutung.
 
 ### Anwendung
 
@@ -17,7 +17,7 @@ Welche drei Konventionen meines Genres erwartet der Leser? Welche davon breche i
 
 ### Warnung
 
-Konventionen zu ignorieren ohne Bewusstsein für ihre Erwartungskraft hinterlässt enttäuschte Leser.
+Eine Geschichte, die jede Konvention erfüllt, kann vorhersehbar und austauschbar wirken.
 
 ### Passt zu
 

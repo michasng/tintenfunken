@@ -18,7 +18,7 @@ Kurze Sätze beschleunigen, lange verlangsamen; harte Konsonanten schärfen, wei
 
 ### Warnung
 
-Ein einheitlicher Rhythmus über viele Seiten wirkt einschläfernd. Variation ist das Ziel.
+Zu auffällig gestalteter Rhythmus wirkt gekünstelt: Der Leser hört die Technik statt der Geschichte.
 
 ### Passt zu
 
