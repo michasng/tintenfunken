@@ -14,7 +14,7 @@ Was bewacht die n√§chste Schwelle meiner Hauptfigur? Ist es eine Figur, eine Pr√
 
 - Die Agents in The Matrix
 - Cerberus (Griechische Mythologie)
-- Gollum am Eingang zu Mordor
+- The Watcher in the Water vor den Toren Morias (The Lord of the Rings)
 
 ### Passt zu
 
