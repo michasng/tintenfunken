@@ -1,20 +1,20 @@
 ## Enthüllung
 
-Der Moment, in dem eine bewusst zurückgehaltene Information ans Licht kommt und die Bedeutung einer Szene oder Figur neu definiert. Kleiner und lokaler als ein Twist, der die gesamte Geschichte neubewertet.
+Der Moment, in dem eine Figur eine verborgene Wahrheit erkennt und ihre Lage dadurch neu begreift. Oft kennt der Leser die Wahrheit bereits und wartet gespannt auf die Reaktion der Figur.
 
 ### Funktion
 
-Erzeugt einen unmittelbaren Wendepunkt innerhalb einer Szene, liefert Belohnung für aufgebaute Spannung und nutzt Figurenreaktionen als emotionale Klimax.
+Verwandelt Wissen in Drama: Die Erkenntnis zwingt die Figur zu einer Reaktion und belohnt aufgebaute Spannung mit einer emotionalen Klimax.
 
 ### Anwendung
 
-Was weiß der Leser oder eine Figur in diesem Moment noch nicht? Welche Emotion soll die Enthüllung auslösen: Schock, Erleichterung, Trauer oder Erkenntnis?
+Wer erfährt die Wahrheit, und weiß der Leser sie schon? Wann, vor wem und auf welchem Weg kommt sie ans Licht, und wie verändert sie das Handeln der Figur?
 
 ### Beispiele
 
-- Snapes wahre Loyalität (Harry Potter)
-- das Tagebuch in Rebecca (Du Maurier)
-- jede Aufklärungsszene im Krimi
+- Ödipus erkennt seine Herkunft (König Ödipus, Sophokles)
+- Hank findet die Widmung in Walts Buch (Breaking Bad)
+- Elizabeth liest Darcys Brief (Stolz und Vorurteil, Austen)
 
 ### Warnung
 

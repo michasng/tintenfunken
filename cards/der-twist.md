@@ -1,6 +1,6 @@
 ## Der Twist
 
-Eine unerwartete Enthüllung, die das bisher Bekannte in neuem Licht erscheinen lässt und die Bedeutung der Geschichte grundlegend verändert.
+Eine Wendung, die den Leser überrascht, das bisher Bekannte in neuem Licht erscheinen lässt und die Bedeutung der Geschichte grundlegend verändert.
 
 ### Funktion
 
@@ -22,8 +22,8 @@ Ein Twist, der nur überrascht, aber der Geschichte keine neue Bedeutung gibt, i
 
 ### Passt zu
 
+- [Vorausdeutung (Foreshadowing)](vorausdeutung.md)
 - [Falsche Fährte (Red Herring)](falsche-faehrte.md)
-- [Tschechows Gewehr](tschechows-gewehr.md)
 - [Enthüllung](enthuellung.md)
 - [Kishōtenketsu](kishotenketsu.md)
 
