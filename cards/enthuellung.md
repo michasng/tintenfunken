@@ -12,9 +12,9 @@ Wer erfährt die Wahrheit, und weiß der Leser sie schon? Wann, vor wem und auf 
 
 ### Beispiele
 
-- Ödipus erkennt seine Herkunft (König Ödipus, Sophokles)
+- Oedipus erkennt seine Herkunft (Oedipus Rex, Sophocles)
 - Hank findet die Widmung in Walts Buch (Breaking Bad)
-- Elizabeth liest Darcys Brief (Stolz und Vorurteil, Austen)
+- Elizabeth liest Darcys Brief (Pride and Prejudice, Austen)
 
 ### Warnung
 

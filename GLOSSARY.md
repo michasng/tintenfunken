@@ -45,7 +45,7 @@ How a writer applies the Card to their own writing, often phrased as questions.
 _Avoid_: Prompt (reserved for Artwork prompt)
 
 **Examples** (German: _Beispiele_):
-Real, existing works, classic or pop-cultural, that illustrate the Card. Never invented.
+Real, existing works, classic or pop-cultural, that illustrate the Card. Never invented. Works and characters are named by their original title or name, not a German translation.
 
 **Pitfall** (German: _Warnung_):
 A way the Card commonly goes wrong when used.
